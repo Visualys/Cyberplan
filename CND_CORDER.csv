@@ -1225,11 +1225,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1175988/8000;P1.P1.P1;Procurement (PO not Confirmed);;2020-02-13;C25. Bazin, Sandrine;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;OUT Q3;E.T.O
 1175988/9010;P1.P1.P1;Procurement (PO not Confirmed);;2020-06-03;C26. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;E.T.O
 1175988/10000;P1.P1.P1;Available in Stock;;2020-01-17;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
-1175988/11000;P1.P1.P1;Procurement (PO Confirmed);;2020-02-13;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
+1175988/11000;P1.P1.P1;Production Planned;;2020-02-13;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
 1175988/12000;P1.P1.P1;Available in Stock;;2020-01-17;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
-1175988/13000;P1.P1.P1;Procurement (Transit);;2020-02-13;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
+1175988/13000;P1.P1.P1;Production Planned;;2020-02-13;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
 1175988/14000;P1.P1.P1;Available in Stock;;2020-01-17;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
-1175988/15000;P1.P1.P1;Procurement (Transit);;2020-02-13;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
+1175988/15000;P1.P1.P1;Production Planned;;2020-02-13;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
 1175988/16000;P1.P1.P1;Available in Stock;;2020-01-17;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
 1175988/17000;P1.P1.P1;Charges;;;;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
 1175988/18000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
@@ -1483,7 +1483,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1196324/38000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
 1196324/39000;P1.P1.P1;Charges;;;;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
 1196324/40000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
-1197884/14000;P1.P1.P1;Production Started;;2020-03-03;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-20;3. Next week;Public;25;LOW OPPS Q3;FastTrack
+1197884/14000;P1.P1.P1;Customer Stock;;2020-03-03;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-20;3. Next week;Public;25;LOW OPPS Q3;FastTrack
 1198781/13000;P1.P1.P1;Procurement (PO Confirmed);;2020-06-11;C08. Gildas Daligault;2021-09-01;1. In the past;2021-11-26;;Public;5;OUT Q3;Nuclear
 1198781/14000;P1.P1.P1;Production Released;;2020-06-25;C28. Gildas Daligault;2021-02-05;1. In the past;2021-02-26;1. In the past;Public;5;21W38;Nuclear
 1199404/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-03;C11. Beaufils Celine;2022-01-19;;2022-02-02;;Public;5;> Q3 2021;Nuclear
@@ -1808,8 +1808,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1233124/9000;P1.P1.P1;Shipping;;2020-08-10;C21. Masse Mickael;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
 1233124/10000;P1.P1.P1;Shipping;;2020-08-10;C21. Masse Mickael;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
 1233124/11000;P1.P1.P1;Shipping;;2020-08-10;C21. Masse Mickael;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
-1233124/12000;P1.P1.P1;Production Started;;2020-08-10;C21. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
-1233124/13000;P1.P1.P1;Production Started;;2020-08-10;C21. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233124/12000;P1.P1.P1;Customer Stock;;2020-08-10;C21. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233124/13000;P1.P1.P1;Customer Stock;;2020-08-10;C21. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1233124/14000;P1.P1.P1;Shipping;;2020-08-10;C21. Masse Mickael;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
 1233124/15000;P1.P1.P1;Production Started;;2020-08-10;C21. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
 1233124/16000;P1.P1.P1;Production Started;;2020-08-10;C21. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
@@ -1849,7 +1849,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1233124/50000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-10;C21. Masse Mickael;2021-11-26;;2021-12-10;;Public;10;OUT Q3;E.T.O
 1233124/51000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-10;C21. Masse Mickael;2021-11-26;;2021-12-10;;Public;10;OUT Q3;E.T.O
 1233124/52000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-10;C21. Masse Mickael;2021-11-26;;2021-12-10;;Public;10;OUT Q3;E.T.O
-1233124/53000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C21. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
+1233124/53000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-10;C21. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
 1233124/54000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C21. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
 1233124/55000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C21. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
 1233124/56000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-10;C21. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
@@ -1871,7 +1871,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1233131/8000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-16;C30. Masse Mickael;2021-11-19;;2021-12-03;;Public;10;OUT Q3;E.T.O
 1233131/9000;P1.P1.P1;Production Planned;;2020-08-16;C14. Masse Mickael;2021-11-05;;2021-11-19;;Public;10;OUT Q3;E.T.O
 1233131/10000;P1.P1.P1;Shipping;;2020-08-16;C16. Masse Mickael;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
-1233131/11000;P1.P1.P1;Production Started;;2020-08-13;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233131/11000;P1.P1.P1;Customer Stock;;2020-08-13;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1233131/12010;P1.P1.P1;Shipping;;2020-08-13;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/13000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-14;C14. Masse Mickael;2021-12-10;;2021-12-24;;Public;10;> Q3 2021;E.T.O
 1233131/14000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-15;C16. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
@@ -1894,14 +1894,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1233131/33000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-12;C30. Masse Mickael;2021-11-19;;2021-12-03;;Public;10;OUT Q3;E.T.O
 1233131/35000;P1.P1.P1;Procurement (PO Required);;2020-08-12;C30. Masse Mickael;2021-11-26;;2021-12-10;;Public;10;> Q3 2021;E.T.O
 1233131/36000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-14;C30. Masse Mickael;2021-11-19;;2021-12-03;;Public;10;OUT Q3;E.T.O
-1233131/37000;P1.P1.P1;Production Started;;2020-08-14;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233131/37000;P1.P1.P1;Customer Stock;;2020-08-14;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1233131/39000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-14;C30. Masse Mickael;2021-12-10;;2021-12-24;;Public;10;OUT Q3;E.T.O
 1233131/40000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-09-24;3. Next week;2021-10-01;4. In 2 weeks;Public;10;OUT Q3;E.T.O
 1233131/41000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/42000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
 1233131/43000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/44000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
-1233131/45000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233131/45000;P1.P1.P1;Customer Stock;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1233131/46000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/47000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/48000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-08-13;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
@@ -1915,7 +1915,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1233131/56010;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/57010;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/58000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
-1233131/59000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233131/59000;P1.P1.P1;Customer Stock;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1233131/60000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/61000;P1.P1.P1;Production Started;;2020-08-12;C30. Masse Mickael;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
 1233131/62000;P1.P1.P1;Procurement (PO Required);;2020-08-12;C30. Masse Mickael;2021-12-17;;2021-12-31;;Public;10;> Q3 2021;E.T.O
@@ -1931,19 +1931,19 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1233131/72000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-08-13;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
 1233131/73000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/74000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
-1233131/75000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233131/75000;P1.P1.P1;Customer Stock;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1233131/76000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-08-13;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
 1233131/77000;P1.P1.P1;Shipping;;2020-08-10;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1233131/78000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
 1233131/79000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-10-22;7. In 5 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
-1233131/80000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
-1233131/81000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
+1233131/80000;P1.P1.P1;Procurement (Transit);;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
+1233131/81000;P1.P1.P1;Procurement (Transit);;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
 1233131/82000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-10-22;7. In 5 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
 1233131/83000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-10-22;7. In 5 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
 1233131/84000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-10-22;7. In 5 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
 1233131/85000;P1.P1.P1;Production Started;;2020-08-10;C30. Masse Mickael;2021-10-22;7. In 5 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
-1233131/86000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
-1233131/87000;P1.P1.P1;Production Ordered;;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
+1233131/86000;P1.P1.P1;Procurement (Transit);;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
+1233131/87000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
 1233131/88000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C30. Masse Mickael;2021-12-10;;2021-12-24;;Public;10;OUT Q3;E.T.O
 1233131/89000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C30. Masse Mickael;2021-12-10;;2021-12-24;;Public;10;OUT Q3;E.T.O
 1233131/90000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C30. Masse Mickael;2021-12-10;;2021-12-24;;Public;10;OUT Q3;E.T.O
@@ -1996,7 +1996,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1233139/56000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-12;C21. Masse Mickael;2021-11-26;;2021-12-10;;Public;10;OUT Q3;E.T.O
 1233139/57000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-12;C21. Masse Mickael;2021-10-08;5. In 3 weeks;2021-10-22;7. In 5 weeks;Public;10;OUT Q3;E.T.O
 1233139/58000;P1.P1.P1;Procurement (PO Confirmed);;2020-08-10;C21. Masse Mickael;2021-11-05;;2021-11-19;;Public;10;OUT Q3;E.T.O
-1233139/59000;P1.P1.P1;Production Started;;2020-08-16;C21. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1233139/59000;P1.P1.P1;Customer Stock;;2020-08-16;C21. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1233139/60000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C21. Masse Mickael;2021-11-26;;2021-12-10;;Public;10;OUT Q3;E.T.O
 1233139/61000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C21. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
 1233139/62000;P1.P1.P1;Procurement (PO not Confirmed);;2020-08-10;C21. Masse Mickael;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
@@ -2284,8 +2284,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1249201/2000;P1.P1.ZZ;Booking;;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
 1249201/3000;P1.P1.ZZ;Booking;;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
 1249201/4000;P1.P1.ZZ;Booking;;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
-1249388/3000;P1.P1.P1;Production Ordered;;2020-12-10;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;5;OUT Q3;Nuclear
-1249388/4000;P1.P1.P1;Production Ordered;;2020-12-10;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;5;OUT Q3;Nuclear
+1249388/3000;P1.P1.P1;Production Released;;2020-12-10;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;5;OUT Q3;Nuclear
+1249388/4000;P1.P1.P1;Production Released;;2020-12-10;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;5;OUT Q3;Nuclear
 1249986/1000;P1.P1.P1;Production Started;;2021-02-09;C22. Hubert Jean Charl;2021-09-08;1. In the past;2021-09-14;2. Current week;Public;5;OUT Q3;E.T.O
 1249986/2000;P1.P1.P1;Production Started;;2021-02-09;C22. Hubert Jean Charl;2021-09-08;1. In the past;2021-09-14;2. Current week;Public;5;OUT Q3;E.T.O
 1249986/3000;P1.P1.P1;Production Started;;2021-02-19;C22. Hubert Jean Charl;2021-09-08;1. In the past;2021-09-14;2. Current week;Public;5;OUT Q3;E.T.O
@@ -2306,7 +2306,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1253942/1000;P1.P1.PR;Production Planned;;2021-09-08;C08. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2021;Nuclear
 1255293/1000;P1.P1.P1;Procurement (PO not Confirmed);;2020-10-29;C14. Masse Mickael;2021-12-17;;2021-12-31;;Public;10;OUT Q3;E.T.O
 1255293/2000;P1.P1.P1;Production Ordered;;2020-10-30;C16. Masse Mickael;2021-10-22;7. In 5 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
-1255293/3000;P1.P1.P1;Production Started;;2020-10-30;C16. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1255293/3000;P1.P1.P1;Customer Stock;;2020-10-30;C16. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1255293/4000;P1.P1.P1;Production Ordered;;2020-10-30;C18. Masse Mickael;2021-10-08;5. In 3 weeks;2021-10-22;7. In 5 weeks;Public;10;OUT Q3;E.T.O
 1255293/5000;P1.P1.P1;Production Ordered;;2020-10-30;C18. Masse Mickael;2021-09-24;3. Next week;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
 1255293/6000;P1.P1.P1;Production Ordered;;2020-10-29;C30. Masse Mickael;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
@@ -2331,11 +2331,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1255293/22000;P1.P1.P1;Procurement (PO Required);;2020-10-29;C22. Hubert Jean Charl;2021-12-17;;2021-12-31;;Public;10;> Q3 2021;E.T.O
 1255293/23000;P1.P1.P1;Procurement (PO Confirmed);;2020-10-29;C22. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
 1255293/24000;P1.P1.P1;Procurement (PO not Confirmed);;2020-12-22;C22. Hubert Jean Charl;2021-11-12;;2021-11-26;;Public;10;OUT Q3;E.T.O
-1255293/24010;P1.P1.P1;Production Ordered;;2020-11-02;C10. Jacquelin Estelle;2021-08-13;1. In the past;2021-08-20;1. In the past;Public;10;OUT Q3;E.T.O
+1255293/24010;P1.P1.P1;Production Started;;2020-11-02;C10. Jacquelin Estelle;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;10;OUT Q3;E.T.O
 1255293/25000;P1.P1.P1;Procurement (PO Confirmed);;2020-10-29;C23. Hubert Jean Charl;2021-09-24;3. Next week;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
 1255293/26000;P1.P1.P1;Procurement (PO Confirmed);;2020-10-29;C23. Hubert Jean Charl;2021-11-05;;2021-11-19;;Public;10;OUT Q3;E.T.O
 1255293/27000;P1.P1.P1;Procurement (PO not Confirmed);;2020-12-03;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
-1255293/27010;P1.P1.P1;Production Ordered;;2020-11-02;C10. Jacquelin Estelle;2021-08-13;1. In the past;2021-08-27;1. In the past;Public;10;OUT Q3;E.T.O
+1255293/27010;P1.P1.P1;Production Started;;2020-11-02;C10. Jacquelin Estelle;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;10;OUT Q3;E.T.O
 1255293/27020;P1.P1.P1;Production Ordered;;2020-11-02;C10. Jacquelin Estelle;2021-07-29;1. In the past;2021-08-05;1. In the past;Public;10;OUT Q3;E.T.O
 1255293/28020;P1.P1.P1;Procurement (PO not Confirmed);;2021-07-06;C23. Hubert Jean Charl;2021-11-22;;2021-12-13;;Public;10;> Q3 2021;E.T.O
 1255293/29000;P1.P1.P1;Procurement (PO Required);;2020-10-30;C23. Hubert Jean Charl;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
@@ -2345,7 +2345,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1255293/31000;P1.P1.P1;Procurement (PO Confirmed);;2020-10-30;C23. Hubert Jean Charl;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;10;> Q3 2021;E.T.O
 1255293/31020;P1.P1.P1;Procurement (incoming material inspection);;2021-02-09;C35. Gildas Daligault;2021-09-13;1. In the past;2021-12-13;;Public;10;> Q3 2021;E.T.O
 1255293/32000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-25;C23. Hubert Jean Charl;2021-11-05;;2021-11-19;;Public;10;OUT Q3;E.T.O
-1255293/32010;P1.P1.P1;Production Ordered;;2020-11-02;C10. Jacquelin Estelle;2021-08-13;1. In the past;2021-08-27;1. In the past;Public;10;OUT Q3;E.T.O
+1255293/32010;P1.P1.P1;Production Started;;2020-11-02;C10. Jacquelin Estelle;2021-10-19;7. In 5 weeks;2021-10-26;8. In 6 weeks;Public;10;OUT Q3;E.T.O
 1255293/33000;P1.P1.P1;Procurement (PO Required);;2020-11-25;C23. Hubert Jean Charl;2021-11-19;;2021-12-03;;Public;10;OUT Q3;E.T.O
 1255293/33020;P1.P1.P1;Procurement (incoming material inspection);;2021-02-09;C35. Gildas Daligault;2021-11-19;;2021-12-03;;Public;10;OUT Q3;E.T.O
 1255293/34000;P1.P1.P1;Engineering Issue;;2020-11-25;C23. Hubert Jean Charl;2021-12-03;;2021-12-17;;Public;10;OUT Q3;E.T.O
@@ -2364,7 +2364,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1255300/4000;P1.P1.P1;Procurement (PO not Confirmed);;2020-10-28;C16. Masse Mickael;2021-11-12;;2021-11-26;;Public;10;OUT Q3;E.T.O
 1255300/5000;P1.P1.P1;Shipping;;2020-10-11;C16. Masse Mickael;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
 1255300/6000;P1.P1.P1;Production Started;;2020-10-11;C16. Masse Mickael;2021-09-24;3. Next week;2021-10-01;4. In 2 weeks;Public;10;OUT Q3;E.T.O
-1255300/7000;P1.P1.P1;Customer Stock;;2020-10-11;C18. Masse Mickael;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;OUT Q3;E.T.O
+1255300/7000;P1.P1.P1;Shipping;;2020-10-11;C18. Masse Mickael;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;OUT Q3;E.T.O
 1255300/8000;P1.P1.P1;Procurement (PO not Confirmed);;2020-10-11;C18. Masse Mickael;2021-12-17;;2021-12-31;;Public;10;> Q3 2021;E.T.O
 1255300/9030;P1.P1.P1;Procurement (PO not Confirmed);;2021-06-29;C21. Masse Mickael;2021-11-19;;2021-12-03;;Public;10;OUT Q3;E.T.O
 1255300/10000;P1.P1.P1;Shipping;;2020-10-11;C18. Masse Mickael;2021-08-13;1. In the past;2021-08-20;1. In the past;Public;10;21W38;E.T.O
@@ -2428,7 +2428,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1255309/17000;P1.P1.P1;Procurement (PO not Confirmed);;2020-09-21;C16. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;E.T.O
 1255309/18000;P1.P1.P1;Shipping;;2020-09-22;C16. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1255309/19000;P1.P1.P1;Production Started;;2020-09-21;C18. Masse Mickael;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
-1255309/20000;P1.P1.P1;Production Started;;2020-09-22;C18. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1255309/20000;P1.P1.P1;Customer Stock;;2020-09-22;C18. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1255309/21000;P1.P1.P1;Procurement (PO not Confirmed);;2020-09-22;C18. Masse Mickael;2021-11-05;;2021-11-19;;Public;10;> Q3 2021;E.T.O
 1255309/22000;P1.P1.P1;Shipping;;2020-09-22;C18. Masse Mickael;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;10;21W38;E.T.O
 1255309/23000;P1.P1.P1;Shipping;;2020-09-21;C18. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
@@ -2442,7 +2442,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1255309/31000;P1.P1.P1;Procurement (PO Confirmed);;2020-09-22;C30. Masse Mickael;2021-12-17;;2021-12-31;;Public;10;OUT Q3;E.T.O
 1255309/32000;P1.P1.P1;Production Started;;2020-09-21;C30. Masse Mickael;2021-09-24;3. Next week;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
 1255309/33000;P1.P1.P1;Production Started;;2020-09-22;C30. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;E.T.O
-1255309/34000;P1.P1.P1;Production Started;;2020-09-22;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1255309/34000;P1.P1.P1;Customer Stock;;2020-09-22;C30. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1255309/35000;P1.P1.P1;Production Started;;2020-09-21;C30. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
 1255309/36000;P1.P1.P1;Procurement (PO Required);;2020-09-22;C30. Masse Mickael;2021-12-17;;2021-12-31;;Public;10;> Q3 2021;E.T.O
 1255309/37000;P1.P1.P1;Procurement (PO not Confirmed);;2020-09-28;C30. Masse Mickael;2021-11-05;;2021-11-19;;Public;10;OUT Q3;E.T.O
@@ -2471,7 +2471,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1255316/22000;P1.P1.P1;Procurement (PO not Confirmed);;2020-10-17;C30. Masse Mickael;2021-12-17;;2021-12-31;;Public;10;OUT Q3;E.T.O
 1255316/23000;P1.P1.P1;Procurement (PO not Confirmed);;2020-10-17;C30. Masse Mickael;2021-12-17;;2021-12-31;;Public;10;OUT Q3;E.T.O
 1255316/24000;P1.P1.P1;Production Started;;2020-10-17;C30. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
-1255316/25000;P1.P1.P1;Production Released;;2020-09-14;C02. Jacquelin Estelle;2021-09-29;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
+1255316/25000;P1.P1.P1;Production Started;;2020-09-14;C02. Jacquelin Estelle;2021-09-29;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;E.T.O
 1255316/26000;P1.P1.P1;Procurement (PO Confirmed);;2020-09-14;C24. Bazin, Sandrine;2021-09-24;3. Next week;2021-10-01;4. In 2 weeks;Public;10;OUT Q3;E.T.O
 1255316/27000;P1.P1.P1;Procurement (PO Confirmed);;2020-09-14;C24. Bazin, Sandrine;2021-10-29;8. In 6 weeks;2021-11-12;;Public;10;OUT Q3;E.T.O
 1255316/28000;P1.P1.P1;Procurement (PO not Confirmed);;2020-09-14;C24. Bazin, Sandrine;2021-09-24;3. Next week;2021-10-01;4. In 2 weeks;Public;10;OUT Q3;E.T.O
@@ -2591,7 +2591,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1265088/37000;P1.P1.P1;Shipping;;2020-11-20;C27. Hubert Jean Charl;2021-05-03;1. In the past;2021-07-02;1. In the past;Public;10;OUT Q3;E.T.O
 1265088/47000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
 1265088/48000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
-1265526/4000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-30;C02. Jacquelin Estelle;2021-10-12;6. In 4 weeks;2021-10-19;7. In 5 weeks;Assoco;10;OUT Q3;FastTrack
+1265526/4000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-30;C02. Jacquelin Estelle;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Assoco;10;OUT Q3;FastTrack
 1265526/12000;P1.P1.P1;Production Started;;2021-01-21;C02. Jacquelin Estelle;2021-09-02;1. In the past;2021-09-09;1. In the past;Assoco;10;21W38;FastTrack
 1265839/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-06;C23. Hubert Jean Charl;2021-10-01;4. In 2 weeks;2021-10-18;7. In 5 weeks;Public;10;OUT Q3;E.T.O
 1265839/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-06;C23. Hubert Jean Charl;2021-10-01;4. In 2 weeks;2021-10-18;7. In 5 weeks;Public;10;OUT Q3;E.T.O
@@ -2605,7 +2605,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1266333/4000;P1.P1.P1;Shipping;;2020-11-20;C23. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
 1266333/9000;P1.P1.P1;Procurement (PO not Confirmed);;2021-02-22;C23. Hubert Jean Charl;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;> Q3 2021;E.T.O
 1266333/20000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-26;C22. Hubert Jean Charl;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;> Q3 2021;E.T.O
-1266333/22000;P1.P1.P1;Customer Stock;;2020-11-26;C22. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
+1266333/22000;P1.P1.P1;Shipping;;2020-11-26;C22. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
 1266333/24000;P1.P1.P1;Production Started;;2020-11-20;C23. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W37;E.T.O
 1266333/26000;P1.P1.P1;Procurement (PO Confirmed);;2020-12-17;C22. Hubert Jean Charl;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;10;> Q3 2021;E.T.O
 1266333/27000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-26;C22. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;10;> Q3 2021;E.T.O
@@ -2630,7 +2630,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1268775/4000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-31;C35. Gildas Daligault;2021-12-01;;2021-12-31;;Public;5;OUT Q3;Nuclear
 1268775/5000;P1.P1.P1;Available in Stock;;2021-07-09;C35. Gildas Daligault;2021-10-11;6. In 4 weeks;2021-11-05;;Public;5;OUT Q3;Nuclear
 1268775/6000;P1.P1.P1;Shipping;;2021-07-09;C35. Gildas Daligault;2021-09-15;2. Current week;2021-09-15;2. Current week;Public;5;OUT Q3;Nuclear
-1268775/7000;P1.P1.PR;Engineering Issue;;2021-07-19;C92. Gildas Daligault;2021-09-15;2. Current week;2021-09-15;2. Current week;Public;5;OUT Q3;Nuclear
+1268775/7000;P1.P1.PR;Procurement (PO Required);;2021-07-19;C92. Gildas Daligault;2021-09-15;2. Current week;2021-09-15;2. Current week;Public;5;OUT Q3;Nuclear
 1268775/8000;P1.P1.PR;Production Planned;;2021-09-03;C10. Jacquelin Estelle;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;5;OUT Q3;Nuclear
 1269272/5000;P1.P1.P1;Production Started;;2021-01-25;C22. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;LOW OPPS Q3;E.T.O
 1269272/6000;P1.P1.P1;Procurement (incoming material inspection);;2021-01-25;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-06;5. In 3 weeks;Public;10;OUT Q3;E.T.O
@@ -2655,7 +2655,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1269272/34000;P1.P1.P1;Customer Stock;;2020-11-24;C27. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;21W37;E.T.O
 1269272/35000;P1.P1.P1;Production Started;;2020-11-24;C27. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;21W39;E.T.O
 1269272/36000;P1.P1.P1;Customer Stock;;2020-11-24;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
-1269272/37000;P1.P1.P1;Production Started;;2020-11-24;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
+1269272/37000;P1.P1.P1;Customer Stock;;2020-11-24;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1269272/42000;P1.P1.P1;Production Started;;2020-11-26;C22. Hubert Jean Charl;2021-08-27;1. In the past;2021-09-03;1. In the past;Public;10;21W39;E.T.O
 1269272/43000;P1.P1.P1;Customer Stock;;2020-11-26;C22. Hubert Jean Charl;2021-08-27;1. In the past;2021-09-03;1. In the past;Public;10;21W37;E.T.O
 1269272/44000;P1.P1.P1;Production Started;;2020-11-26;C22. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
@@ -2670,10 +2670,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1269276/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-13;C23. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;E.T.O
 1269276/3000;P1.P1.P1;Procurement (PO Confirmed);;2020-12-17;C23. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-06;5. In 3 weeks;Public;10;OUT Q3;E.T.O
 1269276/4000;P1.P1.P1;Procurement (PO Confirmed);;2020-12-17;C23. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-06;5. In 3 weeks;Public;10;OUT Q3;E.T.O
-1269276/6000;P1.P1.P1;Production Started;;2021-01-13;C22. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
+1269276/6000;P1.P1.P1;Customer Stock;;2021-01-13;C22. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
 1269276/7000;P1.P1.P1;Procurement (PO not Confirmed);;2020-11-26;C22. Hubert Jean Charl;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
 1269276/8000;P1.P1.P1;Production Planned;;2020-11-26;C22. Hubert Jean Charl;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;E.T.O
-1269276/15000;P1.P1.P1;Production Started;;2020-11-26;C23. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
+1269276/15000;P1.P1.P1;Customer Stock;;2020-11-26;C23. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
 1269276/21000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-26;C22. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
 1269276/22000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-26;C22. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
 1269276/23000;P1.P1.P1;Procurement (PO not Confirmed);;2021-01-25;C23. Hubert Jean Charl;2021-11-05;;2021-11-12;;Public;10;OUT Q3;E.T.O
@@ -2743,18 +2743,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1271617/36000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
 1271617/37000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
 1271617/38000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
-1271662/1000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/2000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/3000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/4000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/5000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/6000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/7000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/8000;P1.P1.P1;Shipping;;2020-12-15;C30. Masse Mickael;2021-07-02;1. In the past;2021-07-16;1. In the past;Public;10;21W37;Nuclear
-1271662/9000;P1.P1.P1;Shipping;;2020-12-15;C35. Gildas Daligault;2021-04-21;1. In the past;2021-06-21;1. In the past;Public;10;21W37;Nuclear
-1271662/10000;P1.P1.P1;Shipping;;2020-12-15;C05. Masse Mickael;2021-05-05;1. In the past;2021-06-21;1. In the past;Public;10;21W37;Nuclear
-1271662/11000;P1.P1.P1;Shipping;;2020-12-15;C05. Masse Mickael;2021-05-05;1. In the past;2021-06-21;1. In the past;Public;10;21W37;Nuclear
-1271662/12000;P1.P1.P1;Shipping;;2020-12-15;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Nuclear
 1272164/1000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
 1272164/2000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
 1272164/3000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
@@ -2854,7 +2842,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1274527/4010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
 1274527/5000;P1.P1.P1;Production Released;;2021-01-13;C22. Hubert Jean Charl;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
 1274527/5010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
-1274527/6000;P1.P1.P1;Customer Stock;;2021-02-01;C22. Hubert Jean Charl;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W37;E.T.O
+1274527/6000;P1.P1.P1;Shipping;;2021-02-01;C22. Hubert Jean Charl;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W37;E.T.O
 1274527/6010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
 1274527/8000;P1.P1.P1;Production Ordered;;2020-12-01;C22. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1274527/9000;P1.P1.P1;Production Started;;2021-02-03;C20. Masse Mickael;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
@@ -2863,7 +2851,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1274527/11000;P1.P1.P1;Production Started;;2020-11-26;C23. Hubert Jean Charl;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
 1274527/12000;P1.P1.P1;Production Started;;2021-02-03;C20. Masse Mickael;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;21W39;E.T.O
 1274527/12010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-17;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
-1274527/13000;P1.P1.P1;Customer Stock;;2021-01-13;C22. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
+1274527/13000;P1.P1.P1;Shipping;;2021-01-13;C22. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
 1274527/13010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
 1274527/14000;P1.P1.P1;Production Started;;2021-01-13;C22. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
 1274527/14010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
@@ -2922,9 +2910,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1274533/8030;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-24;3. Next week;2021-10-08;5. In 3 weeks;Public;10;> Q3 2021;E.T.O
 1274533/9010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Public;10;> Q3 2021;E.T.O
 1274533/10010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Public;10;> Q3 2021;E.T.O
-1274533/11000;P1.P1.P1;Customer Stock;;2021-02-03;C27. Hubert Jean Charl;2021-08-04;1. In the past;2021-08-11;1. In the past;Public;10;21W37;E.T.O
+1274533/11000;P1.P1.P1;Shipping;;2021-02-03;C27. Hubert Jean Charl;2021-08-04;1. In the past;2021-08-11;1. In the past;Public;10;21W37;E.T.O
 1274533/11010;P1.P1.P1;Procurement (PO Confirmed);;2021-01-25;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Public;10;21W38;E.T.O
-1274533/12000;P1.P1.P1;Customer Stock;;2021-02-03;C27. Hubert Jean Charl;2021-08-25;1. In the past;2021-08-30;1. In the past;Public;10;21W37;E.T.O
+1274533/12000;P1.P1.P1;Shipping;;2021-02-03;C27. Hubert Jean Charl;2021-08-25;1. In the past;2021-08-30;1. In the past;Public;10;21W37;E.T.O
 1274533/12010;P1.P1.P1;Procurement (PO Confirmed);;2021-01-25;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Public;10;21W38;E.T.O
 1274533/13000;P1.P1.P1;Customer Stock;;2021-01-13;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
 1274533/13010;P1.P1.P1;Procurement (PO Confirmed);;2021-01-25;C35. Gildas Daligault;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W38;E.T.O
@@ -2934,13 +2922,13 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1274533/15010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-24;3. Next week;2021-10-08;5. In 3 weeks;Public;10;> Q3 2021;E.T.O
 1274533/16000;P1.P1.P1;Production Started;;2021-01-13;C27. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;E.T.O
 1274533/16010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-24;3. Next week;2021-10-08;5. In 3 weeks;Public;10;> Q3 2021;E.T.O
-1274533/17000;P1.P1.P1;Customer Stock;;2021-01-13;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
+1274533/17000;P1.P1.P1;Shipping;;2021-01-13;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
 1274533/17010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-25;1. In the past;2021-10-01;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1274533/17030;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-25;1. In the past;2021-10-01;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1274533/18000;P1.P1.P1;Customer Stock;;2021-01-13;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
 1274533/18010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-25;1. In the past;2021-10-01;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1274533/18030;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-25;1. In the past;2021-10-01;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
-1274533/19000;P1.P1.P1;Customer Stock;;2021-01-13;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
+1274533/19000;P1.P1.P1;Shipping;;2021-01-13;C27. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
 1274533/19010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-25;1. In the past;2021-10-01;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1274533/19030;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-25;1. In the past;2021-10-01;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1274533/20000;P1.P1.P1;Customer Stock;;2021-01-13;C27. Hubert Jean Charl;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W37;E.T.O
@@ -3027,7 +3015,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1274739/7000;P1.P1.P1;Shipping;;2021-01-26;C34. Hubert Jean Charl;2021-07-16;1. In the past;2021-07-23;1. In the past;Assoco;10;21W37;FastTrack
 1274739/8010;P1.P1.P1;Production Started;;2021-01-26;C34. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Assoco;10;21W38;FastTrack
 1274739/9000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-26;C34. Hubert Jean Charl;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Assoco;10;21W39;FastTrack
-1275115/1000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-26;C23. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;LOW OPPS Q3;E.T.O
+1275115/1000;P1.P1.P1;Production Started;;2020-11-26;C23. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;LOW OPPS Q3;E.T.O
 1275115/2000;P1.P1.P1;Procurement (PO Confirmed);;2020-11-26;C23. Hubert Jean Charl;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;10;OUT Q3;E.T.O
 1275115/3000;P1.P1.P1;Procurement (PO Confirmed);;2020-12-01;C23. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;OUT Q3;E.T.O
 1275115/4000;P1.P1.P1;Procurement (PO Required);;2020-12-01;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;10;OUT Q3;E.T.O
@@ -3084,8 +3072,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1275120/54000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
 1275148/1000;P1.P1.P1;Production Started;;2020-11-26;C23. Hubert Jean Charl;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;10;21W39;E.T.O
 1275148/2000;P1.P1.P1;Procurement (PO not Confirmed);;2020-11-26;C22. Hubert Jean Charl;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;10;> Q3 2021;E.T.O
-1275148/3000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-13;C22. Hubert Jean Charl;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;> Q3 2021;E.T.O
-1275148/4000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-13;C22. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
+1275148/3000;P1.P1.P1;Production Started;;2021-01-13;C22. Hubert Jean Charl;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;> Q3 2021;E.T.O
+1275148/4000;P1.P1.P1;Production Started;;2021-01-13;C22. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1275148/5000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-13;C22. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W39;E.T.O
 1275148/6000;P1.P1.P1;Procurement (PO not Confirmed);;2021-01-13;C22. Hubert Jean Charl;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Public;10;> Q3 2021;E.T.O
 1275148/7000;P1.P1.P1;Shipping;;2021-01-13;C22. Hubert Jean Charl;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;21W37;E.T.O
@@ -3154,7 +3142,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1282375/11000;P1.P1.P1;Production Started;;2021-02-08;C02. Jacquelin Estelle;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Assoco;7;LOW OPPS Q3;E.T.O
 1282375/12000;P1.P1.P1;Production Started;;2021-02-10;C02. Jacquelin Estelle;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Assoco;7;LOW OPPS Q3;E.T.O
 1282375/13000;P1.P1.P1;Production Started;;2021-02-08;C02. Jacquelin Estelle;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Assoco;7;LOW OPPS Q3;E.T.O
-1282375/14000;P1.P1.P1;Production Ordered;;2021-02-08;C02. Jacquelin Estelle;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Assoco;7;LOW OPPS Q3;E.T.O
+1282375/14000;P1.P1.P1;Production Planned;;2021-02-08;C02. Jacquelin Estelle;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Assoco;7;LOW OPPS Q3;E.T.O
 1282406/1000;P1.P1.P1;Available in Stock;;2020-10-26;C35. Gildas Daligault;2021-12-10;;2022-01-14;;Public;25;OUT Q3;FastTrack
 1282406/2000;P1.P1.P1;Production Started;;2020-10-26;C08. Gildas Daligault;2021-12-10;;2022-01-14;;Public;25;OUT Q3;FastTrack
 1282406/3000;P1.P1.P1;Available in Stock;;2020-10-26;C35. Gildas Daligault;2021-12-10;;2022-01-14;;Public;25;OUT Q3;FastTrack
@@ -3338,8 +3326,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1291673/6000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
 1291689/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-18;C14. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-11;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
 1291689/2000;P1.P1.P1;Procurement (PO not Confirmed);;2021-03-18;C14. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-11;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
-1291714/1010;P1.P1.P1;Production Ordered;;2021-01-27;C27. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
-1291714/2010;P1.P1.P1;Production Ordered;;2021-01-27;C27. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
+1291714/1010;P1.P1.P1;Procurement (PO Required);;2021-01-27;C27. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
+1291714/2010;P1.P1.P1;Procurement (PO Required);;2021-01-27;C27. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
 1292136/1000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
 1292136/2000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
 1292136/3000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;Nuclear
@@ -3452,7 +3440,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1292704/58000;P1.P1.P1;Customer Stock;;2021-03-17;C27. Hubert Jean Charl;2021-08-09;1. In the past;2021-08-16;1. In the past;Public;7;OUT Q3;E.T.O
 1292704/59000;P1.P1.P1;Production Started;;2021-02-10;C18. Masse Mickael;2021-08-09;1. In the past;2021-08-16;1. In the past;Public;7;OUT Q3;E.T.O
 1292704/60000;P1.P1.P1;Production Started;;2021-02-10;C25. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;7;OUT Q3;E.T.O
-1292746/1000;P1.P1.P1;Production Ordered;;2021-01-27;C27. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
+1292746/1000;P1.P1.P1;Procurement (PO Required);;2021-01-27;C27. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
 1292819/1010;P1.P1.P1;Procurement (PO Confirmed);;2021-02-22;C33. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;FastTrack
 1292819/2000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;FastTrack
 1292819/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;FastTrack
@@ -3466,7 +3454,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1292819/12000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;FastTrack
 1292819/13000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;FastTrack
 1292819/14000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;10;OUT Q3;FastTrack
-1293720/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-03-11;C08. Gildas Daligault;2021-09-10;1. In the past;2021-12-17;;Public;10;> Q3 2021;FastTrack
+1293720/1000;P1.P1.P1;Production Planned;;2021-03-11;C08. Gildas Daligault;2021-09-10;1. In the past;2021-12-17;;Public;10;> Q3 2021;FastTrack
 1295050/1010;P1.P1.P1;Procurement (PO not Confirmed);;2021-01-29;C04. Masse Mickael;2021-10-01;4. In 2 weeks;2021-10-11;6. In 4 weeks;Assoco;10;OUT Q3;FastTrack
 1295050/2000;P1.P1.P1;Available in Stock;;2021-03-23;C35. Gildas Daligault;2021-10-01;4. In 2 weeks;2021-10-11;6. In 4 weeks;Assoco;10;OUT Q3;FastTrack
 1295050/2010;P1.P1.P1;Available in Stock;;2021-03-23;C35. Gildas Daligault;2021-10-01;4. In 2 weeks;2021-10-11;6. In 4 weeks;Assoco;10;OUT Q3;FastTrack
@@ -3631,10 +3619,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1299941/22000;P1.P1.P1;Customer Stock;;2021-01-14;C26. Bazin, Sandrine;2021-07-12;1. In the past;2021-07-19;1. In the past;Public;5;21W38;FastTrack
 1299941/23000;P1.P1.P1;Customer Stock;;2021-01-14;C24. Bazin, Sandrine;2021-07-22;1. In the past;2021-07-29;1. In the past;Public;5;21W38;FastTrack
 1299941/24000;P1.P1.P1;Customer Stock;;2021-01-14;C24. Bazin, Sandrine;2021-07-22;1. In the past;2021-07-29;1. In the past;Public;5;21W38;FastTrack
-1299941/25000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
-1299941/26000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
-1299941/27000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
-1299941/28000;P1.P1.P1;Procurement (PO Confirmed);;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
+1299941/25000;P1.P1.P1;Production Started;;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
+1299941/26000;P1.P1.P1;Production Started;;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
+1299941/27000;P1.P1.P1;Production Started;;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
+1299941/28000;P1.P1.P1;Production Started;;2021-01-14;C25. Bazin, Sandrine;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;21W38;FastTrack
 1300339/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-02-19;C01. Hubert Jean Charl;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;FastTrack
 1300412/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-05;C34. Hubert Jean Charl;2021-09-17;2. Current week;2021-10-01;4. In 2 weeks;Public;5;21W39;Nuclear
 1300966/1000;P1.P1.P1;Procurement (PO Required);;2021-04-06;C30. Masse Mickael;2021-11-19;;2021-12-03;;Public;5;OUT Q3;FastTrack
@@ -3758,15 +3746,15 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1302280/1000;P1.P1.P1;Procurement (Transit);;2021-03-08;C23. Hubert Jean Charl;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/2000;P1.P1.P1;Procurement (incoming material inspection);;2021-03-08;C23. Hubert Jean Charl;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/3000;P1.P1.P1;Procurement (incoming material inspection);;2021-03-08;C23. Hubert Jean Charl;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
-1302280/4000;P1.P1.P1;Production Released;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
-1302280/5000;P1.P1.P1;Production Released;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
-1302280/6000;P1.P1.P1;Production Released;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
+1302280/4000;P1.P1.P1;Production Started;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
+1302280/5000;P1.P1.P1;Production Started;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
+1302280/6000;P1.P1.P1;Production Started;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/7000;P1.P1.P1;Production Ordered;;2021-03-08;C22. Hubert Jean Charl;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/8000;P1.P1.P1;Production Ordered;;2021-03-08;C22. Hubert Jean Charl;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/9000;P1.P1.P1;Production Ordered;;2021-03-08;C22. Hubert Jean Charl;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
-1302280/10000;P1.P1.P1;Production Released;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
-1302280/11000;P1.P1.P1;Production Released;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
-1302280/12000;P1.P1.P1;Production Released;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
+1302280/10000;P1.P1.P1;Production Started;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
+1302280/11000;P1.P1.P1;Production Started;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
+1302280/12000;P1.P1.P1;Production Started;;2021-03-08;C21. Masse Mickael;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/13000;P1.P1.P1;Available in Stock;;2021-03-14;C92. Gildas Daligault;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/13010;P1.P1.P1;Available in Stock;;2021-01-04;C35. Gildas Daligault;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1302280/13020;P1.P1.P1;Available in Stock;;2021-01-04;C35. Gildas Daligault;2021-09-22;3. Next week;2021-09-28;4. In 2 weeks;Public;10;OUT Q3;FastTrack
@@ -3812,14 +3800,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1302827/26000;P1.P1.P1;Customer Stock;;2021-02-18;C25. Bazin, Sandrine;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;5;21W38;FastTrack
 1302827/27000;P1.P1.P1;Customer Stock;;2021-02-18;C25. Bazin, Sandrine;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;5;21W38;FastTrack
 1302827/28000;P1.P1.P1;Customer Stock;;2021-02-18;C25. Bazin, Sandrine;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;5;21W38;FastTrack
-1303840/3000;P1.P1.P1;Shipping;;2021-02-03;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1303840/4000;P1.P1.P1;Shipping;;2021-02-03;C26. Bazin, Sandrine;2021-06-11;1. In the past;2021-07-09;1. In the past;Public;10;21W38;FastTrack
-1303840/5000;P1.P1.P1;Shipping;;2021-02-03;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1303840/6000;P1.P1.P1;Shipping;;2021-02-03;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1303840/7000;P1.P1.P1;Shipping;;2021-02-03;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1303840/8000;P1.P1.P1;Shipping;;2021-02-03;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1303840/9000;P1.P1.P1;Shipping;;2021-02-03;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1303840/10000;P1.P1.P1;Shipping;;2021-02-03;C02. Jacquelin Estelle;2021-06-11;1. In the past;2021-06-25;1. In the past;Public;10;21W38;FastTrack
 1303840/11000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;FastTrack
 1303840/12000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-27;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;FastTrack
 1303867/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-24;3. Next week;2021-10-08;5. In 3 weeks;Public;10;SERVICES;Services
@@ -4041,17 +4021,17 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1309024/77000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-20;7. In 5 weeks;2021-10-27;8. In 6 weeks;Public;7;OUT Q3;E.T.O
 1309024/78000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-20;7. In 5 weeks;2021-10-27;8. In 6 weeks;Public;7;OUT Q3;E.T.O
 1309024/79000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2021-10-20;7. In 5 weeks;2021-10-27;8. In 6 weeks;Public;7;OUT Q3;E.T.O
-1309068/1000;P1.P1.P1;Production Started;;2021-03-19;C10. Jacquelin Estelle;2021-09-10;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
+1309068/1000;P1.P1.P1;Production Started;;2021-03-19;C10. Jacquelin Estelle;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Assoco;10;21W38;FastTrack
 1309068/2000;P1.P1.P1;Customer Stock;;2021-03-19;C10. Jacquelin Estelle;2021-07-20;1. In the past;2021-07-27;1. In the past;Assoco;10;21W38;FastTrack
-1309068/3000;P1.P1.P1;Production Started;;2021-03-19;C10. Jacquelin Estelle;2021-09-10;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
+1309068/3000;P1.P1.P1;Customer Stock;;2021-03-19;C10. Jacquelin Estelle;2021-09-10;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
 1309084/3000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-05;C05. Masse Mickael;2021-10-14;6. In 4 weeks;2021-10-21;7. In 5 weeks;Public;5;> Q3 2021;Nuclear
 1309153/12000;P1.P1.01;;;;C35. Gildas Daligault;2021-09-17;2. Current week;2021-09-24;3. Next week;Assoco;7;21W39;FastTrack
 1309337/3000;P1.P1.P1;Shipping;;2021-02-12;C21. Masse Mickael;2021-09-08;1. In the past;2021-09-13;1. In the past;Public;5;OUT Q3;FastTrack
 1309337/5000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-20;C04. Masse Mickael;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;OUT Q3;FastTrack
 1309408/1000;P1.P1.P1;Procurement (PO Required);;2021-06-09;C26. Bazin, Sandrine;2021-11-08;;2021-11-15;;Assoco;10;OUT Q3;FastTrack
 1309927/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-23;C02. Jacquelin Estelle;2021-10-19;7. In 5 weeks;2021-10-26;8. In 6 weeks;Public;10;OUT Q3;FastTrack
-1309940/2010;P1.P1.P1;Production Started;;2021-03-26;C10. Jacquelin Estelle;2021-09-16;2. Current week;2021-09-23;3. Next week;Public;10;21W39;FastTrack
-1309940/5000;P1.P1.P1;Production Started;;2021-03-26;C10. Jacquelin Estelle;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;OUT Q3;FastTrack
+1309940/2010;P1.P1.P1;Procurement (PO Required);;2021-03-26;C10. Jacquelin Estelle;2021-09-16;2. Current week;2021-09-23;3. Next week;Public;10;21W39;FastTrack
+1309940/5000;P1.P1.P1;Customer Stock;;2021-03-26;C10. Jacquelin Estelle;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;OUT Q3;FastTrack
 1309940/6000;P1.P1.P1;Customer Stock;;2021-03-26;C10. Jacquelin Estelle;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;OUT Q3;FastTrack
 1309940/7000;P1.P1.P1;Production Started;;2021-03-26;C10. Jacquelin Estelle;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;10;OUT Q3;FastTrack
 1309943/1000;P1.P1.P1;Production Released;;2021-03-18;C28. Gildas Daligault;2021-06-15;1. In the past;2021-12-17;;Public;10;OUT Q3;FastTrack
@@ -4071,7 +4051,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1310175/10000;P1.P1.NM;;;2021-07-16;C03. Bazin, Sandrine;2021-12-15;;2021-12-22;;Assoco;10;OUT Q3;FastTrack
 1310175/11000;P1.P1.P1;Procurement (PO Confirmed);;2021-07-16;C02. Jacquelin Estelle;2021-11-16;;2021-11-23;;Assoco;10;OUT Q3;FastTrack
 1310175/12000;P1.P1.P1;Procurement (PO not Confirmed);;2021-07-16;C22. Hubert Jean Charl;2021-11-05;;2021-11-15;;Assoco;10;OUT Q3;FastTrack
-1310175/13000;P1.P1.P1;Procurement (PO not Confirmed);;2021-07-16;C24. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Assoco;10;OUT Q3;FastTrack
+1310175/13000;P1.P1.P1;Production Planned;;2021-07-16;C24. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Assoco;10;OUT Q3;FastTrack
 1310175/14000;P1.P1.P1;Procurement (PO Confirmed);;2021-07-16;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Assoco;10;OUT Q3;FastTrack
 1310175/15000;P1.P1.P1;Production Planned;;2021-07-16;C04. Masse Mickael;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Assoco;10;OUT Q3;FastTrack
 1310217/1000;P1.P1.P1;Production Started;;2021-03-04;C26. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;5;21W38;FastTrack
@@ -4205,9 +4185,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1314152/4000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-21;C14. Masse Mickael;2021-09-24;3. Next week;2021-09-30;4. In 2 weeks;Assoco;5;OUT Q3;E.T.O
 1314280/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-02-22;C35. Gildas Daligault;2021-12-10;;2022-01-06;;Public;5;> Q3 2021;Nuclear
 1314305/1000;P1.P1.P1;Production Started;;2021-05-04;C24. Bazin, Sandrine;2021-08-20;1. In the past;2021-08-27;1. In the past;Public;7;21W37;FastTrack
-1314712/1000;P1.P1.P1;Production Ordered;;2021-04-09;C02. Jacquelin Estelle;2021-09-28;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;OUT Q3;FastTrack
-1314809/1010;P1.P1.P1;Production Ordered;;2021-03-22;C01. Hubert Jean Charl;2021-09-21;3. Next week;2021-09-28;4. In 2 weeks;Public;5;21W39;E.T.O
-1314842/1000;P1.P1.P1;Production Started;;2021-08-12;C08. Gildas Daligault;2021-07-06;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
+1314712/1000;P1.P1.P1;Production Ordered;;2021-04-09;C02. Jacquelin Estelle;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;OUT Q3;FastTrack
+1314809/1010;P1.P1.P1;Production Ordered;;2021-03-22;C01. Hubert Jean Charl;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;5;21W39;E.T.O
+1314842/1000;P1.P1.P1;Shipping;;2021-08-12;C08. Gildas Daligault;2021-07-06;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
 1314842/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-09-08;C05. Masse Mickael;;0. Not defined;;0. Not defined;Assoco;10;TO BE ANALYSED;FastTrack
 1315116/1000;P1.P1.P1;Procurement (PO Required);;2021-07-23;C21. Masse Mickael;2021-09-03;1. In the past;2021-09-17;2. Current week;Public;10;21W39;FastTrack
 1315236/1000;P1.P1.P1;Engineering;EOUT;2021-07-15;C14. Masse Mickael;2021-09-30;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;OUT Q3;FastTrack
@@ -4325,7 +4305,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1317742/28000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-15;C25. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-15;6. In 4 weeks;Public;5;> Q3 2021;FastTrack
 1317777/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-11;6. In 4 weeks;Public;5;OUT Q3;E.T.O
 1317777/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-11;6. In 4 weeks;Public;5;OUT Q3;E.T.O
-1317777/3010;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-11;6. In 4 weeks;Public;5;OUT Q3;E.T.O
+1317777/3010;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;OUT Q3;E.T.O
 1317777/4000;P1.P1.P1;Available in Stock;;2021-06-15;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-24;3. Next week;Public;5;21W39;E.T.O
 1317777/4010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-24;3. Next week;Public;5;21W39;E.T.O
 1317777/4020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-24;3. Next week;Public;5;21W39;E.T.O
@@ -4334,7 +4314,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1317777/5000;P1.P1.P1;Available in Stock;;2021-06-15;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-24;3. Next week;Public;5;21W39;E.T.O
 1317777/5010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-24;3. Next week;Public;5;21W39;E.T.O
 1317777/5020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-24;3. Next week;Public;5;21W39;E.T.O
-1317777/6000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-11;6. In 4 weeks;Public;5;OUT Q3;E.T.O
+1317777/6000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;OUT Q3;E.T.O
 1317777/7010;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-11;6. In 4 weeks;Public;5;OUT Q3;E.T.O
 1317777/8010;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-11;6. In 4 weeks;Public;5;OUT Q3;E.T.O
 1317777/9010;P1.P1.P1;Procurement (PO Confirmed);;2021-05-12;C22. Hubert Jean Charl;2021-09-30;4. In 2 weeks;2021-10-11;6. In 4 weeks;Public;5;OUT Q3;E.T.O
@@ -4379,7 +4359,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1319844/10000;P1.P1.P1;Procurement (PO not Confirmed);;2021-03-19;C24. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
 1319844/11000;P1.P1.P1;Procurement (PO not Confirmed);;2021-03-19;C24. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
 1319844/12000;P1.P1.P1;Production Started;;2021-03-19;C24. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
-1319844/13000;P1.P1.P1;Production Started;;2021-03-19;C26. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
+1319844/13000;P1.P1.P1;Procurement (Transit);;2021-03-19;C26. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
 1319844/14000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-19;C26. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
 1319844/15000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-19;C25. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
 1319844/16000;P1.P1.P1;Procurement (PO not Confirmed);;2021-03-19;C25. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;5;> Q3 2021;FastTrack
@@ -4390,11 +4370,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1320236/20000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-11;C12. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;5;> Q3 2021;FastTrack
 1320236/21000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-11;C12. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Public;5;> Q3 2021;FastTrack
 1320684/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-09;C30. Masse Mickael;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;5;OUT Q3;FastTrack
-1320802/1000;P1.P1.P1;Production Started;;2021-05-18;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
-1320802/2000;P1.P1.P1;Production Started;;2021-05-18;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
-1320802/3000;P1.P1.P1;Production Started;;2021-05-18;C02. Jacquelin Estelle;2021-09-14;2. Current week;2021-09-21;3. Next week;Assoco;10;21W38;FastTrack
-1320802/4000;P1.P1.P1;Production Started;;2021-04-08;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
-1320802/5000;P1.P1.P1;Production Started;;2021-04-08;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
+1320802/1000;P1.P1.P1;Shipping;;2021-05-18;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
+1320802/2000;P1.P1.P1;Shipping;;2021-05-18;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
+1320802/3000;P1.P1.P1;Shipping;;2021-05-18;C02. Jacquelin Estelle;2021-09-14;2. Current week;2021-09-21;3. Next week;Assoco;10;21W38;FastTrack
+1320802/4000;P1.P1.P1;Shipping;;2021-04-08;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
+1320802/5000;P1.P1.P1;Shipping;;2021-04-08;C02. Jacquelin Estelle;2021-08-11;1. In the past;2021-08-18;1. In the past;Assoco;10;21W38;FastTrack
 1321187/1000;P1.P1.P1;Procurement (PO Required);;2021-04-15;C16. Masse Mickael;2021-12-10;;2021-12-24;;Public;5;OUT Q3;FastTrack
 1321771/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-22;C03. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;7;OUT Q3;FastTrack
 1322174/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-28;C35. Gildas Daligault;2021-10-22;7. In 5 weeks;2021-11-12;;Public;10;OUT Q3;FastTrack
@@ -4445,7 +4425,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1322747/20000;P1.P1.P1;Customer Stock;;2021-03-30;C02. Jacquelin Estelle;2021-07-28;1. In the past;2021-08-04;1. In the past;Public;10;21W38;FastTrack
 1322747/21000;P1.P1.P1;Customer Stock;;2021-03-30;C02. Jacquelin Estelle;2021-07-28;1. In the past;2021-08-04;1. In the past;Public;10;21W38;FastTrack
 1322747/22000;P1.P1.P1;Customer Stock;;2021-03-30;C02. Jacquelin Estelle;2021-07-28;1. In the past;2021-08-04;1. In the past;Public;10;21W38;FastTrack
-1322747/23000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-30;C02. Jacquelin Estelle;2021-09-16;2. Current week;2021-09-23;3. Next week;Public;10;OUT Q3;FastTrack
+1322747/23000;P1.P1.P1;Production Started;;2021-03-30;C02. Jacquelin Estelle;2021-09-16;2. Current week;2021-09-23;3. Next week;Public;10;OUT Q3;FastTrack
 1322747/24000;P1.P1.P1;Procurement (PO Confirmed);;2021-03-30;C02. Jacquelin Estelle;2021-09-27;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;10;21W38;FastTrack
 1322747/25000;P1.P1.P1;Production Started;;2021-03-30;C02. Jacquelin Estelle;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;10;21W38;FastTrack
 1322747/26000;P1.P1.P1;Production Started;;2021-03-30;C02. Jacquelin Estelle;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;10;21W38;FastTrack
@@ -4548,7 +4528,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1323048/14020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-12;;Public;10;> Q3 2021;FastTrack
 1323048/14030;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-12;;Public;10;> Q3 2021;FastTrack
 1323048/14040;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-12;;Public;10;> Q3 2021;FastTrack
-1323048/15000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-03;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;10;> Q3 2021;FastTrack
+1323048/15000;P1.P1.P1;Production Planned;;2021-06-03;C23. Hubert Jean Charl;2021-10-29;8. In 6 weeks;2021-11-05;;Public;10;> Q3 2021;FastTrack
 1323048/15010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-12;;Public;10;> Q3 2021;FastTrack
 1323048/15020;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-12;;Public;10;> Q3 2021;FastTrack
 1323048/15030;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-12;;Public;10;> Q3 2021;FastTrack
@@ -4770,7 +4750,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1327331/19000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-19;C25. Bazin, Sandrine;2021-11-12;;2021-11-19;;Public;5;> Q3 2021;FastTrack
 1327362/1000;P1.P1.P1;Production Ordered;;2021-05-21;C08. Gildas Daligault;2021-06-25;1. In the past;2021-10-22;7. In 5 weeks;Assoco;10;OUT Q3;FastTrack
 1327362/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-06-25;1. In the past;2021-11-19;;Assoco;10;OUT Q3;FastTrack
-1327407/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-09;C27. Hubert Jean Charl;2021-09-17;2. Current week;2021-10-18;7. In 5 weeks;Public;25;> Q3 2021;FastTrack
+1327407/1000;P1.P1.P1;Production Planned;;2021-06-09;C27. Hubert Jean Charl;2021-09-17;2. Current week;2021-10-18;7. In 5 weeks;Public;25;> Q3 2021;FastTrack
 1327407/2000;P1.P1.P1;Charges;;2021-03-29;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;25;CHARGES;FastTrack
 1327457/1000;P1.P1.P1;Shipping;;2021-04-12;C02. Jacquelin Estelle;2021-08-12;1. In the past;2021-08-19;1. In the past;Assoco;10;21W38;FastTrack
 1327457/2000;P1.P1.P1;Shipping;;2021-04-12;C02. Jacquelin Estelle;2021-08-12;1. In the past;2021-08-19;1. In the past;Assoco;10;21W38;FastTrack
@@ -4816,7 +4796,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1328525/4000;P1.P1.P1;Available in Stock;;2021-05-21;C35. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
 1328525/5000;P1.P1.P1;Available in Stock;;2021-05-21;C35. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
 1328525/6000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-23;C92. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
-1328525/7000;P1.P1.PR;Engineering Issue;;2021-06-23;C92. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
+1328525/7000;P1.P1.PR;Procurement (PO Required);;2021-06-23;C92. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
 1328525/8000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-21;C35. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
 1328525/9000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-21;C35. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
 1328525/10000;P1.P1.P1;Available in Stock;;2021-05-21;C35. Gildas Daligault;2021-11-26;;2021-12-24;;Public;5;> Q3 2021;Nuclear
@@ -4837,9 +4817,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1328879/2000;P1.P1.P1;Procurement (PO not Confirmed);;2021-06-28;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;21W39;FastTrack
 1328879/3000;P1.P1.P1;Available in Stock;;2021-06-28;C09. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;21W39;FastTrack
 1328879/4000;P1.P1.PR;Procurement (PO Required);;2021-08-20;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;OUT Q3;FastTrack
-1328879/5000;P1.P1.RB;Engineering;ENGR;2021-08-20;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;ENG;FastTrack
-1328879/6000;P1.P1.RB;Engineering;ENGR;2021-08-20;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;ENG;FastTrack
-1328879/7000;P1.P1.PR;Engineering;ENGR;2021-08-20;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;ENG;FastTrack
+1328879/5000;P1.P1.RB;Planning;;2021-09-14;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;ENG;FastTrack
+1328879/6000;P1.P1.RB;Planning;;2021-09-14;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;ENG;FastTrack
+1328879/7000;P1.P1.PR;Planning;;2021-09-14;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;ENG;FastTrack
 1328879/8000;P1.P1.P1;Procurement (PO not Confirmed);;2021-06-28;C35. Gildas Daligault;2021-09-02;1. In the past;2021-10-29;8. In 6 weeks;Public;10;21W39;FastTrack
 1328879/9000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;FastTrack
 1328879/10000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;FastTrack
@@ -4901,7 +4881,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1332208/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-18;C26. Bazin, Sandrine;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
 1332542/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-06-15;C16. Masse Mickael;2021-12-27;;2022-01-12;;Public;5;> Q3 2021;FastTrack
 1332547/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-13;C22. Hubert Jean Charl;2021-11-03;;2021-11-17;;Public;5;> Q3 2021;FastTrack
-1332547/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-14;C25. Bazin, Sandrine;2021-11-10;;2021-11-17;;Public;5;> Q3 2021;FastTrack
+1332547/2000;P1.P1.P1;Production Planned;;2021-05-14;C25. Bazin, Sandrine;2021-10-19;7. In 5 weeks;2021-11-02;;Public;5;> Q3 2021;FastTrack
 1332795/2000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
 1332795/5000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
 1332795/7000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W39;E.T.O
@@ -4961,7 +4941,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1334447/1000;P1.P1.P1;Engineering;EOUT;2021-06-24;C08. Gildas Daligault;2021-09-03;1. In the past;2021-10-29;8. In 6 weeks;Public;5;ENG;Nuclear
 1334514/22000;P1.P1.P1;Procurement (PO Confirmed);;;C09. Gildas Daligault;2021-05-25;1. In the past;2021-09-17;2. Current week;Assoco;7;21W38;FastTrack
 1334514/23000;P1.P1.P1;Production Ordered;;2021-05-21;C10. Jacquelin Estelle;2021-08-19;1. In the past;2021-08-26;1. In the past;Assoco;7;21W38;FastTrack
-1334533/1000;P1.P1.P1;Production Started;;2021-05-12;C10. Jacquelin Estelle;2021-08-31;1. In the past;2021-09-06;1. In the past;Public;7;21W38;E.T.O
+1334533/1000;P1.P1.P1;Customer Stock;;2021-05-12;C10. Jacquelin Estelle;2021-08-31;1. In the past;2021-09-06;1. In the past;Public;7;21W38;E.T.O
 1334768/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-03;C35. Gildas Daligault;2021-06-15;1. In the past;2021-09-09;1. In the past;Public;5;OUT Q3;Nuclear
 1334794/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-04-27;C25. Bazin, Sandrine;2021-12-03;;2021-12-10;;Public;5;> Q3 2021;FastTrack
 1334794/2000;P1.P1.P1;Procurement (PO not Confirmed);;2021-04-27;C24. Bazin, Sandrine;2021-12-03;;2021-12-10;;Public;5;> Q3 2021;FastTrack
@@ -4991,7 +4971,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1334794/29000;P1.P1.P1;Procurement (PO not Confirmed);;2021-06-23;C25. Bazin, Sandrine;2021-12-03;;2021-12-10;;Public;5;> Q3 2021;FastTrack
 1334794/30000;P1.P1.P1;Procurement (PO not Confirmed);;2021-06-23;C25. Bazin, Sandrine;2021-12-03;;2021-12-10;;Public;5;> Q3 2021;FastTrack
 1334794/31000;P1.P1.P1;Procurement (PO not Confirmed);;2021-06-23;C25. Bazin, Sandrine;2021-12-03;;2021-12-10;;Public;5;> Q3 2021;FastTrack
-1334809/1000;P1.P1.P1;Production Ordered;;2021-05-11;C02. Jacquelin Estelle;2021-09-16;2. Current week;2021-09-23;3. Next week;Public;5;21W38;FastTrack
+1334809/1000;P1.P1.P1;Production Started;;2021-05-11;C02. Jacquelin Estelle;2021-09-16;2. Current week;2021-09-23;3. Next week;Public;5;21W38;FastTrack
 1334883/1000;P1.P1.P1;Production Started;;2021-05-10;C02. Jacquelin Estelle;2021-09-22;3. Next week;2021-09-29;4. In 2 weeks;Assoco;10;OUT Q3;FastTrack
 1334883/2000;P1.P1.P1;Production Started;;2021-05-10;C02. Jacquelin Estelle;2021-09-22;3. Next week;2021-09-29;4. In 2 weeks;Assoco;10;OUT Q3;FastTrack
 1334883/3000;P1.P1.P1;Production Ordered;;2021-05-10;C02. Jacquelin Estelle;2021-09-24;3. Next week;2021-10-01;4. In 2 weeks;Assoco;10;OUT Q3;FastTrack
@@ -5002,8 +4982,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1334925/5000;P1.P1.P1;Charges;;2021-04-26;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Nuclear
 1335196/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-28;C24. Bazin, Sandrine;2021-09-13;1. In the past;2021-09-20;3. Next week;Public;5;21W38;FastTrack
 1335353/1000;P1.P1.P1;Production Ordered;;2021-07-09;C10. Jacquelin Estelle;2021-09-29;4. In 2 weeks;2021-10-06;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1335383/1005;P1.P1.P1;Shipping;;2021-05-11;C10. Jacquelin Estelle;2021-08-16;1. In the past;2021-08-23;1. In the past;Public;10;21W38;FastTrack
-1335383/2000;P1.P1.P1;Shipping;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;FastTrack
 1335403/1000;P1.P1.P1;Customer Stock;;2021-05-20;C10. Jacquelin Estelle;2021-08-13;1. In the past;2021-08-20;1. In the past;Public;7;21W38;FastTrack
 1335403/2000;P1.P1.P1;Customer Stock;;2021-05-20;C10. Jacquelin Estelle;2021-08-13;1. In the past;2021-08-20;1. In the past;Public;7;21W38;FastTrack
 1335403/3000;P1.P1.P1;Customer Stock;;2021-05-20;C10. Jacquelin Estelle;2021-08-13;1. In the past;2021-08-20;1. In the past;Public;7;21W38;FastTrack
@@ -5022,7 +5000,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1336569/1000;P1.P1.P1;Production Started;;2021-05-18;C25. Bazin, Sandrine;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Public;5;21W39;E.T.O
 1336635/1000;P1.P1.P1;Production Started;;2021-05-18;C25. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
 1336635/2000;P1.P1.P1;Production Started;;2021-05-18;C25. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
-1336635/3000;P1.P1.P1;Customer Stock;;2021-05-18;C25. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
+1336635/3000;P1.P1.P1;Shipping;;2021-05-18;C25. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
 1336635/4000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-18;C24. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-11;6. In 4 weeks;Public;7;OUT Q3;FastTrack
 1336635/5000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-18;C24. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-11;6. In 4 weeks;Public;7;OUT Q3;FastTrack
 1336635/6000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-18;C24. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-11;6. In 4 weeks;Public;7;OUT Q3;FastTrack
@@ -5034,13 +5012,13 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1336635/12000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-18;C24. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-11;6. In 4 weeks;Public;7;OUT Q3;FastTrack
 1336635/13000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-18;C24. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-11;6. In 4 weeks;Public;7;OUT Q3;FastTrack
 1336635/14000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-18;C24. Bazin, Sandrine;2021-10-08;5. In 3 weeks;2021-10-11;6. In 4 weeks;Public;7;OUT Q3;FastTrack
-1336635/15000;P1.P1.P1;Customer Stock;;2021-05-18;C25. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
+1336635/15000;P1.P1.P1;Shipping;;2021-05-18;C25. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
 1336635/16000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack
 1336722/3000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-21;C07. Jacquelin Estelle;2021-10-07;5. In 3 weeks;2021-10-27;8. In 6 weeks;Public;5;> Q3 2021;Nuclear
 1336737/6000;P1.P1.P1;Procurement (PO not Confirmed);;2021-05-11;C24. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;7;OUT Q3;FastTrack
 1336737/8000;P1.P1.P1;Production Started;;2021-05-11;C24. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;7;21W38;FastTrack
-1336737/10000;P1.P1.P1;Customer Stock;;2021-05-11;C25. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;7;21W38;FastTrack
-1336737/11000;P1.P1.P1;Production Started;;2021-05-11;C25. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;7;21W38;FastTrack
+1336737/10000;P1.P1.P1;Shipping;;2021-05-11;C25. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;7;21W38;FastTrack
+1336737/11000;P1.P1.P1;Shipping;;2021-05-11;C25. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;7;21W38;FastTrack
 1336737/12000;P1.P1.P1;Production Started;;2021-05-11;C26. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;7;21W38;FastTrack
 1336737/14000;P1.P1.P1;Procurement (PO Confirmed);;2021-05-11;C26. Bazin, Sandrine;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Public;7;OUT Q3;FastTrack
 1336737/15000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack
@@ -5469,10 +5447,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1349575/2000;P1.P1.PR;Engineering Issue;;2021-09-01;C02. Jacquelin Estelle;2021-10-11;6. In 4 weeks;2021-10-18;7. In 5 weeks;Assoco;7;ENG;FastTrack
 1349575/3000;BO.P1.NM;;;2021-08-11;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;TO BE ANALYSED;FastTrack
 1349575/4000;BO.P1.NM;;;2021-08-11;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;TO BE ANALYSED;FastTrack
-1349660/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-07-02;1. In the past;2021-10-01;4. In 2 weeks;Assoco;7;LOW OPPS Q3;FastTrack
 1349660/5000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-07-23;1. In the past;2021-09-06;1. In the past;Assoco;7;21W38;FastTrack
 1349890/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-11;C02. Jacquelin Estelle;2021-10-13;6. In 4 weeks;2021-10-20;7. In 5 weeks;Public;5;OUT Q3;FastTrack
-1349973/1000;P1.P1.P1;Procurement (Transit);;;C11. Beaufils Celine;2021-10-22;7. In 5 weeks;2021-11-19;;Public;5;> Q3 2021;Nuclear
+1349973/1000;P1.P1.P1;Procurement (PO Confirmed);;;C11. Beaufils Celine;2021-10-22;7. In 5 weeks;2021-11-19;;Public;5;> Q3 2021;Nuclear
 1349973/2000;P1.P1.P1;Production Planned;;2021-07-21;C07. Jacquelin Estelle;2021-09-03;1. In the past;2021-11-03;;Public;5;> Q3 2021;Nuclear
 1349973/5000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2021-09-23;3. Next week;2021-09-30;4. In 2 weeks;Public;5;21W39;Nuclear
 1349987/1000;P1.P1.PR;Production Ordered;;2021-06-07;C21. Masse Mickael;2021-10-11;6. In 4 weeks;2021-10-18;7. In 5 weeks;Public;5;OUT Q3;FastTrack
@@ -5483,7 +5460,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1350058/5000;P1.P1.P1;Production Ordered;;2021-06-17;C10. Jacquelin Estelle;2021-09-02;1. In the past;2021-09-08;1. In the past;Assoco;10;OUT Q3;FastTrack
 1350058/6000;P1.P1.P1;Production Ordered;;2021-06-17;C10. Jacquelin Estelle;2021-09-02;1. In the past;2021-09-08;1. In the past;Assoco;10;OUT Q3;FastTrack
 1350058/7000;P1.P1.P1;Shipping;;2021-06-17;C03. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Assoco;10;OUT Q3;FastTrack
-1350167/1000;P1.P1.PR;Production Ordered;;2021-06-08;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
+1350167/1000;P1.P1.PR;Procurement (Transit);;2021-06-08;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;10;OUT Q3;FastTrack
 1350291/2000;P1.P1.P1;Engineering;ENGR;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;FastTrack
 1350334/1000;P1.P1.PR;Engineering;;2021-08-19;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1350334/2000;P1.P1.PR;Engineering;;2021-08-19;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
@@ -5529,8 +5506,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1351282/2000;P1.P1.P1;Charges;;2021-07-27;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2021;Nuclear
 1351295/1000;P1.P1.P1;Shipping;;2021-06-23;C92. Gildas Daligault;2021-09-02;1. In the past;2021-09-09;1. In the past;Public;10;21W38;FastTrack
 1351308/1000;P1.P1.P1;Production Started;;2021-06-30;C02. Jacquelin Estelle;2021-09-24;3. Next week;2021-10-01;4. In 2 weeks;Assoco;10;OUT Q3;FastTrack
-1351308/2000;P1.P1.P1;Available in Stock;;2021-06-18;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
-1351308/2010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
+1351308/2000;P1.P1.P1;Shipping;;2021-06-18;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
+1351308/2010;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-09-06;1. In the past;2021-09-17;2. Current week;Assoco;10;21W38;FastTrack
 1351524/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-06-07;1. In the past;2021-09-03;1. In the past;Assoco;10;SERVICES;Services
 1351531/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-08-24;1. In the past;2021-09-21;3. Next week;Public;25;LOW OPPS Q3;FastTrack
 1351531/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;25;CHARGES;FastTrack
@@ -5601,9 +5578,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1351945/3000;P1.P1.P1;Charges;;2021-08-19;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack
 1351948/6000;P1.P1.P1;Procurement (PO Required);;2021-07-15;C02. Jacquelin Estelle;2021-09-29;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;OUT Q3;FastTrack
 1351962/1000;P1.P1.PR;Production Started;;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
-1351962/2000;P1.P1.PR;Customer Stock;;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
-1351962/3000;P1.P1.PR;Production Started;;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
-1351962/4000;P1.P1.PR;Customer Stock;;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
+1351962/2000;P1.P1.PR;Shipping;;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
+1351962/3000;P1.P1.PR;Shipping;;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
+1351962/4000;P1.P1.PR;Shipping;;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
 1351962/5000;P1.P1.PR;Shipping;;2021-06-15;C24. Bazin, Sandrine;2021-08-30;1. In the past;2021-09-06;1. In the past;Public;25;21W38;FastTrack
 1351962/6000;P1.P1.PR;Procurement (Transit);;2021-06-15;C24. Bazin, Sandrine;2021-09-15;2. Current week;2021-09-22;3. Next week;Public;25;21W38;FastTrack
 1351962/7000;P1.P1.PR;Shipping;;2021-06-15;C24. Bazin, Sandrine;2021-08-30;1. In the past;2021-09-06;1. In the past;Public;25;21W38;FastTrack
@@ -5617,11 +5594,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1351976/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-10;C14. Masse Mickael;2021-11-12;;2021-11-26;;Public;5;OUT Q3;FastTrack
 1351998/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-30;C35. Gildas Daligault;2021-08-02;1. In the past;2021-10-05;5. In 3 weeks;Public;10;OUT Q3;FastTrack
 1351998/10000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-30;C35. Gildas Daligault;2021-08-02;1. In the past;2021-10-05;5. In 3 weeks;Public;10;OUT Q3;FastTrack
-1352060/14000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2021-09-10;1. In the past;2021-09-17;2. Current week;Assoco;7;21W38;FastTrack
+1352060/14000;P1.P1.P1;Shipping;;;C10. Jacquelin Estelle;2021-09-10;1. In the past;2021-09-17;2. Current week;Assoco;7;21W38;FastTrack
 1352067/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2021;Nuclear
 1352067/2000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2021;Nuclear
 1352226/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-29;C24. Bazin, Sandrine;2021-09-13;1. In the past;2021-09-20;3. Next week;Public;5;21W38;FastTrack
-1352255/1000;P1.P1.P1;Customer Stock;;2021-07-01;C25. Bazin, Sandrine;2021-09-07;1. In the past;2021-09-14;2. Current week;Public;10;21W37;FastTrack
+1352255/1000;P1.P1.P1;Shipping;;2021-07-01;C25. Bazin, Sandrine;2021-09-07;1. In the past;2021-09-14;2. Current week;Public;10;21W37;FastTrack
 1352265/1000;P1.P1.PR;Procurement (PO Required);;2021-06-24;C21. Masse Mickael;2021-12-20;;2022-01-03;;Public;5;> Q3 2021;FastTrack
 1352265/2000;P1.P1.PR;Procurement (PO not Confirmed);;2021-06-24;C24. Bazin, Sandrine;2021-12-27;;2022-01-03;;Public;5;> Q3 2021;FastTrack
 1352265/3000;P1.P1.PR;Procurement (PO not Confirmed);;2021-06-24;C24. Bazin, Sandrine;2021-12-27;;2022-01-03;;Public;5;> Q3 2021;FastTrack
@@ -5815,7 +5792,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1355153/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-07-01;C25. Bazin, Sandrine;2021-10-19;7. In 5 weeks;2021-11-02;;Public;10;> Q3 2021;E.T.O
 1355194/1000;P1.P1.P1;Procurement (Transit);;2021-06-18;C08. Gildas Daligault;2021-10-01;4. In 2 weeks;2021-10-01;4. In 2 weeks;Assoco;10;> Q3 2021;FastTrack
 1355428/1000;P1.P1.P1;Production Planned;;2021-07-02;C10. Jacquelin Estelle;2021-11-19;;2021-11-26;;Public;5;> Q3 2021;Nuclear
-1355452/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-28;C25. Bazin, Sandrine;2021-09-02;1. In the past;2021-09-09;1. In the past;Public;5;21W37;FastTrack
+1355452/1000;P1.P1.P1;Procurement (Transit);;2021-06-28;C25. Bazin, Sandrine;2021-09-02;1. In the past;2021-09-09;1. In the past;Public;5;21W37;FastTrack
 1355471/1000;P1.P1.P1;Engineering;ENGR;;C05. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
 1355518/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-28;C02. Jacquelin Estelle;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;5;21W39;FastTrack
 1355518/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-28;C02. Jacquelin Estelle;2021-09-27;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;OUT Q3;FastTrack
@@ -5881,7 +5858,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1356618/7000;P1.P1.P1;Procurement (PO Confirmed);;2021-07-20;C07. Jacquelin Estelle;2021-11-19;;2021-12-03;;Public;10;> Q3 2021;E.T.O
 1356618/8000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;E.T.O
 1356897/1000;P1.P1.P1;Production Started;;2021-07-01;C03. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;10;21W38;FastTrack
-1356982/1000;P1.P1.P1;Procurement (Transit);;2021-07-01;C24. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;5;21W38;E.T.O
+1356982/1000;P1.P1.P1;Production Started;;2021-07-01;C24. Bazin, Sandrine;2021-09-10;1. In the past;2021-09-17;2. Current week;Public;5;21W38;E.T.O
 1357005/1000;P1.P1.P1;Available in Stock;;2021-06-23;C35. Gildas Daligault;2021-09-13;1. In the past;2021-10-12;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
 1357005/2000;P1.P1.P1;Available in Stock;;2021-06-23;C35. Gildas Daligault;2021-09-13;1. In the past;2021-10-12;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
 1357005/3000;P1.P1.P1;Available in Stock;;2021-06-23;C35. Gildas Daligault;2021-09-13;1. In the past;2021-10-12;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
@@ -5918,11 +5895,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1358350/2000;P1.P1.PR;Procurement (PO not Confirmed);;2021-07-08;C24. Bazin, Sandrine;2022-02-04;;2022-02-11;;Public;5;> Q3 2021;FastTrack
 1358350/3000;P1.P1.PR;Procurement (PO not Confirmed);;2021-07-08;C24. Bazin, Sandrine;2022-02-04;;2022-02-11;;Public;5;> Q3 2021;FastTrack
 1358364/1000;P1.P1.PR;Procurement (PO Confirmed);;2021-07-08;C25. Bazin, Sandrine;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;5;21W38;FastTrack
-1358371/1000;P1.P1.PR;Production Ordered;;2021-07-08;C02. Jacquelin Estelle;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;5;21W39;FastTrack
+1358371/1000;P1.P1.PR;Production Started;;2021-07-08;C02. Jacquelin Estelle;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;5;21W39;FastTrack
 1358378/1000;P1.P1.PR;Production Ordered;;2021-07-08;C26. Bazin, Sandrine;2021-09-27;4. In 2 weeks;2021-10-04;5. In 3 weeks;Public;5;> Q3 2021;FastTrack
 1358395/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-28;C10. Jacquelin Estelle;2021-10-01;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;OUT Q3;FastTrack
 1358395/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;CHARGES;FastTrack
-1358400/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-10;1. In the past;2021-09-24;3. Next week;Public;5;21W38;Nuclear
+1358400/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-09-10;1. In the past;2021-09-24;3. Next week;Public;5;21W38;Nuclear
 1358572/1000;P1.P1.PR;Customer Stock;;2021-07-08;C25. Bazin, Sandrine;2021-09-13;1. In the past;2021-09-20;3. Next week;Public;7;21W39;FastTrack
 1358572/2000;P1.P1.PR;Production Started;;2021-07-08;C24. Bazin, Sandrine;2021-09-13;1. In the past;2021-09-20;3. Next week;Public;7;21W39;FastTrack
 1358789/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
@@ -5979,7 +5956,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1359103/10000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-30;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
 1359103/11000;P1.P1.P1;Available in Stock;;2021-06-30;C28. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
 1359103/12000;P1.P1.P1;Available in Stock;;2021-06-30;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
-1359103/13000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-30;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
+1359103/13000;P1.P1.P1;Procurement (Transit);;2021-06-30;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
 1359103/14000;P1.P1.P1;Available in Stock;;2021-06-30;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
 1359103/15000;P1.P1.P1;Available in Stock;;2021-06-30;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
 1359103/16000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-26;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-15;6. In 4 weeks;Public;10;> Q3 2021;FastTrack
@@ -6018,7 +5995,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1359583/4000;P1.P1.P1;Available in Stock;;2021-06-30;C35. Gildas Daligault;2021-10-18;7. In 5 weeks;2021-11-15;;Public;10;> Q3 2021;FastTrack
 1359583/5000;P1.P1.P1;Procurement (PO Confirmed);;2021-06-30;C92. Gildas Daligault;2021-10-18;7. In 5 weeks;2021-11-15;;Public;10;> Q3 2021;FastTrack
 1359594/2000;P1.P1.P1;Available in Stock;;2021-06-30;C35. Gildas Daligault;2021-08-09;1. In the past;2021-10-25;8. In 6 weeks;Public;10;> Q3 2021;FastTrack
-1359594/3000;P1.P1.P1;Production Released;;2021-09-08;C08. Gildas Daligault;2021-09-27;4. In 2 weeks;2021-12-17;;Public;10;> Q3 2021;FastTrack
+1359594/3000;P1.P1.P1;Production Started;;2021-09-08;C08. Gildas Daligault;2021-09-27;4. In 2 weeks;2021-12-17;;Public;10;> Q3 2021;FastTrack
 1359601/3000;P1.P1.P1;Procurement (PO Confirmed);;2021-07-01;C35. Gildas Daligault;2021-09-27;4. In 2 weeks;2021-10-25;8. In 6 weeks;Public;10;> Q3 2021;FastTrack
 1359617/3000;P1.P1.P1;Procurement (PO Confirmed);;2021-07-01;C35. Gildas Daligault;2021-09-13;1. In the past;2021-10-11;6. In 4 weeks;Public;7;OUT Q3;FastTrack
 1359617/4000;P1.P1.P1;Charges;;2021-07-01;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack
@@ -6161,7 +6138,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1361325/1000;P1.P1.P1;Procurement (Shortage);;2021-07-05;C92. Gildas Daligault;2021-10-07;5. In 3 weeks;2021-10-21;7. In 5 weeks;Public;7;> Q3 2021;FastTrack
 1361325/2000;P1.P1.P1;Charges;;2021-07-05;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2021;FastTrack
 1361765/1000;P1.P1.PR;Procurement (PO Confirmed);;2021-07-20;C02. Jacquelin Estelle;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Public;5;> Q3 2021;E.T.O
-1361774/1000;P1.P1.PR;Shipping;;2021-07-15;C24. Bazin, Sandrine;2021-09-03;1. In the past;2021-09-10;1. In the past;Public;5;21W37;FastTrack
 1361834/1000;P1.P1.PR;Procurement (PO Confirmed);;2021-07-13;C02. Jacquelin Estelle;2021-11-02;;2021-11-09;;Public;5;OUT Q3;FastTrack
 1361849/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-17;C35. Gildas Daligault;2021-10-04;5. In 3 weeks;2021-10-25;8. In 6 weeks;Public;5;> Q3 2021;Nuclear
 1361858/1000;P1.P1.PR;Procurement (PO not Confirmed);;2021-07-20;C24. Bazin, Sandrine;2021-10-06;5. In 3 weeks;2021-10-13;6. In 4 weeks;Public;5;> Q3 2021;E.T.O
@@ -6297,7 +6273,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1364615/32000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;FastTrack
 1364615/33000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;FastTrack
 1364615/34000;P1.P1.ZZ;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q3 2021;FastTrack
-1364672/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-19;C02. Jacquelin Estelle;2021-11-17;;2021-12-15;;Public;5;> Q3 2021;FastTrack
+1364672/1000;P1.P1.P1;Production Planned;;2021-08-19;C02. Jacquelin Estelle;2021-11-17;;2021-12-15;;Public;5;> Q3 2021;FastTrack
 1364682/1000;P1.P1.P1;Engineering;;2021-09-10;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1364682/2000;P1.P1.P1;Engineering;;2021-09-10;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1364770/1000;P1.P1.ZZ;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2021;E.T.O
@@ -6389,7 +6365,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1365988/5000;P1.P1.P1;Procurement (PO Confirmed);;2021-07-22;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-19;;Public;10;> Q3 2021;FastTrack
 1365988/6000;P1.P1.P1;Shipping;;2021-07-22;C08. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-19;;Public;10;> Q3 2021;FastTrack
 1366186/1000;P1.P1.P1;Engineering;;2021-09-02;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
-1366193/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-05;C24. Bazin, Sandrine;2021-10-18;7. In 5 weeks;2021-10-25;8. In 6 weeks;Public;5;> Q3 2021;FastTrack
+1366193/1000;P1.P1.P1;Production Planned;;2021-08-05;C24. Bazin, Sandrine;2021-10-18;7. In 5 weeks;2021-10-25;8. In 6 weeks;Public;5;> Q3 2021;FastTrack
 1366202/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-04;C25. Bazin, Sandrine;2021-10-04;5. In 3 weeks;2021-10-11;6. In 4 weeks;Public;5;> Q3 2021;FastTrack
 1366270/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-03;C02. Jacquelin Estelle;2021-09-27;4. In 2 weeks;2021-10-08;5. In 3 weeks;Public;5;OUT Q3;FastTrack
 1366305/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-07-30;C02. Jacquelin Estelle;2021-09-23;3. Next week;2021-10-07;5. In 3 weeks;Public;5;> Q3 2021;FastTrack
@@ -6409,7 +6385,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1366729/3000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear
 1366777/1000;P1.P1.PR;Procurement (PO Required);;2021-08-31;C03. Bazin, Sandrine;2021-12-13;;2021-12-20;;Public;10;> Q3 2021;FastTrack
 1366777/2000;P1.P1.PR;Procurement (PO Required);;2021-08-31;C03. Bazin, Sandrine;2021-12-13;;2021-12-20;;Public;10;> Q3 2021;FastTrack
-1366794/6000;P1.P1.P1;Production Ordered;;;C10. Jacquelin Estelle;2021-09-27;4. In 2 weeks;2021-10-25;8. In 6 weeks;Assoco;7;> Q3 2021;FastTrack
+1366794/6000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2021-09-27;4. In 2 weeks;2021-10-25;8. In 6 weeks;Assoco;7;> Q3 2021;FastTrack
 1367039/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-19;C10. Jacquelin Estelle;2021-10-01;4. In 2 weeks;2021-10-15;6. In 4 weeks;Public;5;> Q3 2021;E.T.O
 1367046/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-17;C35. Gildas Daligault;2021-09-16;2. Current week;2021-09-30;4. In 2 weeks;Public;25;OUT Q3;FastTrack
 1367046/2000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-17;C35. Gildas Daligault;2021-09-16;2. Current week;2021-09-30;4. In 2 weeks;Public;25;OUT Q3;FastTrack
@@ -6429,7 +6405,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1367448/5000;P1.P1.P1;Available in Stock;;2021-08-30;C35. Gildas Daligault;2022-01-27;;2022-02-10;;Public;10;> Q3 2021;FastTrack
 1367448/5010;P1.P1.P1;Procurement (PO Confirmed);;2021-08-30;C35. Gildas Daligault;2022-01-27;;2022-02-10;;Public;10;> Q3 2021;FastTrack
 1367477/1000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;ENG;FastTrack
-1367513/1000;P1.P1.P1;Production Started;;2021-08-04;C24. Bazin, Sandrine;2021-09-08;1. In the past;2021-09-15;2. Current week;Public;5;21W37;FastTrack
+1367513/1000;P1.P1.P1;Shipping;;2021-08-04;C24. Bazin, Sandrine;2021-09-08;1. In the past;2021-09-15;2. Current week;Public;5;21W37;FastTrack
 1367530/1000;RN.P1.RN;;;2021-08-10;C10. Jacquelin Estelle;2021-09-08;1. In the past;2021-09-22;3. Next week;Public;5;21W38;FastTrack
 1367548/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-05;C30. Masse Mickael;2021-10-12;6. In 4 weeks;2021-10-20;7. In 5 weeks;Public;5;OUT Q3;FastTrack
 1367561/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-24;C25. Bazin, Sandrine;2021-09-21;3. Next week;2021-09-28;4. In 2 weeks;Public;5;21W39;FastTrack
@@ -6476,7 +6452,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1367996/3000;P1.P1.P1;Procurement (PO Confirmed);;2021-09-02;C10. Jacquelin Estelle;2021-11-04;;2021-11-18;;Public;7;> Q3 2021;FastTrack
 1367996/4000;P1.P1.P1;Procurement (PO Confirmed);;2021-09-02;C10. Jacquelin Estelle;2021-11-04;;2021-11-18;;Public;7;> Q3 2021;FastTrack
 1367996/5000;P1.P1.P1;Procurement (PO Confirmed);;2021-09-02;C10. Jacquelin Estelle;2021-11-04;;2021-11-18;;Public;7;> Q3 2021;FastTrack
-1368228/1000;P1.P1.P1;Production Started;;2021-08-19;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
+1368228/1000;P1.P1.P1;Shipping;;2021-08-19;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-27;4. In 2 weeks;Public;7;21W39;FastTrack
 1368238/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-11;C07. Jacquelin Estelle;2021-11-22;;2021-12-13;;Public;10;> Q3 2021;FastTrack
 1368238/2000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-11;C07. Jacquelin Estelle;2021-11-22;;2021-12-13;;Public;10;> Q3 2021;FastTrack
 1368238/3000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-11;C07. Jacquelin Estelle;2021-11-22;;2021-12-13;;Public;10;> Q3 2021;FastTrack
@@ -6501,7 +6477,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1368693/2000;P1.P1.P1;Production Ordered;;2021-09-02;C10. Jacquelin Estelle;2021-10-08;5. In 3 weeks;2021-10-20;7. In 5 weeks;Assoco;10;> Q3 2021;FastTrack
 1368693/3000;P1.P1.P1;Procurement (PO Required);;2021-09-02;C10. Jacquelin Estelle;2021-10-08;5. In 3 weeks;2021-10-20;7. In 5 weeks;Assoco;10;> Q3 2021;FastTrack
 1368722/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-05;C02. Jacquelin Estelle;2021-10-06;5. In 3 weeks;2021-10-13;6. In 4 weeks;Public;5;OUT Q3;FastTrack
-1368750/1000;P1.P1.P1;Production Started;;2021-08-10;C10. Jacquelin Estelle;2021-09-14;2. Current week;2021-09-21;3. Next week;Public;5;21W38;FastTrack
+1368750/1000;P1.P1.P1;Customer Stock;;2021-08-10;C10. Jacquelin Estelle;2021-09-14;2. Current week;2021-09-21;3. Next week;Public;5;21W38;FastTrack
 1368969/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-12;C24. Bazin, Sandrine;2021-11-03;;2021-11-10;;Public;7;> Q3 2021;FastTrack
 1368969/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack
 1368975/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-12;C24. Bazin, Sandrine;2021-11-03;;2021-11-10;;Public;7;> Q3 2021;FastTrack
@@ -6516,7 +6492,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1369034/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack
 1369055/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-10-18;7. In 5 weeks;2021-11-15;;Public;5;> Q3 2021;Nuclear
 1369055/3000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Nuclear
-1369055/4000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Nuclear
 1369067/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-16;2. Current week;2021-09-24;3. Next week;Public;5;21W38;Nuclear
 1369067/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-01;4. In 2 weeks;Public;5;> Q3 2021;Nuclear
 1369067/3000;P1.P1.P1;Production Planned;;;C24. Bazin, Sandrine;2022-03-24;;2022-04-21;;Public;5;> Q3 2021;Nuclear
@@ -6719,8 +6694,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1371594/23000;P1.P1.P1;Engineering;ENGR;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;> Q3 2021;FastTrack
 1371594/24000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-03-21;;2022-04-19;;Assoco;7;> Q3 2021;FastTrack
 1371790/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-09-08;C10. Jacquelin Estelle;2021-12-07;;2021-12-21;;Public;10;> Q3 2021;FastTrack
-1371806/1000;P1.P1.P1;Production Started;;2021-08-16;C24. Bazin, Sandrine;2021-09-22;3. Next week;2021-09-29;4. In 2 weeks;Public;5;21W39;FastTrack
-1371806/2000;P1.P1.P1;Production Started;;2021-08-16;C24. Bazin, Sandrine;2021-09-22;3. Next week;2021-09-29;4. In 2 weeks;Public;5;21W39;FastTrack
+1371806/1000;P1.P1.P1;Shipping;;2021-08-16;C24. Bazin, Sandrine;2021-09-22;3. Next week;2021-09-29;4. In 2 weeks;Public;5;21W39;FastTrack
+1371806/2000;P1.P1.P1;Shipping;;2021-08-16;C24. Bazin, Sandrine;2021-09-22;3. Next week;2021-09-29;4. In 2 weeks;Public;5;21W39;FastTrack
 1371910/1000;P1.P1.P1;Procurement (PO Required);;2021-09-08;C26. Bazin, Sandrine;2021-11-02;;2021-11-15;;Public;10;> Q3 2021;FastTrack
 1371922/1000;P1.P1.P1;Engineering;ENGR;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;7;> Q3 2021;FastTrack
 1371922/2000;P1.P1.P1;Engineering;ENGR;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;7;> Q3 2021;FastTrack
@@ -6780,10 +6755,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1373180/1000;P1.P1.P1;Shipping;;2021-08-24;C26. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1373180/2000;P1.P1.P1;Shipping;;2021-08-24;C26. Bazin, Sandrine;2021-09-20;3. Next week;2021-09-27;4. In 2 weeks;Public;10;OUT Q3;FastTrack
 1373199/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-09-03;C12. Bazin, Sandrine;2021-11-02;;2021-11-09;;Public;5;> Q3 2021;FastTrack
-1373244/1000;P1.P1.P1;Production Ordered;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
-1373244/2000;P1.P1.P1;Production Ordered;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
-1373244/3000;P1.P1.P1;Production Ordered;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
-1373244/4000;P1.P1.P1;Production Ordered;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
+1373244/1000;P1.P1.P1;Production Started;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
+1373244/2000;P1.P1.P1;Production Started;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
+1373244/3000;P1.P1.P1;Production Started;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
+1373244/4000;P1.P1.P1;Production Started;;2021-08-25;C02. Jacquelin Estelle;2021-09-17;2. Current week;2021-09-24;3. Next week;Public;5;21W38;FastTrack
 1373534/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-31;C25. Bazin, Sandrine;2021-11-24;;2021-12-08;;Public;5;> Q3 2021;FastTrack
 1373534/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-31;C25. Bazin, Sandrine;2021-11-24;;2021-12-08;;Public;5;> Q3 2021;FastTrack
 1373534/3000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-31;C24. Bazin, Sandrine;2021-11-24;;2021-12-08;;Public;5;> Q3 2021;FastTrack
@@ -6852,7 +6827,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1374298/2000;P1.P1.P1;Production Planned;;2021-08-18;C07. Jacquelin Estelle;2021-11-03;;2021-11-10;;Assoco;10;> Q3 2021;FastTrack
 1374298/3000;P1.P1.P1;Production Planned;;2021-08-18;C07. Jacquelin Estelle;2021-11-03;;2021-11-10;;Assoco;10;> Q3 2021;FastTrack
 1374298/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-10-27;8. In 6 weeks;2021-11-24;;Assoco;10;> Q3 2021;FastTrack
-1374390/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-17;2. Current week;2021-09-24;3. Next week;Assoco;7;21W39;FastTrack
+1374390/2000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2021-09-17;2. Current week;2021-09-24;3. Next week;Assoco;7;21W39;FastTrack
 1374390/4000;P1.P1.PR;Available in Stock;;2021-08-19;C35. Gildas Daligault;2021-09-17;2. Current week;2021-10-08;5. In 3 weeks;Assoco;7;OUT Q3;FastTrack
 1374390/5000;P1.P1.P1;Production Started;;2021-08-26;C10. Jacquelin Estelle;2021-10-15;6. In 4 weeks;2021-10-22;7. In 5 weeks;Assoco;7;OUT Q3;FastTrack
 1374693/1000;P1.P1.ZZ;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
@@ -6862,7 +6837,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1374704/4000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-01;4. In 2 weeks;Public;25;SERVICES;Services
 1374704/6000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-03;1. In the past;2021-10-01;4. In 2 weeks;Public;25;SERVICES;Services
 1374731/1010;P1.P1.P1;Procurement (PO not Confirmed);;2021-09-03;C10. Jacquelin Estelle;2021-11-10;;2021-11-24;;Assoco;25;> Q3 2021;FastTrack
-1374805/1000;P1.P1.P1;;;2021-09-10;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;25;> Q3 2021;FastTrack
+1374805/1000;P1.P1.P1;;;2021-09-10;C10. Jacquelin Estelle;2021-12-03;;2021-12-17;;Assoco;25;> Q3 2021;FastTrack
 1375065/1000;RN.P1.RN;Engineering;ENGR;;C21. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1375065/2000;RN.P1.RN;Engineering;ENGR;;C21. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1375100/1000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;> Q3 2021;FastTrack
@@ -6898,10 +6873,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1375749/3000;P1.P1.P1;Procurement (Transit);;2021-09-02;C24. Bazin, Sandrine;2021-10-19;7. In 5 weeks;2021-10-26;8. In 6 weeks;Public;5;> Q3 2021;FastTrack
 1375749/4000;P1.P1.P1;Procurement (Transit);;2021-09-02;C24. Bazin, Sandrine;2021-10-19;7. In 5 weeks;2021-10-26;8. In 6 weeks;Public;5;> Q3 2021;FastTrack
 1375749/5000;P1.P1.P1;Procurement (Transit);;2021-09-02;C24. Bazin, Sandrine;2021-10-19;7. In 5 weeks;2021-10-26;8. In 6 weeks;Public;5;> Q3 2021;FastTrack
-1375930/1000;P1.P1.P1;;;2021-09-10;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
-1375930/2000;P1.P1.P1;;;2021-09-10;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
+1375930/1000;P1.P1.P1;;;2021-09-10;C10. Jacquelin Estelle;2021-12-22;;2022-01-05;;Public;5;> Q3 2021;Nuclear
+1375930/2000;P1.P1.P1;;;2021-09-10;C10. Jacquelin Estelle;2021-12-22;;2022-01-05;;Public;5;> Q3 2021;Nuclear
 1375930/3000;P1.P1.P1;;;;C11. Beaufils Celine;2021-10-27;8. In 6 weeks;2021-11-10;;Public;5;> Q3 2021;Nuclear
-1375930/4000;P1.P1.P1;Planning;;2021-08-30;C92. Gildas Daligault;2022-02-28;;2022-03-28;;Public;5;> Q3 2021;Nuclear
+1375930/4000;P1.P1.P1;;;2021-08-30;C92. Gildas Daligault;2022-02-28;;2022-03-28;;Public;5;> Q3 2021;Nuclear
 1375930/5000;P1.P1.P1;;;;C10. Jacquelin Estelle;2022-02-28;;2022-03-28;;Public;5;> Q3 2021;Nuclear
 1375930/6000;P1.P1.P1;;;;C35. Gildas Daligault;2022-02-28;;2022-03-28;;Public;5;> Q3 2021;Nuclear
 1375930/7000;P1.P1.P1;;;;C35. Gildas Daligault;2022-02-28;;2022-03-28;;Public;5;> Q3 2021;Nuclear
@@ -6971,7 +6946,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1376423/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-09-24;3. Next week;2021-10-15;6. In 4 weeks;Public;5;OUT Q3;FastTrack
 1376433/1000;P1.P1.P1;Production Ordered;;2021-09-02;C03. Bazin, Sandrine;2021-09-22;3. Next week;2021-10-13;6. In 4 weeks;Assoco;7;OUT Q3;FastTrack
 1376433/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-09-21;3. Next week;2021-10-08;5. In 3 weeks;Assoco;7;> Q3 2021;FastTrack
-1376433/3000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2021-09-08;1. In the past;2021-09-15;2. Current week;Assoco;7;21W38;FastTrack
+1376433/3000;P1.P1.P1;Shipping;;;C10. Jacquelin Estelle;2021-09-08;1. In the past;2021-09-15;2. Current week;Assoco;7;21W38;FastTrack
 1376433/4000;P1.IO.P5;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;ENG;FastTrack
 1376447/1000;P1.P1.P1;Engineering;ENGR;;C30. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;E.T.O
 1376447/2000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;E.T.O
@@ -7041,7 +7016,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1377515/2000;P1.P1.P1;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;> Q3 2021;FastTrack
 1377520/1000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Assoco;10;> Q3 2021;FastTrack
 1377789/1000;P1.P1.NM;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;> Q3 2021;FastTrack
-1378272/1000;P1.P1.P1;Shipping;;;C07. Jacquelin Estelle;2021-09-10;1. In the past;2021-09-13;1. In the past;Public;5;SERVICES;Services
 1378283/1000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1378293/1000;P1.P1.P1;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1378310/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-08;5. In 3 weeks;2021-10-25;8. In 6 weeks;Public;5;SERVICES;Services
@@ -7075,8 +7049,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1378361/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-09-28;4. In 2 weeks;2021-10-12;6. In 4 weeks;Assoco;10;> Q3 2021;FastTrack
 1378367/1000;P1.P1.P1;Engineering;ENGR;2021-09-10;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;ENG;Nuclear
 1378367/2000;P1.P1.P1;Engineering;ENGR;2021-09-10;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;ENG;Nuclear
-1378523/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-08-31;1. In the past;2021-09-01;1. In the past;Assoco;10;21W37;FastTrack
-1378535/1000;P1.P1.P1;Procurement (PO not Confirmed);;2021-09-10;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
+1378535/1000;P1.P1.P1;Production Planned;;2021-09-10;C02. Jacquelin Estelle;2021-09-21;3. Next week;2021-10-08;5. In 3 weeks;Public;5;> Q3 2021;FastTrack
 1378596/1010;P1.P1.P1;Booking;;2021-09-06;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1378596/2010;P1.P1.P1;Booking;;2021-09-06;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1378596/3010;P1.P1.P1;Booking;;2021-09-06;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
@@ -7225,7 +7198,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1379457/18000;P1.P1.P1;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1379457/19000;P1.P1.P1;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1379463/1000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
-1379467/1000;P1.P1.P1;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
+1379467/1000;P1.P1.P1;Planning;;2021-09-14;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1379491/1000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Assoco;10;> Q3 2021;FastTrack
 1379534/1000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Assoco;25;> Q3 2021;FastTrack
 1379534/2000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Assoco;25;> Q3 2021;FastTrack
@@ -7427,7 +7400,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1380961/121000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;Nuclear
 1380974/1000;P1.P1.NM;Engineering;ENGR;;C30. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1380974/2000;P1.P1.NM;Engineering;ENGR;;C30. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
-1380983/1000;P1.P1.NM;Booking;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
+1380983/1000;P1.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1380994/1000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1381407/1000;P1.P1.NM;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
 1381407/2000;P1.P1.NM;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2021;FastTrack
@@ -7522,7 +7495,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1381862/19000;P1.P1.ZZ;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;;FastTrack
 1381885/1000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;;FastTrack
 1381885/2000;RN.P1.RN;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;;FastTrack
-1382223/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;FastTrack
 1382277/1000;P1.P1.ZZ;Booking;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;;FastTrack
 1382404/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
 1382404/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
@@ -7536,6 +7508,28 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1382404/10000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
 1382404/11000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
 1382404/12000;P1.P1.P1;;;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
+1382739/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382739/2000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382739/3000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382739/4000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382739/5000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382739/6000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/2000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/3000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/4000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/5000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/6000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/7000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/8000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/9000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/10000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/11000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382755/12000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;FastTrack
+1382766/1000;;;;;;;0. Not defined;;0. Not defined;Assoco;5;;Services
+1382794/1000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-15;2. Current week;2021-09-15;2. Current week;Assoco;7;;FastTrack
+1382821/1000;P1.P1.ZZ;Booking;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;;FastTrack
+1382821/2000;P1.P1.ZZ;Booking;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;;FastTrack
 46000503/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-06-09;1. In the past;2021-09-08;1. In the past;Assoco;10;21W37;FastTrack
 46002959/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2021-09-08;1. In the past;2021-09-10;1. In the past;Assoco;10;21W37;FastTrack
 46003065/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-08-09;1. In the past;2021-10-04;5. In 3 weeks;Assoco;10;OUT Q3;FastTrack
@@ -7574,7 +7568,6 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46007849/1000;P1.P1.P1;Available in Stock;;;C26. Bazin, Sandrine;2021-10-19;7. In 5 weeks;2021-11-02;;Assoco;10;> Q3 2021;FastTrack
 46007952/1000;P1.P1.P1;Available in Stock;;;C26. Bazin, Sandrine;2021-10-22;7. In 5 weeks;2021-10-29;8. In 6 weeks;Assoco;10;> Q3 2021;FastTrack
 46007952/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-10-29;8. In 6 weeks;Assoco;10;> Q3 2021;FastTrack
-46008060/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;TO BE ANALYSED;FastTrack
 46008065/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;TO BE ANALYSED;FastTrack
 46008168/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-05;;Assoco;10;> Q3 2021;FastTrack
 46008168/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2021-10-15;6. In 4 weeks;2021-11-05;;Assoco;10;> Q3 2021;FastTrack
@@ -7593,7 +7586,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46008577/2000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2021-11-22;;2021-11-29;;Assoco;10;> Q3 2021;FastTrack
 46008585/2000;P1.P1.P1;Procurement (PO not Confirmed);;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;> Q3 2021;FastTrack
 46008646/1000;P1.P1.P1;Shipping;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;TO BE ANALYSED;FastTrack
-46008646/2000;P1.P1.P1;Production Ordered;;;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-20;3. Next week;Assoco;10;TO BE ANALYSED;FastTrack
+46008646/2000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-20;3. Next week;Assoco;10;TO BE ANALYSED;FastTrack
 46008646/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;TO BE ANALYSED;FastTrack
 46008646/4000;P1.P1.P1;Procurement (PO Confirmed);;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;> Q3 2021;FastTrack
 46008683/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
@@ -7601,45 +7594,50 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46008683/3000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008683/4000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008683/5000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
-46008715/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/3000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/4000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/5000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/6000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/7000;P1.P1.P1;;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/8000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
+46008715/1000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/2000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/3000;P1.P1.P1;;;;C35. Gildas Daligault;2021-11-04;;2021-11-12;;Assoco;7;;FastTrack
+46008715/4000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/5000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/6000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/7000;P1.P1.P1;;;;C09. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/8000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
 46008715/9000;P1.P1.P1;;;;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-20;3. Next week;Assoco;7;;FastTrack
-46008715/10000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/11000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/12000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/13000;P1.P1.P1;;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/14000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/15000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/16000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/17000;P1.P1.P1;;;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
+46008715/10000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/11000;P1.P1.P1;;;;C35. Gildas Daligault;2021-12-01;;2021-12-08;;Assoco;7;;FastTrack
+46008715/12000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/13000;P1.P1.P1;;;;C09. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/14000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/15000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/16000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/17000;P1.P1.P1;Production Planned;;;C26. Bazin, Sandrine;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
 46008715/18000;P1.P1.P1;;;;C07. Jacquelin Estelle;2021-09-14;2. Current week;2021-09-21;3. Next week;Assoco;7;;FastTrack
 46008715/19000;P1.P1.P1;;;;C10. Jacquelin Estelle;2021-09-14;2. Current week;2021-09-21;3. Next week;Assoco;7;;FastTrack
 46008715/20000;P1.P1.P1;;;;C10. Jacquelin Estelle;2021-09-14;2. Current week;2021-09-21;3. Next week;Assoco;7;;FastTrack
-46008715/21000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
+46008715/21000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
 46008715/22000;P1.P1.P1;;;;C10. Jacquelin Estelle;2021-09-13;1. In the past;2021-09-20;3. Next week;Assoco;7;;FastTrack
-46008715/23000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/24000;P1.P1.P1;;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/25000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
-46008715/26000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack
+46008715/23000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/24000;P1.P1.P1;;;;C09. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/25000;P1.P1.P1;;;;C35. Gildas Daligault;2021-09-14;2. Current week;2021-09-20;3. Next week;Assoco;7;;FastTrack
+46008715/26000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;2021-10-19;7. In 5 weeks;2021-10-26;8. In 6 weeks;Assoco;7;;FastTrack
 46008789/1000;P1.P1.P3;Shipping;;;C35. Gildas Daligault;2021-09-13;1. In the past;2021-09-20;3. Next week;Assoco;10;;FastTrack
-46008806/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
-46008806/2000;P1.P1.P1;Available in Stock;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008806/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008806/2000;P1.P1.P1;Shipping;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008806/3000;P1.P1.P1;Production Planned;;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
-46008806/4000;P1.P1.P1;Available in Stock;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
-46008806/5000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008806/4000;P1.P1.P1;Shipping;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008806/5000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008810/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008810/2000;P1.P1.P1;Procurement (PO Confirmed);;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008810/3000;P1.P1.P1;Procurement (PO Confirmed);;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008810/4000;P1.P1.P1;Procurement (PO Confirmed);;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008897/1000;P1.P1.P1;Production Started;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
-46008897/2000;P1.P1.P1;Procurement (PO Confirmed);;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008897/2000;P1.P1.P1;Production Planned;;;C09. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 46008901/1000;P1.P1.P1;Available in Stock;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008936/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008936/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008936/3000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008936/4000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
+46008936/5000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;FastTrack
 70185284/1000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;
 70185284/2000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;
 70185284/3000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;
@@ -8409,3 +8407,4 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 860173360/8000;P4.P4.P4;Customer Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services
 860173360/9000;P4.P4.P4;Customer Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services
 860173360/10000;P4.P4.P4;Customer Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services
+860173926/1000;P4.P4.P4;Customer Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Services

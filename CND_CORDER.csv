@@ -24,14 +24,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 766994/8000;P1.P1.P1;Charges;;2016-04-07;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;NUC
 767063/1000;P1.P1.ZZ;Booking;;2019-08-13;C35. Gildas Daligault;2024-12-16;;2024-12-30;;Public;9;ON HOLD;Nuclear;PDRN
 767064/1000;P1.P1.ZZ;Booking;ENGR;2018-06-11;C35. Gildas Daligault;2023-01-06;;2023-01-20;;Public;9;ON HOLD;Nuclear;PDRN Esclave
-767077/8000;P1.P1.P1;Procurement (PO Confirmed);;2018-05-02;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
+767077/8000;P1.P1.P1;Procurement (PO not Confirmed);;2018-05-02;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
 767077/9000;P1.P1.P1;Production Started;;2018-05-02;C11. Martin Etienne;2024-01-26;;2024-02-02;;Public;5;> Q3 2022;Nuclear;NUC
 767077/10000;P1.P1.P1;Procurement (PO not Confirmed);;2018-05-02;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
 767077/11000;P1.P1.P1;Production Started;;2018-05-02;C11. Martin Etienne;2024-01-26;;2024-02-02;;Public;5;> Q3 2022;Nuclear;NUC
 767077/12000;P1.P1.P1;Procurement (PO not Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
-767077/13000;P1.P1.P1;Procurement (PO Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
-767077/14000;P1.P1.P1;Procurement (PO Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
-767077/15000;P1.P1.P1;Procurement (PO Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
+767077/13000;P1.P1.P1;Procurement (PO not Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
+767077/14000;P1.P1.P1;Procurement (PO not Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
+767077/15000;P1.P1.P1;Procurement (PO not Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
 767077/16000;P1.P1.P1;Procurement (PO Confirmed);;2019-01-15;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
 767077/17000;P1.P1.P1;Procurement (PO not Confirmed);;2019-01-15;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
 767077/18000;P1.P1.P1;Procurement (PO not Confirmed);;2018-12-27;C11. Martin Etienne;2023-01-02;;2023-01-16;;Public;5;> Q3 2022;Nuclear;NUC
@@ -239,7 +239,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1001200/10000;P1.P1.P1;Customer Stock;;2020-10-21;C35. Gildas Daligault;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
 1001200/11000;P1.P1.P1;Production Started;;2020-09-15;C28. Machining;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
 1001200/12000;P1.P1.P1;Available in Stock;;2020-09-15;C35. Gildas Daligault;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
-1001200/13000;P1.P1.P1;Available in Stock;;2020-09-15;C35. Gildas Daligault;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
+1001200/13000;P1.P1.P1;Procurement (PO Required);;2020-09-15;C35. Gildas Daligault;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
 1001200/14000;P1.P1.P1;Available in Stock;;2020-09-15;C35. Gildas Daligault;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
 1001200/15000;P1.P1.P1;Available in Stock;;2020-09-15;C35. Gildas Daligault;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
 1001200/16000;P1.P1.P1;Available in Stock;;2020-09-15;C35. Gildas Daligault;2022-11-04;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;NUC
@@ -510,14 +510,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1050974/61000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-01-20;;2023-02-03;;Public;5;> Q3 2022;Nuclear;NUC18-14302
 1050974/62000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-01-20;;2023-02-03;;Public;5;> Q3 2022;Nuclear;NUC18-14302
 1050974/63000;P1.P1.P1;Procurement (PO Confirmed);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/64000;P1.P1.P1;Procurement (PO Confirmed);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/65000;P1.P1.P1;Procurement (PO Confirmed);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/66000;P1.P1.P1;Procurement (PO not Confirmed);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/67000;P1.P1.P1;Procurement (PO not Confirmed);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/68000;P1.P1.P1;Procurement (PO not Confirmed);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/69000;P1.P1.P1;Procurement (PO not Confirmed);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/70000;P1.P1.P1;Procurement (PO not Confirmed);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
-1050974/71000;P1.P1.P1;Procurement (PO not Confirmed);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/64000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/65000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/66000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/67000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-01-27;;2023-02-10;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/68000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/69000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/70000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
+1050974/71000;P1.P1.P1;Procurement (PO Required);;2019-04-18;C11. Martin Etienne;2023-02-03;;2023-02-17;;Public;5;> Q3 2022;Nuclear;NUC18-14302
 1050974/72000;P1.P1.P1;Procurement (PO Confirmed);;2019-09-18;C11. Martin Etienne;2022-09-27;;2022-10-11;;Public;5;OUT Q3 2022;Nuclear;NUC18-14302
 1050974/91000;P1.P1.P1;Customer Stock;;2019-04-18;C35. Gildas Daligault;2023-02-10;;2023-02-17;;Public;5;Certif;Nuclear;NUC18-14302
 1050974/92000;P1.P1.P1;Production Started;;2019-04-18;C35. Gildas Daligault;2023-02-10;;2023-02-17;;Public;5;Certif;Nuclear;NUC18-14302
@@ -841,15 +841,15 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1141875/1000;P1.P1.P1;Shipping;;2021-09-02;C08. Machining;2022-02-25;1. In the past;2022-03-04;1. In the past;Public;7;> Q3 2022;Nuclear;PDRN
 1159301/2000;P1.P1.ZZ;Engineering;ENGR;2019-11-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PRNE17-10038
 1159301/3000;P1.P1.P1;Charges;;2019-11-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PRNE17-10038
-1167065/1000;P1.P1.P1;Production Started;;2021-11-18;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;2. Current week;Public;9;22W31;Nuclear;NUC
-1167065/2000;P1.P1.P1;Production Started;;2021-11-18;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;2. Current week;Public;9;22W31;Nuclear;NUC
+1167065/1000;P1.P1.P1;Production Started;;2021-11-18;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;1. In the past;Public;9;22W31;Nuclear;NUC
+1167065/2000;P1.P1.P1;Production Started;;2021-11-18;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;1. In the past;Public;9;22W31;Nuclear;NUC
 1167065/3000;P1.P1.P1;Manufacturing Engineering Issue;;2021-04-26;C11. Martin Etienne;2022-08-22;8. In 6 weeks;2022-09-05;;Public;9;22W37;Nuclear;NUC
 1167065/4000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-06-29;1. In the past;2022-07-05;1. In the past;Public;9;22W31;Nuclear;NUC
 1167065/5000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Public;9;22W31;Nuclear;NUC
 1167065/6000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-26;C11. Martin Etienne;2022-09-30;;2022-10-10;;Public;9;OUT Q3 2022;Nuclear;NUC
-1167065/7000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;2. Current week;Public;9;22W31;Nuclear;NUC
-1167065/8000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;2. Current week;Public;9;22W31;Nuclear;NUC
-1167065/9000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;2. Current week;Public;9;22W31;Nuclear;NUC
+1167065/7000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;1. In the past;Public;9;22W31;Nuclear;NUC
+1167065/8000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;1. In the past;Public;9;22W31;Nuclear;NUC
+1167065/9000;P1.P1.P1;Production Started;;2021-04-26;C11. Martin Etienne;2022-07-08;1. In the past;2022-07-13;1. In the past;Public;9;22W31;Nuclear;NUC
 1167065/10000;P1.P1.P1;Procurement (PO Confirmed);;2021-04-26;C11. Martin Etienne;2022-09-19;;2022-10-10;;Public;9;OUT Q3 2022;Nuclear;NUC
 1167065/11000;P1.P1.P1;Production Started;;2021-11-18;C11. Martin Etienne;2022-07-18;3. Next week;2022-08-02;5. In 3 weeks;Public;9;22W33;Nuclear;NUC
 1167065/12000;P1.P1.P1;Production Started;;2021-11-18;C11. Martin Etienne;2022-07-18;3. Next week;2022-08-02;5. In 3 weeks;Public;9;22W33;Nuclear;NUC
@@ -975,7 +975,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1193525/15000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-05;C24. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
 1193525/16000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-05;C24. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
 1193525/17000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-05;C24. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
-1193525/18000;P1.P1.P1;Procurement (PO not Confirmed);;2022-01-05;C24. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
+1193525/18000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-05;C24. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
 1193525/19000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-05;C12. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
 1193525/20000;P1.P1.P1;Procurement (PO not Confirmed);;2022-01-05;C12. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
 1193525/21000;P1.P1.P1;Procurement (PO not Confirmed);;2022-01-05;C25. Bazin, Sandrine;2023-04-07;;2023-05-05;;Public;9;> Q3 2022;FastTrack;19-22401M
@@ -1311,10 +1311,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1258038/1010;P1.P1.P1;Available in Stock;;2020-12-29;C35. Gildas Daligault;2022-09-23;;2022-09-30;;Public;9;OUT Q3 2022;FastTrack;
 1258038/2010;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;CHARGES;FastTrack;
 1263961/1000;P1.P1.P1;Production Started;;2020-10-16;C26. Bazin, Sandrine;2023-12-04;;2023-12-18;;Public;9;OUT Q3 2022;E.T.O;
-1266333/64000;P1.P1.P1;Production Planned;;;C08. Machining;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;E.T.O;20-04391
-1266333/65000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;E.T.O;20-04391
-1266333/66000;P1.P1.P1;Production Planned;;;C08. Machining;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;E.T.O;20-04391
-1266333/67000;P1.P1.SP;Manufacturing Engineering Issue;;;C08. Machining;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;E.T.O;20-04391
+1266333/64000;P1.P1.P1;Procurement (PO Required);;;C08. Machining;2022-08-23;8. In 6 weeks;2022-08-30;;Public;9;TO BE ANALYSED;E.T.O;20-04391
+1266333/65000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-23;8. In 6 weeks;2022-08-30;;Public;9;TO BE ANALYSED;E.T.O;20-04391
+1266333/66000;P1.P1.P1;Production Planned;;;C08. Machining;2022-08-23;8. In 6 weeks;2022-08-30;;Public;9;TO BE ANALYSED;E.T.O;20-04391
+1266333/67000;P1.P1.SP;Manufacturing Engineering Issue;;;C08. Machining;2022-08-23;8. In 6 weeks;2022-08-30;;Public;9;TO BE ANALYSED;E.T.O;20-04391
 1268775/1000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;CHARGES;Nuclear;NUC
 1268775/4000;P1.P1.P1;Shipping;;2021-03-31;C35. Gildas Daligault;2022-01-21;1. In the past;2022-01-28;1. In the past;Public;5;CERTIF;Nuclear;NUC
 1268775/5000;P1.P1.P1;Shipping;;2021-07-09;C35. Gildas Daligault;2022-01-21;1. In the past;2022-01-28;1. In the past;Public;5;CERTIF;Nuclear;NUC
@@ -1809,7 +1809,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1351641/2000;P1.P1.RB;Production Started;;2021-09-08;C92. Gildas Daligault;2022-07-22;3. Next week;2022-08-05;5. In 3 weeks;Public;5;22W34;Nuclear;20-05540
 1353008/1000;P1.P1.P1;Production Started;;2021-12-21;C08. Machining;2022-08-26;8. In 6 weeks;2022-09-02;;Public;7;22W35;Nuclear;PDRN
 1353008/2000;P1.P1.P1;Charges;;2021-12-21;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
-1353750/1000;P1.P1.P1;Production Planned;;2022-02-07;C92. Gildas Daligault;2022-11-25;;2022-12-02;;Public;7;OUT Q3 2022;Nuclear;PDRN
+1353750/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-07;C92. Gildas Daligault;2022-11-25;;2022-12-02;;Public;7;OUT Q3 2022;Nuclear;PDRN
 1353750/2000;P1.P1.P1;Charges;;2021-06-11;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1354706/1000;P1.P1.P1;Production Started;;2021-12-17;C08. Machining;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;7;22W30;Nuclear;PDRN
 1354706/2000;P1.P1.P1;Charges;;2021-12-17;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
@@ -1908,7 +1908,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1360981/10000;P1.P1.P1;Customer Stock;;2021-08-24;C02. Jacquelin Estelle;2024-12-23;;2024-12-30;;Public;9;3Q OPPS;FastTrack;21-29705M
 1360981/11000;P1.P1.P1;Customer Stock;;2021-08-24;C02. Jacquelin Estelle;2024-12-23;;2024-12-30;;Public;9;3Q OPPS;FastTrack;21-29705M
 1360981/12000;P1.P1.P1;Customer Stock;;2021-08-26;C02. Jacquelin Estelle;2024-12-23;;2024-12-30;;Public;9;3Q OPPS;FastTrack;21-29705M
-1361321/14000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-11;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Assoco;7;22W34;FastTrack;
+1361321/14000;P1.P1.P1;Production Planned;;2021-08-11;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Assoco;7;22W34;FastTrack;
 1362163/1000;P1.P1.P1;Shipping;;;C08. Machining;2022-05-06;1. In the past;2022-05-13;1. In the past;Public;7;SERVICES;Services;
 1363336/1000;P1.P1.P1;Shipping;;2021-07-21;C25. Bazin, Sandrine;2022-03-11;1. In the past;2022-03-18;1. In the past;Public;5;> Q3 2022;FastTrack;
 1363336/2000;P1.P1.P1;Shipping;;2021-07-21;C24. Bazin, Sandrine;2022-03-11;1. In the past;2022-03-18;1. In the past;Public;5;> Q3 2022;FastTrack;
@@ -2017,12 +2017,12 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1370916/4000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-26;C03. Bazin, Sandrine;2022-08-24;8. In 6 weeks;2022-08-24;8. In 6 weeks;Public;5;22W34;FastTrack;21-30111M
 1370916/6000;P1.P1.P1;Procurement (PO not Confirmed);;2021-08-26;C03. Bazin, Sandrine;2022-08-24;8. In 6 weeks;2022-08-24;8. In 6 weeks;Public;5;22W34;FastTrack;21-30111M
 1371594/21000;P1.P1.P1;Procurement (PO Confirmed);;2021-09-28;C03. Bazin, Sandrine;2022-08-29;;2022-08-29;;Assoco;7;22W36;FastTrack;
-1371940/1000;P1.P1.P1;Production Planned;;2022-06-30;C08. Machining;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
+1371940/1000;P1.P1.P1;Procurement (PO Required);;2022-06-30;C08. Machining;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
 1371940/2000;P1.P1.P1;Available in Stock;;2021-08-19;C35. Gildas Daligault;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
 1371940/3000;P1.P1.P1;Available in Stock;;2021-08-19;C35. Gildas Daligault;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
-1371940/4000;P1.P1.P1;Production Planned;;2022-06-29;C08. Machining;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
+1371940/4000;P1.P1.P1;Procurement (PO Required);;2022-06-29;C08. Machining;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
 1371940/5000;P1.P1.P1;Available in Stock;;2021-08-19;C35. Gildas Daligault;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
-1371940/6000;P1.P1.P1;Production Planned;;2022-06-29;C08. Machining;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
+1371940/6000;P1.P1.P1;Procurement (PO Required);;2022-06-29;C08. Machining;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
 1371940/7000;P1.P1.P1;Available in Stock;;2021-08-19;C35. Gildas Daligault;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
 1371940/8000;P1.P1.P1;Available in Stock;;2021-08-19;C92. Gildas Daligault;2022-09-20;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;PDRN
 1371940/9000;P1.P1.P1;Charges;;2021-08-19;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;CHARGES;Nuclear;PDRN
@@ -2071,7 +2071,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1380961/12020;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-29;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;22W31;Nuclear;
 1380961/21000;P1.P1.P1;Procurement (PO Confirmed);;2021-11-03;C92. Gildas Daligault;2022-07-07;1. In the past;2022-09-30;;Public;5;22W39;Nuclear;
 1380961/33000;P1.P1.P1;Procurement (PO Confirmed);;2021-10-29;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W30;Nuclear;
-1380961/72000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;2022-08-29;;2022-10-10;;Public;5;OUT Q3 2022;Nuclear;
+1380961/72000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-08-29;;2022-10-10;;Public;5;OUT Q3 2022;Nuclear;
 1380961/92000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W30;Nuclear;
 1381497/2000;P1.P1.P1;Production Started;;2021-09-28;C08. Machining;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;9;22W34;Nuclear;PDRN
 1381497/3000;P1.P1.P1;Customer Stock;;2021-09-28;C08. Machining;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;9;22W34;Nuclear;PDRN
@@ -2097,8 +2097,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1382277/1000;P1.P1.P1;Production Started;;2021-10-25;C01. Hubert Jean Charl;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Public;9;22W31;E.T.O;21-28359M
 1382821/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-27;C26. Bazin, Sandrine;2022-07-08;1. In the past;2022-07-15;2. Current week;Public;5;22W33;Nuclear;
 1382821/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-27;C26. Bazin, Sandrine;2022-07-08;1. In the past;2022-07-15;2. Current week;Public;5;22W33;Nuclear;
-1383083/2000;P1.P1.P1;Production Planned;;2022-04-08;C34. Masse Mickael;2022-12-07;;2022-12-21;;Public;5;OUT Q3 2022;Nuclear;
-1383595/1000;P1.P1.P1;Production Planned;;2022-03-03;C08. Machining;2022-08-26;8. In 6 weeks;2022-09-02;;Public;5;22W35;Nuclear;
+1383083/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-08;C34. Masse Mickael;2022-12-07;;2022-12-21;;Public;5;OUT Q3 2022;Nuclear;
+1383595/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-03;C08. Machining;2022-08-26;8. In 6 weeks;2022-09-02;;Public;5;22W35;Nuclear;
 1383595/1010;P1.P1.P1;Procurement (Shortage);;;C08. Machining;2022-08-26;8. In 6 weeks;2022-09-02;;Public;5;TO BE ANALYSED;Nuclear;
 1383595/2000;P1.P1.SP;Manufacturing Engineering Issue;;2022-03-03;C92. Gildas Daligault;2022-12-16;;2022-12-23;;Public;5;OUT Q3 2022;Nuclear;
 1383595/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-03;C08. Machining;2022-11-25;;2022-12-02;;Public;5;OUT Q3 2022;Nuclear;
@@ -2148,10 +2148,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1388199/12000;P1.P1.P1;Booking;;2021-11-09;C10. Jacquelin Estelle;2026-12-24;;2026-12-31;;Public;9;> Q3 2022;FastTrack;21-30499M
 1388497/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-05;C27. Hubert Jean Charl;2022-08-22;8. In 6 weeks;2022-08-31;;Public;9;22W37;E.T.O;
 1388497/2000;P1.P1.RB;Procurement (PO not Confirmed);;2022-02-07;C27. Hubert Jean Charl;2022-10-10;;2022-10-17;;Public;9;OUT Q3 2022;E.T.O;
-1388497/3000;P1.P1.P1;Procurement (PO Required);;2022-03-07;C27. Hubert Jean Charl;2022-08-24;8. In 6 weeks;2022-09-06;;Public;9;22W37;E.T.O;
+1388497/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-03-07;C27. Hubert Jean Charl;2022-08-24;8. In 6 weeks;2022-09-06;;Public;9;22W37;E.T.O;
 1388497/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-07;C27. Hubert Jean Charl;2022-08-24;8. In 6 weeks;2022-09-06;;Public;9;22W37;E.T.O;
-1388497/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-07;C27. Hubert Jean Charl;2022-08-24;8. In 6 weeks;2022-09-06;;Public;9;22W37;E.T.O;
-1388497/6000;P1.P1.P1;Procurement (PO Required);;2022-03-07;C27. Hubert Jean Charl;2022-08-24;8. In 6 weeks;2022-09-06;;Public;9;OUT Q3 2022;E.T.O;
+1388497/5000;P1.P1.P1;Procurement (PO not Confirmed);;2022-03-07;C27. Hubert Jean Charl;2022-08-24;8. In 6 weeks;2022-09-06;;Public;9;22W37;E.T.O;
+1388497/6000;P1.P1.P1;Procurement (PO not Confirmed);;2022-03-07;C27. Hubert Jean Charl;2022-08-24;8. In 6 weeks;2022-09-06;;Public;9;OUT Q3 2022;E.T.O;
 1388497/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-21;C22. Hubert Jean Charl;2022-08-30;;2022-09-07;;Public;9;22W37;E.T.O;
 1388497/8000;P1.P1.RB;Procurement (PO Confirmed);;2022-01-18;C23. Hubert Jean Charl;2022-09-26;;2022-10-11;;Public;9;3Q OPPS;E.T.O;
 1388497/9000;P1.P1.RB;Engineering Issue;;2022-03-14;C22. Hubert Jean Charl;2022-08-30;;2022-09-12;;Public;9;OUT Q3 2022;E.T.O;
@@ -2274,44 +2274,44 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1395634/4000;P1.P1.P1;Procurement (PO Confirmed);;2021-10-18;C03. Bazin, Sandrine;2022-09-27;;2022-09-27;;Assoco;9;3Q OPPS;FastTrack;
 1396325/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-11-08;C03. Bazin, Sandrine;2022-08-24;8. In 6 weeks;2022-08-24;8. In 6 weeks;Public;5;22W34;FastTrack;RSSO-59510-1
 1396606/1000;P1.P1.P1;;;;C35. Gildas Daligault;2022-06-03;1. In the past;2022-06-10;1. In the past;Public;5;CHARGES;FastTrack;RSSO-41370-1
-1396930/1000;P1.P1.P1;Engineering;EOUT;2022-03-23;C92. Gildas Daligault;2022-11-25;;2023-01-06;;Public;5;> Q3 2022;Nuclear;
-1396930/2000;P1.P1.P1;Engineering;EOUT;2022-05-06;C92. Gildas Daligault;2022-11-25;;2023-01-06;;Public;5;> Q3 2022;Nuclear;
+1396930/1000;P1.P1.P1;Engineering;EOUT;2022-03-23;C92. Gildas Daligault;2023-02-03;;2023-04-13;;Public;5;> Q3 2022;Nuclear;
+1396930/2000;P1.P1.P1;Engineering;EOUT;2022-05-06;C92. Gildas Daligault;2023-02-03;;2023-04-13;;Public;5;> Q3 2022;Nuclear;
 1398479/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-29;C02. Jacquelin Estelle;2022-07-26;4. In 2 weeks;2022-08-02;5. In 3 weeks;Assoco;9;22W32;FastTrack;RSSO-43716-1
 1398479/2000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-29;C02. Jacquelin Estelle;2022-07-26;4. In 2 weeks;2022-08-02;5. In 3 weeks;Assoco;9;22W32;FastTrack;RSSO-43716-1
 1398530/1000;P1.P1.P1;Shipping;;2022-01-05;C22. Hubert Jean Charl;2022-06-15;1. In the past;2022-06-22;1. In the past;Public;9;22W31;E.T.O;RSSO-55907-1
 1398530/2000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;CHARGES;E.T.O;RSSO-55907-1
-1398533/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-01-12;C02. Jacquelin Estelle;2022-08-02;5. In 3 weeks;2022-08-09;6. In 4 weeks;Public;7;22W32;E.T.O;RSSO-46960-1
+1398533/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-12;C02. Jacquelin Estelle;2022-08-02;5. In 3 weeks;2022-08-09;6. In 4 weeks;Public;7;22W32;E.T.O;RSSO-46960-1
 1398688/1000;P1.P1.P1;Production Started;;2021-11-30;C21. Masse Mickael;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W30;FastTrack;RSSO-59549-1
 1398940/2000;P1.P1.P1;Production Ordered;;;C09. Machining;2022-08-26;8. In 6 weeks;2022-09-02;;Assoco;7;22W36;FastTrack;
 1398960/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-04;C08. Machining;2022-12-02;;2022-12-09;;Public;7;OUT Q3 2022;Nuclear;
 1398960/2000;P1.P1.PR;Procurement (PO Required);;2022-05-04;C35. Gildas Daligault;2022-09-16;;2022-09-23;;Public;7;22W38;Nuclear;
 1398960/4000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;
-1399632/1000;P1.P1.P1;Booking;;2022-04-12;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/2000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/3000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/4000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/5000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/6000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/7000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/8000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/9000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/10000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/11000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399632/12000;P1.P1.ZZ;Booking;;;C35. Gildas Daligault;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/1000;P1.P1.P1;Booking;;2022-04-12;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/2000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/3000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/4000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/5000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/6000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/7000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/8000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/9000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/10000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/11000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399632/12000;P1.P1.ZZ;Booking;;;C35. Gildas Daligault;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
 1399632/13000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;E.T.O;21-29640M
 1399632/14000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;E.T.O;21-29640M
-1399674/1000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/2000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/3000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/4000;P1.P1.P1;Booking;;2022-04-13;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/5000;P1.P1.P1;Booking;;2022-04-13;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/6000;P1.P1.P1;Booking;;2022-04-13;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/7000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/8000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/9000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/10000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/11000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
-1399674/12000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;2. Current week;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/1000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/2000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/3000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/4000;P1.P1.P1;Booking;;2022-04-13;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/5000;P1.P1.P1;Booking;;2022-04-13;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/6000;P1.P1.P1;Booking;;2022-04-13;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/7000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/8000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/9000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/10000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/11000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
+1399674/12000;P1.P1.P1;Booking;;2022-04-14;C02. Jacquelin Estelle;2022-07-13;1. In the past;2023-01-03;;Public;7;OUT Q3 2022;E.T.O;21-29640M
 1399674/13000;P1.P1.ZZ;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;ENG;E.T.O;21-29640M
 1399674/14000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;E.T.O;21-29640M
 1399674/15000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;E.T.O;21-29640M
@@ -2334,7 +2334,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1402189/1000;P1.P1.P1;Engineering;EOUT;2022-07-08;C01. Hubert Jean Charl;2023-01-06;;2023-01-20;;Public;7;ENG;Nuclear;CF
 1402230/1000;P1.P1.NM;Engineering;EOUT;2022-07-08;C01. Hubert Jean Charl;2022-11-25;;2022-12-09;;Public;7;ENG;Nuclear;CF
 1402240/1000;P1.P1.P1;Engineering;EOUT;2022-07-08;C15. Masse Mickael;2023-01-13;;2023-01-27;;Public;7;ENG;Nuclear;CF
-1403383/8000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2022-07-13;2. Current week;2022-07-20;3. Next week;Public;5;22W31;Nuclear;
+1403383/8000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2022-07-13;1. In the past;2022-07-20;3. Next week;Public;5;22W31;Nuclear;
 1403383/9000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-02;C10. Jacquelin Estelle;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Public;5;22W32;Nuclear;
 1403383/10000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-02;C10. Jacquelin Estelle;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Public;5;22W32;Nuclear;
 1403383/11000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-02;C10. Jacquelin Estelle;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Public;5;22W32;Nuclear;
@@ -2343,7 +2343,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1403395/11000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-12;6. In 4 weeks;Public;5;SERVICES;Services;
 1403437/2000;P1.P1.P1;Shipping;;2022-01-13;C28. Machining;2022-05-30;1. In the past;2022-06-03;1. In the past;Public;7;22W30;Nuclear;PDRN
 1403437/3000;P1.P1.P1;Charges;;2022-01-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
-1403695/1000;P1.P1.P1;Production Started;;2021-12-20;C12. Bazin, Sandrine;2022-07-21;3. Next week;2022-07-21;3. Next week;Public;5;22W29;FastTrack;RSSO-53673-1
+1403695/1000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-20;C12. Bazin, Sandrine;2022-07-21;3. Next week;2022-07-21;3. Next week;Public;5;22W29;FastTrack;RSSO-53673-1
 1403941/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-24;C08. Machining;2022-11-18;;2022-11-25;;Public;7;OUT Q3 2022;Nuclear;PDRN
 1403941/3000;P1.P1.P1;Charges;;2022-03-24;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1403951/1000;P1.P1.P1;Shipping;;2021-12-21;C21. Masse Mickael;2022-06-17;1. In the past;2022-06-24;1. In the past;Public;9;22W31;E.T.O;21-31197M
@@ -2352,7 +2352,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1403951/4000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-06-21;1. In the past;2022-06-24;1. In the past;Public;9;22W30;E.T.O;21-31197M
 1403951/5000;P1.P1.P1;Shipping;;;C92. Gildas Daligault;2022-06-21;1. In the past;2022-06-24;1. In the past;Public;9;22W30;E.T.O;21-31197M
 1403951/6000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;CHARGES;E.T.O;21-31197M
-1404253/1000;P1.P1.P1;Shipping;;2022-02-11;C28. Machining;2022-07-06;1. In the past;2022-07-13;2. Current week;Public;7;22W30;Nuclear;PDRN
+1404253/1000;P1.P1.P1;Shipping;;2022-02-11;C28. Machining;2022-07-06;1. In the past;2022-07-13;1. In the past;Public;7;22W30;Nuclear;PDRN
 1404253/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-11;C35. Gildas Daligault;2022-07-22;3. Next week;2022-08-05;5. In 3 weeks;Public;7;22W35;Nuclear;PDRN
 1404253/3010;P1.P1.P1;Production Started;;2022-03-09;C08. Machining;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;7;22W35;Nuclear;PDRN
 1404253/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-11;C08. Machining;2022-10-21;;2022-10-28;;Public;7;OUT Q3 2022;Nuclear;PDRN
@@ -2395,9 +2395,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1407891/19000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
 1407891/20000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
 1407891/21000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
-1407891/22000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
-1407891/23000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
-1407891/24000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
+1407891/22000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
+1407891/23000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
+1407891/24000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-08;C30. Masse Mickael;2022-09-20;;2022-10-04;;Public;7;> Q3 2022;Nuclear;21-07952
 1407891/25000;P1.P1.P1;Procurement (PO Required);;2022-02-08;C22. Hubert Jean Charl;2023-03-06;;2023-03-21;;Public;7;> Q3 2022;Nuclear;21-07952
 1407891/26000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-08;C22. Hubert Jean Charl;2023-03-06;;2023-03-21;;Public;7;> Q3 2022;Nuclear;21-07952
 1407891/27000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-08;C22. Hubert Jean Charl;2023-03-06;;2023-03-21;;Public;7;> Q3 2022;Nuclear;21-07952
@@ -2514,7 +2514,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1412001/24000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-08;C12. Bazin, Sandrine;2022-09-02;;2022-09-16;;Public;5;22W37;FastTrack;
 1412055/5000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-10-10;;2022-10-21;;Public;5;OUT Q3 2022;Nuclear;
 1412076/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-10;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W30;Nuclear;
-1412076/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-10;C92. Gildas Daligault;2022-09-16;;2022-09-23;;Public;5;> Q3 2022;Nuclear;
+1412076/2000;P1.P1.P1;Production Ordered;;2022-02-10;C92. Gildas Daligault;2022-09-16;;2022-09-23;;Public;5;> Q3 2022;Nuclear;
 1412076/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-10;C08. Machining;2022-11-16;;2022-11-23;;Public;5;> Q3 2022;Nuclear;
 1412076/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-10;C08. Machining;2022-11-17;;2022-11-25;;Public;5;> Q3 2022;Nuclear;
 1412569/1000;P1.P1.P1;Shipping;;2021-12-10;C25. Bazin, Sandrine;2022-07-01;1. In the past;2022-07-08;1. In the past;Public;5;22W29;FastTrack;
@@ -2613,12 +2613,12 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1414169/43000;P1.P1.P1;Production Ordered;;2021-12-17;C03. Bazin, Sandrine;2022-07-18;3. Next week;2022-07-18;3. Next week;Assoco;7;22W31;FastTrack;
 1414169/44000;P1.P1.P1;Procurement (incoming material inspection);;2021-12-17;C03. Bazin, Sandrine;2022-07-18;3. Next week;2022-07-18;3. Next week;Assoco;7;22W31;FastTrack;
 1414169/45000;P1.P1.P1;Procurement (incoming material inspection);;2021-12-17;C03. Bazin, Sandrine;2022-07-18;3. Next week;2022-07-18;3. Next week;Assoco;7;22W31;FastTrack;
-1414169/50000;P1.P1.P1;Procurement (PO Confirmed);;2021-12-17;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Assoco;7;22W34;FastTrack;
+1414169/50000;P1.P1.P1;Production Planned;;2021-12-17;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Assoco;7;22W34;FastTrack;
 1414193/4000;P1.P1.P1;Charges;;2022-01-27;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1414445/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-01;1. In the past;2022-07-08;1. In the past;Public;5;22W28;Nuclear;
 1415100/1000;P1.P1.RB;Procurement (PO Confirmed);;2022-05-16;C02. Jacquelin Estelle;2022-07-21;3. Next week;2022-08-04;5. In 3 weeks;Public;9;22W33;FastTrack;
 1415129/1000;P1.P1.P1;Procurement (PO Required);;2022-01-19;C08. Machining;2022-10-21;;2022-10-28;;Assoco;9;OUT Q3 2022;FastTrack;PDRN
-1415514/1000;P1.P1.P1;Production Started;;2022-02-08;C27. Hubert Jean Charl;2022-07-13;2. Current week;2022-07-20;3. Next week;Public;5;22W29;FastTrack;RSSO-66238-1
+1415514/1000;P1.P1.P1;Production Started;;2022-02-08;C27. Hubert Jean Charl;2022-07-13;1. In the past;2022-07-20;3. Next week;Public;5;22W29;FastTrack;RSSO-66238-1
 1415514/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;CHARGES;FastTrack;RSSO-66238-1
 1415535/1000;P1.P1.P1;Production Started;;2022-01-18;C24. Bazin, Sandrine;2022-07-29;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;22W32;FastTrack;
 1415535/2000;P1.P1.P1;Procurement (Transit);;2022-01-18;C24. Bazin, Sandrine;2022-07-29;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;22W32;FastTrack;
@@ -2637,7 +2637,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1415535/15000;P1.P1.P1;Production Started;;2022-01-18;C26. Bazin, Sandrine;2022-07-29;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;22W32;FastTrack;
 1415557/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C24. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C24. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
-1415557/3000;P1.P1.P1;Procurement (Transit);;2022-01-18;C12. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
+1415557/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C12. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C12. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C24. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C24. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W37;FastTrack;
@@ -2646,7 +2646,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1415557/9000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C26. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/10000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C26. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/11000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C24. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
-1415557/12000;P1.P1.P1;Production Planned;;2022-01-18;C26. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
+1415557/12000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C26. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/13000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C24. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/14000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-18;C24. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
 1415557/15000;P1.P1.P1;Production Started;;2022-01-18;C26. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;FastTrack;
@@ -2659,7 +2659,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1415595/6000;P1.P1.P1;Production Started;;2022-05-05;C08. Machining;2022-08-05;5. In 3 weeks;2022-08-29;;Public;5;22W35;Nuclear;
 1415595/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-05;C08. Machining;2022-08-29;;2022-09-23;;Public;5;22W38;Nuclear;
 1415595/8000;P1.P1.P1;Production Planned;;2022-05-05;C92. Gildas Daligault;2022-08-16;7. In 5 weeks;2022-08-29;;Public;5;22W35;Nuclear;
-1415595/9000;P1.P1.P1;Production Ordered;;2022-05-05;C08. Machining;2022-08-29;;2022-09-30;;Public;5;22W39;Nuclear;
+1415595/9000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-05;C08. Machining;2022-08-29;;2022-09-30;;Public;5;22W39;Nuclear;
 1415595/10000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-05;C08. Machining;2022-12-08;;2022-12-16;;Public;5;OUT Q3 2022;Nuclear;
 1415595/11000;P1.P1.P1;Procurement (PO Required);;2022-05-05;C92. Gildas Daligault;2022-11-18;;2022-11-25;;Public;5;OUT Q3 2022;Nuclear;
 1415595/12000;P1.P1.SP;Manufacturing Engineering Issue;;2022-05-05;C08. Machining;2022-12-09;;2022-12-23;;Public;5;OUT Q3 2022;Nuclear;
@@ -2699,7 +2699,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1418075/1000;P1.P1.P1;Booking;;2022-01-12;C03. Bazin, Sandrine;2026-12-24;;2026-12-31;;Public;9;> Q3 2022;FastTrack;
 1418203/1000;P1.P1.P1;Production Started;;2022-02-16;C16. Masse Mickael;2022-07-22;3. Next week;2022-07-22;3. Next week;Public;9;22W36;FastTrack;21-31244M
 1418203/2000;P1.P1.P1;Procurement (Transit);;2022-02-16;C14. Masse Mickael;2022-08-12;6. In 4 weeks;2022-08-26;8. In 6 weeks;Public;9;22W36;FastTrack;21-31244M
-1418203/3000;P1.P1.P1;Customer Stock;;2022-02-16;C18. Masse Mickael;2022-07-13;2. Current week;2022-07-27;4. In 2 weeks;Public;9;22W36;FastTrack;21-31244M
+1418203/3000;P1.P1.P1;Customer Stock;;2022-02-16;C18. Masse Mickael;2022-07-13;1. In the past;2022-07-27;4. In 2 weeks;Public;9;22W36;FastTrack;21-31244M
 1418210/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;2026-12-24;;2026-12-31;;Public;9;> Q3 2022;FastTrack;
 1419239/1000;RN.P1.RN;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
 1419239/2000;RN.P1.RN;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
@@ -2888,7 +2888,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1421675/9000;P1.P1.P1;Procurement (PO Required);;2022-03-29;C26. Bazin, Sandrine;2022-09-23;;2022-09-30;;Public;9;3Q OPPS;E.T.O;21-09639
 1421675/10000;P1.P1.P1;Procurement (PO Required);;2022-03-29;C26. Bazin, Sandrine;2022-09-23;;2022-09-30;;Public;9;3Q OPPS;E.T.O;21-09639
 1421675/11000;P1.P1.P1;Procurement (PO Required);;2022-03-29;C26. Bazin, Sandrine;2022-09-23;;2022-09-30;;Public;9;3Q OPPS;E.T.O;21-09639
-1421675/12000;P1.P1.P1;Procurement (PO not Confirmed);;2022-03-29;C26. Bazin, Sandrine;2022-09-23;;2022-09-30;;Public;9;3Q OPPS;E.T.O;21-09639
+1421675/12000;P1.P1.P1;Procurement (PO Required);;2022-03-29;C26. Bazin, Sandrine;2022-09-23;;2022-09-30;;Public;9;3Q OPPS;E.T.O;21-09639
 1421675/13000;P1.P1.P1;Procurement (PO Required);;2022-03-29;C26. Bazin, Sandrine;2022-09-23;;2022-09-30;;Public;9;3Q OPPS;E.T.O;21-09639
 1421675/14000;P1.P1.P1;Production Started;;2022-02-01;C24. Bazin, Sandrine;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Public;9;3Q OPPS;E.T.O;21-09639
 1421675/15000;P1.P1.P1;Production Started;;2022-02-01;C24. Bazin, Sandrine;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Public;9;3Q OPPS;E.T.O;21-09639
@@ -2912,7 +2912,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1422119/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-05;C21. Masse Mickael;2022-08-31;;2022-09-07;;Public;9;3Q OPPS;FastTrack;E20-04307
 1422119/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-08;C22. Hubert Jean Charl;2022-08-18;7. In 5 weeks;2022-08-31;;Public;9;3Q OPPS;FastTrack;E20-04307
 1422450/1000;P1.P1.P1;;;2022-01-05;C35. Gildas Daligault;2022-05-13;1. In the past;2022-05-25;1. In the past;Public;5;CHARGES;FastTrack;RSSO-64772-1
-1422456/1000;P1.P1.P1;Production Planned;;2022-03-02;C22. Hubert Jean Charl;2022-08-25;8. In 6 weeks;2022-09-01;;Public;5;22W35;FastTrack;21-31076M
+1422456/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-02;C22. Hubert Jean Charl;2022-08-25;8. In 6 weeks;2022-09-01;;Public;5;22W35;FastTrack;21-31076M
 1422483/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-07;C09. Machining;2022-08-19;7. In 5 weeks;2022-09-02;;Assoco;7;22W36;FastTrack;
 1422483/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-01-13;C09. Machining;2022-11-28;;2022-12-09;;Assoco;7;OUT Q3 2022;FastTrack;
 1422483/10000;P1.P1.P1;Procurement (incoming material inspection);;2022-01-07;C03. Bazin, Sandrine;2022-07-18;3. Next week;2022-07-18;3. Next week;Assoco;7;22W30;FastTrack;
@@ -2920,9 +2920,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1422488/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-06;C08. Machining;2022-08-05;5. In 3 weeks;2022-09-23;;Public;7;22W39;FastTrack;
 1422488/2000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-06;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-09-16;;Public;7;22W39;FastTrack;
 1422736/1000;P1.P1.P1;Shipping;;2022-03-03;C26. Bazin, Sandrine;2022-07-11;1. In the past;2022-07-18;3. Next week;Public;9;22W32;FastTrack;
-1422905/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-02;C07. Jacquelin Estelle;2022-08-01;5. In 3 weeks;2022-08-08;6. In 4 weeks;Public;5;22W32;Nuclear;
-1422905/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-02;C07. Jacquelin Estelle;2022-08-01;5. In 3 weeks;2022-08-08;6. In 4 weeks;Public;5;22W32;Nuclear;
-1422905/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-02;C07. Jacquelin Estelle;2022-08-01;5. In 3 weeks;2022-08-08;6. In 4 weeks;Public;5;22W32;Nuclear;
+1422905/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-02;C07. Jacquelin Estelle;2022-08-01;5. In 3 weeks;2022-08-08;6. In 4 weeks;Public;5;22W32;Nuclear;
+1422905/2000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-02;C07. Jacquelin Estelle;2022-08-01;5. In 3 weeks;2022-08-08;6. In 4 weeks;Public;5;22W32;Nuclear;
+1422905/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-02;C07. Jacquelin Estelle;2022-08-01;5. In 3 weeks;2022-08-08;6. In 4 weeks;Public;5;22W32;Nuclear;
 1422905/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-02;C10. Jacquelin Estelle;2022-08-09;6. In 4 weeks;2022-08-16;7. In 5 weeks;Public;5;22W33;Nuclear;
 1422905/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-02;C10. Jacquelin Estelle;2022-08-09;6. In 4 weeks;2022-08-16;7. In 5 weeks;Public;5;22W33;Nuclear;
 1422905/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-02;C10. Jacquelin Estelle;2022-08-09;6. In 4 weeks;2022-08-16;7. In 5 weeks;Public;5;22W33;Nuclear;
@@ -3024,12 +3024,12 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1426739/2000;P1.P1.P1;Engineering;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
 1426739/3000;P1.P1.P1;Engineering;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
 1426739/4000;P1.P1.P1;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
-1426739/5000;P1.P1.ZZ;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
-1426739/6000;P1.P1.RB;;;;C35. Gildas Daligault;2023-04-12;;2023-04-19;;Public;7;> Q3 2022;E.T.O;
+1426739/5000;P1.P1.RB;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
+1426739/6000;P1.P1.RB;Production Planned;;;C35. Gildas Daligault;2023-03-24;;2023-04-19;;Public;7;> Q3 2022;E.T.O;
 1426739/7000;P1.P1.P1;Engineering;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
 1426739/8000;P1.P1.P1;Engineering;ENGR;;C18. Masse Mickael;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
-1426739/9000;P1.P1.RB;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
-1426739/10000;P1.P1.ZZ;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
+1426739/9000;P1.P1.RB;Production Planned;;;C35. Gildas Daligault;2023-03-24;;2023-04-19;;Public;7;> Q3 2022;E.T.O;
+1426739/10000;P1.P1.RB;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
 1426739/11000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;E.T.O;
 1427052/1000;P1.P1.P1;Shipping;;2022-03-24;C92. Gildas Daligault;2022-06-27;1. In the past;2022-07-08;1. In the past;Public;5;22W34;Nuclear;
 1427052/8000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;CHARGES;Nuclear;
@@ -3083,7 +3083,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1431582/1000;P1.P1.RB;Procurement (PO Required);;2022-05-25;C25. Bazin, Sandrine;2022-09-23;;2022-10-27;;Public;7;OUT Q3 2022;FastTrack;22-32198M
 1431652/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-16;C03. Bazin, Sandrine;2022-09-27;;2022-09-27;;Assoco;9;3Q OPPS;FastTrack;
 1431652/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-16;C03. Bazin, Sandrine;2022-09-27;;2022-09-27;;Assoco;9;3Q OPPS;FastTrack;
-1431864/1000;P1.P1.P1;Production Ordered;;2022-03-08;C03. Bazin, Sandrine;2022-07-25;4. In 2 weeks;2022-07-25;4. In 2 weeks;Public;5;22W30;FastTrack;RSSO-70621-1
+1431864/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-08;C03. Bazin, Sandrine;2022-07-25;4. In 2 weeks;2022-07-25;4. In 2 weeks;Public;5;22W30;FastTrack;RSSO-70621-1
 1431885/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-02-24;C25. Bazin, Sandrine;2022-12-09;;2023-01-06;;Public;5;> Q3 2022;FastTrack;
 1431885/2000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-24;C24. Bazin, Sandrine;2022-12-09;;2023-01-06;;Public;5;> Q3 2022;FastTrack;
 1431885/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-02-24;C24. Bazin, Sandrine;2022-12-09;;2023-01-06;;Public;5;> Q3 2022;FastTrack;
@@ -3247,7 +3247,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1435452/44000;P1.P1.ZZ;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;E.T.O;
 1435452/45000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;E.T.O;
 1435452/46000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;E.T.O;
-1435532/1000;P1.P1.P1;Production Started;;2022-03-29;C10. Jacquelin Estelle;2022-07-13;2. Current week;2022-07-20;3. Next week;Public;25;22W30;FastTrack;
+1435532/1000;P1.P1.P1;Production Started;;2022-03-29;C10. Jacquelin Estelle;2022-07-13;1. In the past;2022-07-20;3. Next week;Public;25;22W30;FastTrack;
 1435532/2000;P1.P1.P1;Customer Stock;;2022-03-29;C10. Jacquelin Estelle;2022-06-02;1. In the past;2022-06-09;1. In the past;Public;25;22W30;FastTrack;
 1435532/3000;P1.P1.P1;Customer Stock;;2022-03-29;C24. Bazin, Sandrine;2022-05-09;1. In the past;2022-05-23;1. In the past;Public;25;22W30;FastTrack;
 1435559/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-06-28;C10. Jacquelin Estelle;2022-08-04;5. In 3 weeks;2022-08-11;6. In 4 weeks;Assoco;7;22W33;FastTrack;22-32032M
@@ -3312,13 +3312,13 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1439228/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-03;C08. Machining;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1439228/4000;P1.P1.P1;Production Started;;2022-05-03;C08. Machining;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1439228/5000;P1.P1.P1;Procurement (PO Required);;2022-05-03;C08. Machining;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
-1439228/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-03;C08. Machining;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
-1439228/7000;P1.P1.P1;Production Ordered;;2022-05-03;C08. Machining;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
+1439228/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-03;C08. Machining;2022-11-29;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
+1439228/7000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-03;C08. Machining;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1439228/8000;P1.P1.P1;Production Started;;2022-05-03;C08. Machining;2022-08-19;7. In 5 weeks;2022-09-02;;Public;5;> Q3 2022;Nuclear;
 1439228/9000;P1.P1.P1;Production Started;;2022-05-03;C08. Machining;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1439228/10000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-03;C35. Gildas Daligault;2022-11-17;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1439228/11000;P1.P1.P1;Procurement (PO Required);;2022-05-03;C35. Gildas Daligault;2022-10-14;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
-1439228/11010;P1.P1.P1;Production Planned;;2022-05-03;C35. Gildas Daligault;2022-10-14;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
+1439228/11010;P1.P1.P1;Procurement (PO Required);;2022-05-03;C35. Gildas Daligault;2022-10-14;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1439228/12000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-03;C35. Gildas Daligault;2022-10-10;;2022-10-20;;Public;5;> Q3 2022;Nuclear;
 1439228/13000;P1.P1.P1;Production Planned;;2022-05-03;C35. Gildas Daligault;2022-10-14;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1439228/14000;P1.P1.P1;Production Planned;;2022-05-03;C35. Gildas Daligault;2022-10-14;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
@@ -3328,11 +3328,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1439820/1000;P1.P1.P1;Shipping;;2022-07-05;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;7;22W29;Nuclear;PDRN
 1439820/2000;P1.P1.NM;;;2022-07-08;C01. Hubert Jean Charl;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;7;OUT Q3 2022;Nuclear;PDRN
 1440489/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-09;C03. Bazin, Sandrine;2022-10-11;;2022-10-25;;Assoco;9;> Q3 2022;FastTrack;
-1440489/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-09;C03. Bazin, Sandrine;2022-08-26;8. In 6 weeks;2022-08-26;8. In 6 weeks;Assoco;9;22W35;FastTrack;
+1440489/2000;P1.P1.P1;Production Planned;;2022-03-09;C03. Bazin, Sandrine;2022-08-26;8. In 6 weeks;2022-08-26;8. In 6 weeks;Assoco;9;22W35;FastTrack;
 1440489/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-09;C03. Bazin, Sandrine;2022-09-27;;2022-09-27;;Assoco;9;OUT Q3 2022;FastTrack;
 1440489/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-09;C03. Bazin, Sandrine;2022-09-27;;2022-09-27;;Assoco;9;OUT Q3 2022;FastTrack;
 1440674/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-13;C10. Jacquelin Estelle;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;22-10233
-1440674/2000;P1.P1.P1;Customer Stock;;2022-04-13;C10. Jacquelin Estelle;2022-07-06;1. In the past;2022-07-13;2. Current week;Assoco;9;22W31;FastTrack;22-10233
+1440674/2000;P1.P1.P1;Customer Stock;;2022-04-13;C10. Jacquelin Estelle;2022-07-06;1. In the past;2022-07-13;1. In the past;Assoco;9;22W31;FastTrack;22-10233
 1440944/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-12;C33. Hubert Jean Charl;2022-09-19;;2022-10-10;;Public;5;OUT Q3 2022;FastTrack;22-32550M VV
 1440944/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-28;C33. Hubert Jean Charl;2022-09-19;;2022-10-10;;Public;5;OUT Q3 2022;FastTrack;22-32550M VV
 1440949/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-29;C10. Jacquelin Estelle;2022-11-04;;2022-11-18;;Public;5;> Q3 2022;FastTrack;RSSO-76445-1
@@ -3369,8 +3369,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1442029/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-04-05;C10. Jacquelin Estelle;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;7;22W31;FastTrack;22-32610M
 1442029/2000;P1.P1.SP;Manufacturing Engineering Issue;;2022-04-05;C10. Jacquelin Estelle;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;7;22W31;FastTrack;22-32610M
 1442426/1000;P1.P1.P1;Shipping;;2022-03-17;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;5;22W29;Nuclear;
-1442438/1000;P1.P1.P1;Customer Stock;;2022-05-11;C02. Jacquelin Estelle;2022-07-13;2. Current week;2022-07-27;4. In 2 weeks;Public;9;22W31;FastTrack;21-09567
-1442438/2000;P1.P1.P1;Customer Stock;;2022-05-11;C02. Jacquelin Estelle;2022-07-13;2. Current week;2022-07-27;4. In 2 weeks;Public;9;22W31;FastTrack;21-09567
+1442438/1000;P1.P1.P1;Customer Stock;;2022-05-11;C02. Jacquelin Estelle;2022-07-13;1. In the past;2022-07-27;4. In 2 weeks;Public;9;22W31;FastTrack;21-09567
+1442438/2000;P1.P1.P1;Customer Stock;;2022-05-11;C02. Jacquelin Estelle;2022-07-13;1. In the past;2022-07-27;4. In 2 weeks;Public;9;22W31;FastTrack;21-09567
 1442438/3000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;CHARGES;FastTrack;21-09567
 1442885/1000;P1.P1.SP;Engineering;EOUT;2022-05-23;C21. Masse Mickael;2022-10-10;;2022-10-18;;Public;5;> Q3 2022;E.T.O;E21-09881
 1442885/2000;P1.P1.SP;Engineering;EOUT;2022-05-23;C21. Masse Mickael;2022-10-10;;2022-10-18;;Public;5;> Q3 2022;E.T.O;E21-09881
@@ -3438,9 +3438,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1445535/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C35. Gildas Daligault;2022-07-19;3. Next week;2022-07-29;4. In 2 weeks;Public;7;22W30;Nuclear;PDRN
 1445535/9000;P1.P1.P1;Charges;;2022-04-29;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1445644/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-08;1. In the past;2022-07-15;2. Current week;Public;5;SERVICES;Services;
-1445751/1000;P1.P1.P1;Production Ordered;;2022-05-11;C25. Bazin, Sandrine;2022-07-29;4. In 2 weeks;2022-07-29;4. In 2 weeks;Public;7;22W30;FastTrack;22-32490M
+1445751/1000;P1.P1.P1;Procurement (PO Required);;2022-05-11;C25. Bazin, Sandrine;2022-07-29;4. In 2 weeks;2022-07-29;4. In 2 weeks;Public;7;22W30;FastTrack;22-32490M
 1445751/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack;22-32490M
-1445845/1000;P1.P1.P1;Shipping;;2022-04-05;C10. Jacquelin Estelle;2022-07-13;2. Current week;2022-07-20;3. Next week;Assoco;9;22W29;FastTrack;22-32663M
+1445845/1000;P1.P1.P1;Shipping;;2022-04-05;C10. Jacquelin Estelle;2022-07-13;1. In the past;2022-07-20;3. Next week;Assoco;9;22W29;FastTrack;22-32663M
 1445880/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-24;C01. Hubert Jean Charl;2022-10-28;;2022-11-14;;Assoco;9;> Q3 2022;FastTrack;21-31161M
 1445904/2000;P1.P1.P1;Shipping;;2022-04-08;C02. Jacquelin Estelle;2022-07-08;1. In the past;2022-07-19;3. Next week;Assoco;9;22W28;FastTrack;
 1445904/3000;P1.P1.P1;Shipping;;2022-04-08;C02. Jacquelin Estelle;2022-07-08;1. In the past;2022-07-19;3. Next week;Assoco;9;22W28;FastTrack;
@@ -3506,27 +3506,27 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1446309/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
-1446309/5000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
+1446309/5000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
 1446309/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/7000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/8020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
-1446309/9000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
+1446309/9000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
 1446309/10000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/11000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/12020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
-1446309/13000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
+1446309/13000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
 1446309/14000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/15000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/16000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
-1446309/17000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
+1446309/17000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
 1446309/18000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/19000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/20000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
-1446309/21000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
+1446309/21000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
 1446309/22000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/23000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/24000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
-1446309/25000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
+1446309/25000;P1.P1.P1;Available in Stock;;2022-04-19;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-22;3. Next week;Assoco;9;22W37;E.T.O;
 1446309/26000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/27000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
 1446309/28000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W37;E.T.O;
@@ -3668,7 +3668,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1448183/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C18. Masse Mickael;2022-08-22;8. In 6 weeks;2022-08-29;;Public;5;OUT Q3 2022;FastTrack;22-32717M
 1448183/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-07-20;3. Next week;2022-07-27;4. In 2 weeks;Public;5;22W30;FastTrack;22-32717M
 1448204/1000;P1.P1.SP;Engineering;;2022-05-25;C08. Machining;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
-1448204/2000;P1.P1.P1;Production Planned;;2022-05-25;C92. Gildas Daligault;2022-11-04;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
+1448204/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-25;C92. Gildas Daligault;2023-01-02;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1448216/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-17;C19. Masse Mickael;2022-10-20;;2022-11-03;;Public;5;> Q3 2022;E.T.O;RSSO-80322-1
 1448219/1000;RN.P1.RN;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;21-09313
 1448219/2000;RN.P1.RN;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;21-09313
@@ -3708,11 +3708,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1449220/5000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-10-10;;2022-10-14;;Public;5;OUT Q3 2022;FastTrack;
 1449220/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-10-10;;2022-10-14;;Public;5;OUT Q3 2022;FastTrack;
 1449302/1000;P1.P1.RB;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
-1449302/2000;P1.P1.RB;Procurement (PO not Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
+1449302/2000;P1.P1.RB;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/3000;P1.P1.RB;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/4000;P1.P1.RB;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/5000;P1.P1.RB;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
-1449302/6000;P1.P1.P1;Procurement (PO not Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
+1449302/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/8000;P1.P1.P1;Procurement (PO not Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-14;;2022-10-12;;Public;7;OUT Q3 2022;FastTrack;
 1449302/9000;P1.P1.P1;Procurement (PO not Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-09-14;;2022-10-12;;Public;7;OUT Q3 2022;FastTrack;
@@ -3728,10 +3728,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1449302/19000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/20000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/21000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
-1449302/22000;P1.P1.P1;Procurement (PO not Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-14;;2022-09-28;;Public;7;3Q OPPS;FastTrack;
-1449302/23000;P1.P1.P1;Procurement (PO not Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-14;;2022-09-28;;Public;7;3Q OPPS;FastTrack;
-1449302/24000;P1.P1.P1;Procurement (PO not Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
-1449302/25000;P1.P1.P1;Procurement (PO not Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
+1449302/22000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-14;;2022-09-28;;Public;7;3Q OPPS;FastTrack;
+1449302/23000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-14;;2022-09-28;;Public;7;3Q OPPS;FastTrack;
+1449302/24000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
+1449302/25000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C25. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/26000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C26. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449302/27000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C26. Bazin, Sandrine;2022-09-07;;2022-09-21;;Public;7;22W38;FastTrack;
 1449431/1000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-12-30;;2023-01-06;;Public;5;> Q3 2022;Nuclear;
@@ -3740,7 +3740,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1449432/8000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-20;3. Next week;2022-07-27;4. In 2 weeks;Public;5;22W32;Nuclear;22-32911/12M
 1449432/9000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Public;5;22W30;Nuclear;22-32911/12M
 1449432/10000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Public;5;22W31;Nuclear;22-32911/12M
-1449432/13000;P1.P1.P1;Available in Stock;;;C07. Jacquelin Estelle;2022-08-17;7. In 5 weeks;2022-08-24;8. In 6 weeks;Public;5;22W34;Nuclear;22-32911/12M
+1449432/13000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-08-17;7. In 5 weeks;2022-08-24;8. In 6 weeks;Public;5;22W34;Nuclear;22-32911/12M
 1449463/1000;P1.P1.P1;Production Ordered;;2022-05-06;C10. Jacquelin Estelle;2022-07-25;4. In 2 weeks;2022-08-01;5. In 3 weeks;Public;7;22W31;E.T.O;
 1449486/1000;P1.P1.P1;Procurement (PO Required);;2022-05-06;C08. Machining;2022-10-21;;2022-10-28;;Assoco;9;OUT Q3 2022;FastTrack;PDRN
 1449729/1000;P1.P1.P1;Production Started;;2022-04-29;C25. Bazin, Sandrine;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W29;FastTrack;RSSO-73864-1
@@ -3802,7 +3802,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1450542/89000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-29;;Public;5;SERVICES;Services;
 1450542/93000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services;
 1450542/94000;P1.P1.P1;Production Started;;;C08. Machining;2022-08-05;5. In 3 weeks;2022-08-29;;Public;5;SERVICES;Services;
-1450591/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-07-13;2. Current week;2022-07-20;3. Next week;Public;5;22W30;FastTrack;RSSO-78888-1
+1450591/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C24. Bazin, Sandrine;2022-07-13;1. In the past;2022-07-20;3. Next week;Public;5;22W30;FastTrack;RSSO-78888-1
 1450662/1000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;21-08662
 1450676/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-10;C26. Bazin, Sandrine;2022-08-30;;2022-09-13;;Public;9;22W39;FastTrack;RSSO-72881-1
 1450686/1000;P1.P1.P1;Production Started;;2022-04-29;C25. Bazin, Sandrine;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W29;FastTrack;RSSO-79794-1
@@ -3817,7 +3817,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1450866/18000;P1.P1.NM;;;2022-04-11;C92. Gildas Daligault;2022-08-24;8. In 6 weeks;2022-08-31;;Public;9;22W37;Nuclear;PDRN
 1450866/19000;P1.P1.P1;Shipping;;2022-04-11;C28. Machining;2022-07-22;3. Next week;2022-08-03;5. In 3 weeks;Public;9;22W34;Nuclear;PDRN
 1450873/2000;P1.P1.P1;Shipping;;2022-04-08;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;9;22W29;Nuclear;PDRN
-1450875/1000;P1.P1.P1;Procurement (Transit);;2022-05-20;C24. Bazin, Sandrine;2022-07-13;2. Current week;2022-07-20;3. Next week;Public;5;22W30;FastTrack;RSSO-77902-1
+1450875/1000;P1.P1.P1;Procurement (Transit);;2022-05-20;C24. Bazin, Sandrine;2022-07-13;1. In the past;2022-07-20;3. Next week;Public;5;22W30;FastTrack;RSSO-77902-1
 1450877/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C35. Gildas Daligault;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Public;9;22W34;Nuclear;PDRN
 1450877/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-07;C92. Gildas Daligault;2022-10-21;;2022-10-28;;Public;9;OUT Q3 2022;Nuclear;PDRN
 1450877/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-29;C92. Gildas Daligault;2022-08-24;8. In 6 weeks;2022-08-31;;Public;9;22W37;Nuclear;PDRN
@@ -3829,8 +3829,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1450904/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-14;C08. Machining;2022-09-19;;2022-09-30;;Public;9;3Q OPPS;Nuclear;PDRN
 1450913/3000;P1.P1.P1;Shipping;;2022-04-12;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;9;22W30;Nuclear;PDRN
 1450913/5000;P1.P1.PR;Procurement (PO Confirmed);;2022-05-17;C35. Gildas Daligault;2022-09-02;;2022-09-16;;Public;9;3Q OPPS;Nuclear;PDRN
-1450913/7000;P1.P1.P1;Production Planned;;2022-05-13;C92. Gildas Daligault;2022-08-10;6. In 4 weeks;2022-08-17;7. In 5 weeks;Public;9;22W34;Nuclear;PDRN
-1450928/1000;P1.P1.NM;Engineering;ENGR;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;ENG;Nuclear;PDRN
+1450913/7000;P1.P1.P1;Production Ordered;;2022-05-13;C92. Gildas Daligault;2022-08-10;6. In 4 weeks;2022-08-17;7. In 5 weeks;Public;9;22W34;Nuclear;PDRN
+1450928/1000;P1.P1.BO;Engineering;ENGR;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;ENG;Nuclear;PDRN
 1450928/2000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-07;C28. Machining;2022-09-06;;2022-09-13;;Public;7;22W37;Nuclear;PDRN
 1450928/3000;P1.P1.PR;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;2022-09-13;;2022-10-10;;Public;7;OUT Q3 2022;Nuclear;PDRN
 1450928/4000;P1.P1.PR;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;2022-09-13;;2022-10-10;;Public;7;OUT Q3 2022;Nuclear;PDRN
@@ -3943,7 +3943,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1452934/2000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;CHARGES;E.T.O;
 1453034/1000;P1.P1.P1;Production Started;;2022-04-27;C10. Jacquelin Estelle;2022-07-20;3. Next week;2022-07-22;3. Next week;Public;9;22W30;FastTrack;22-32951M
 1453034/2000;P1.P1.P1;Customer Stock;;2022-04-27;C10. Jacquelin Estelle;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;9;22W30;FastTrack;22-32951M
-1453059/1000;P1.P1.RB;Procurement (PO Confirmed);;2022-05-04;C26. Bazin, Sandrine;2022-08-17;7. In 5 weeks;2022-08-24;8. In 6 weeks;Public;7;22W35;FastTrack;22-32836M
+1453059/1000;P1.P1.RB;Procurement (PO not Confirmed);;2022-05-04;C26. Bazin, Sandrine;2022-08-17;7. In 5 weeks;2022-08-24;8. In 6 weeks;Public;7;22W35;FastTrack;22-32836M
 1453130/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-27;C35. Gildas Daligault;2022-09-07;;2022-09-16;;Public;7;22W37;Nuclear;PDRN
 1453130/5000;P1.P1.P1;Shipping;;2022-04-27;C08. Machining;2022-07-29;4. In 2 weeks;2022-08-29;;Public;7;22W35;Nuclear;PDRN
 1453130/6000;P1.P1.P1;Production Started;;2022-04-27;C08. Machining;2022-07-29;4. In 2 weeks;2022-08-29;;Public;7;22W35;Nuclear;PDRN
@@ -4237,14 +4237,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1458905/4000;P1.P1.P1;Production Planned;;2022-04-28;C03. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-10;6. In 4 weeks;Assoco;7;22W33;FastTrack;
 1458905/5000;P1.P1.P1;Production Planned;;2022-04-28;C03. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-10;6. In 4 weeks;Assoco;7;22W33;FastTrack;
 1458905/6000;P1.P1.P1;Production Planned;;2022-04-28;C03. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-10;6. In 4 weeks;Assoco;7;22W33;FastTrack;
-1458905/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-04-28;C03. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-10;6. In 4 weeks;Assoco;7;22W33;FastTrack;
+1458905/7000;P1.P1.P1;Production Planned;;2022-04-28;C03. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-10;6. In 4 weeks;Assoco;7;22W33;FastTrack;
 1459215/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-20;C03. Bazin, Sandrine;2022-08-31;;2022-08-31;;Public;5;22W35;FastTrack;RSSO-85840-1
 1459221/1000;P1.P1.P1;Procurement (PO Confirmed);;;C11. Martin Etienne;2022-08-05;5. In 3 weeks;2022-09-02;;Public;5;22W35;Nuclear;
-1459221/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-18;C07. Jacquelin Estelle;2022-07-29;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;22W31;Nuclear;
+1459221/5000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-18;C07. Jacquelin Estelle;2022-07-29;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;22W31;Nuclear;
 1459222/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-09-02;;Public;5;> Q3 2022;Nuclear;
 1459222/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;> Q3 2022;Nuclear;
 1459222/4000;P1.P1.P1;Procurement (PO Confirmed);;;C05. Masse Mickael (C05);2022-09-02;;2022-09-09;;Public;5;> Q3 2022;Nuclear;
-1459222/6000;P1.P1.P1;Procurement (PO Confirmed);;;C92. Gildas Daligault;2022-07-08;1. In the past;2022-08-05;5. In 3 weeks;Public;5;> Q3 2022;Nuclear;
+1459222/6000;P1.P1.P1;Procurement (incoming material inspection);;;C92. Gildas Daligault;2022-07-08;1. In the past;2022-08-05;5. In 3 weeks;Public;5;> Q3 2022;Nuclear;
 1459222/9000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;5;22W30;Nuclear;
 1459222/12000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-11-18;;2023-01-12;;Public;5;> Q3 2022;Nuclear;
 1459781/1000;P1.P1.P1;Production Started;;2022-05-27;C25. Bazin, Sandrine;2022-07-19;3. Next week;2022-07-26;4. In 2 weeks;Public;7;22W32;E.T.O;
@@ -4306,11 +4306,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1461717/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-03;C26. Bazin, Sandrine;2022-11-24;;2022-12-08;;Public;5;> Q3 2022;FastTrack;22-33291M
 1461717/4000;P1.P1.SP;Manufacturing Engineering Issue;;2022-06-03;C22. Hubert Jean Charl;2022-11-24;;2022-12-08;;Public;5;> Q3 2022;FastTrack;22-33291M
 1461719/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-25;C24. Bazin, Sandrine;2022-07-26;4. In 2 weeks;2022-08-02;5. In 3 weeks;Public;5;22W31;FastTrack;RSSO-86085-1
-1461723/1000;P1.P1.P1;Production Planned;;2022-06-15;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
+1461723/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-15;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
 1461723/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-15;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
 1461723/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-23;C24. Bazin, Sandrine;2022-08-05;5. In 3 weeks;2022-08-17;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
-1461723/4000;P1.P1.P1;Production Planned;;2022-05-23;C25. Bazin, Sandrine;2022-08-05;5. In 3 weeks;2022-08-17;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
-1461723/5000;P1.P1.P1;Production Planned;;2022-05-23;C25. Bazin, Sandrine;2022-08-05;5. In 3 weeks;2022-08-17;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
+1461723/4000;P1.P1.P1;Production Started;;2022-05-23;C25. Bazin, Sandrine;2022-08-05;5. In 3 weeks;2022-08-17;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
+1461723/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-23;C25. Bazin, Sandrine;2022-08-05;5. In 3 weeks;2022-08-17;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
 1461723/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-15;C03. Bazin, Sandrine;2022-08-19;7. In 5 weeks;2022-08-19;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
 1461723/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-15;C25. Bazin, Sandrine;2022-08-05;5. In 3 weeks;2022-08-17;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
 1461723/8000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-16;C25. Bazin, Sandrine;2022-08-05;5. In 3 weeks;2022-08-17;7. In 5 weeks;Public;5;22W33;FastTrack;RSSO-78053-1
@@ -4335,8 +4335,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1462022/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-26;C26. Bazin, Sandrine;2022-09-05;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
 1462022/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-26;C26. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
 1462022/5000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-26;C26. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
-1462022/6000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-26;C24. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
-1462022/7000;P1.P1.P1;Procurement (PO not Confirmed);;2022-05-26;C24. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
+1462022/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-26;C24. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
+1462022/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-26;C24. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
 1462022/8000;P1.P1.P1;Procurement (PO Required);;2022-05-26;C26. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
 1462022/9000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-26;C26. Bazin, Sandrine;2022-09-05;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
 1462022/10000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-06;C24. Bazin, Sandrine;2022-09-12;;2022-09-19;;Public;9;3Q OPPS;FastTrack;22-32068M
@@ -4378,7 +4378,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1462048/2000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1462048/3000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1462048/4000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
-1462052/1000;P1.P1.SP;;;2022-07-08;C08. Machining;2022-12-22;;2022-12-29;;Public;7;> Q3 2022;Nuclear;PDRN
+1462052/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-08;C08. Machining;2022-12-22;;2022-12-29;;Public;7;> Q3 2022;Nuclear;PDRN
 1462052/2000;P1.P1.P1;Charges;;2022-07-08;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1462052/3000;P1.P1.P1;Charges;;2022-07-08;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1462056/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-11;C35. Gildas Daligault;2022-07-28;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;7;22W31;Nuclear;PDRN
@@ -4392,7 +4392,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1462070/2000;P1.P1.P1;Charges;;2022-05-31;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1462266/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-01;C30. Masse Mickael;2022-08-17;7. In 5 weeks;2022-08-31;;Public;5;22W35;Nuclear;22-32965M
 1462521/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-05-31;C10. Jacquelin Estelle;2022-09-23;;2022-10-10;;Public;7;> Q3 2022;FastTrack;
-1462846/1000;P1.P1.P1;Production Started;;2022-05-31;C25. Bazin, Sandrine;2022-07-06;1. In the past;2022-07-13;2. Current week;Public;5;22W29;E.T.O;22-33011M
+1462846/1000;P1.P1.P1;Production Started;;2022-05-31;C25. Bazin, Sandrine;2022-07-06;1. In the past;2022-07-13;1. In the past;Public;5;22W29;E.T.O;22-33011M
 1462862/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-07;C10. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-09-27;;Assoco;9;3Q OPPS;FastTrack;
 1462934/1000;P1.P1.RB;Manufacturing Engineering Issue;;2022-06-28;C10. Jacquelin Estelle;2022-12-06;;2022-12-20;;Public;7;> Q3 2022;FastTrack;22-32547M
 1462934/2000;P1.P1.RB;Manufacturing Engineering Issue;;2022-06-28;C10. Jacquelin Estelle;2022-12-06;;2022-12-20;;Public;7;> Q3 2022;FastTrack;22-32547M
@@ -4459,8 +4459,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1464598/1000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Assoco;7;22W35;FastTrack;
 1464598/2000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-08-29;;2022-09-05;;Assoco;7;22W37;FastTrack;
 1464598/3000;P1.P1.P1;Procurement (PO Confirmed);;;C03. Bazin, Sandrine;2022-08-30;;2022-08-30;;Assoco;7;22W36;FastTrack;
-1464600/1000;P1.P1.RB;Procurement (PO Confirmed);;2022-06-03;C25. Bazin, Sandrine;2022-07-27;4. In 2 weeks;2022-08-10;6. In 4 weeks;Public;5;22W32;FastTrack;22-32967M
-1464800/1000;P1.P1.P1;Shipping;;2022-06-09;C18. Masse Mickael;2022-07-13;2. Current week;2022-07-20;3. Next week;Public;5;22W29;Nuclear;RSSO-88326-1
+1464600/1000;P1.P1.RB;Production Planned;;2022-06-03;C25. Bazin, Sandrine;2022-07-27;4. In 2 weeks;2022-08-10;6. In 4 weeks;Public;5;22W32;FastTrack;22-32967M
+1464800/1000;P1.P1.P1;Shipping;;2022-06-09;C18. Masse Mickael;2022-07-13;1. In the past;2022-07-20;3. Next week;Public;5;22W29;Nuclear;RSSO-88326-1
 1464983/4000;P1.P1.P1;;;;C35. Gildas Daligault;2022-06-24;1. In the past;2022-07-01;1. In the past;Public;5;CHARGES;Nuclear;22-33402M
 1465342/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-23;C10. Jacquelin Estelle;2022-08-02;5. In 3 weeks;2022-08-09;6. In 4 weeks;Public;5;22W32;FastTrack;RSSO-83410-1
 1465407/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-06-28;C33. Hubert Jean Charl;2022-12-14;;2022-12-28;;Public;25;> Q3 2022;FastTrack;22-33436M
@@ -4473,7 +4473,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1465407/8000;P1.P1.ZZ;Engineering;ENGR;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;25;> Q3 2022;FastTrack;22-33436M
 1465407/9000;P1.P1.PR;Procurement (PO Required);;2022-06-15;C35. Gildas Daligault;2022-10-21;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
 1465407/10000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-21;C05. Masse Mickael (C05);2022-11-14;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
-1465407/11000;P1.P1.P1;Production Planned;;2022-06-15;C35. Gildas Daligault;2022-10-21;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
+1465407/11000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-15;C35. Gildas Daligault;2022-10-21;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
 1465407/12000;P1.P1.P1;Available in Stock;;;C09. Machining;2022-10-21;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
 1465407/13000;P1.P1.P1;Production Started;;;C09. Machining;2022-10-21;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
 1465407/14000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2022-10-21;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
@@ -4504,15 +4504,15 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1465407/39000;P1.P1.PR;Production Planned;;2022-06-15;C35. Gildas Daligault;2022-10-21;;2022-12-02;;Public;25;> Q3 2022;FastTrack;22-33436M
 1465407/40000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;25;CHARGES;FastTrack;22-33436M
 1465556/1000;P1.P1.P1;Procurement (PO Required);;2022-06-21;C10. Jacquelin Estelle;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
-1465567/1000;P1.P1.P1;Production Planned;;2022-06-03;C02. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Assoco;9;22W31;FastTrack;
+1465567/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-03;C02. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Assoco;9;22W31;FastTrack;
 1465570/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 1465770/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-01;C25. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
 1465770/2000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-01;C25. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
 1465770/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
 1465770/4000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
 1465770/5000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
-1465770/6000;P1.P1.RB;Procurement (PO Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
-1465770/7000;P1.P1.RB;Procurement (PO Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
+1465770/6000;P1.P1.RB;Procurement (PO not Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
+1465770/7000;P1.P1.RB;Procurement (PO not Confirmed);;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
 1465770/8000;P1.P1.SP;Manufacturing Engineering Issue;;2022-06-01;C24. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
 1465770/9000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-01;C26. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
 1465770/10000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-01;C26. Bazin, Sandrine;2022-11-10;;2022-11-25;;Public;5;> Q3 2022;FastTrack;
@@ -4526,20 +4526,20 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1465853/6000;P1.P1.SP;Manufacturing Engineering Issue;;2022-06-20;C25. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465881/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-16;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465881/2000;P1.P1.SP;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;22-33462M
-1465881/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-06;C02. Jacquelin Estelle;2022-08-31;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
-1465881/4000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-06;C02. Jacquelin Estelle;2022-08-31;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
+1465881/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C02. Jacquelin Estelle;2022-08-31;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
+1465881/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C02. Jacquelin Estelle;2022-08-31;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465881/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-16;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465881/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-16;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465881/7000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-16;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465882/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-06-23;C33. Hubert Jean Charl;2022-11-02;;2022-11-15;;Public;7;> Q3 2022;FastTrack;
 1465882/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack;
-1465912/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-07;1. In the past;2022-07-13;2. Current week;Public;5;SERVICES;Services;
+1465912/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-07;1. In the past;2022-07-13;1. In the past;Public;5;SERVICES;Services;
 1465912/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services;
 1465924/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-28;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465924/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-28;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465924/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-28;C14. Masse Mickael;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465924/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-06;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
-1465924/5000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-28;C02. Jacquelin Estelle;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
+1465924/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-28;C02. Jacquelin Estelle;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465924/6000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-28;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465924/7000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-28;C14. Masse Mickael;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
 1465924/8000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-06;C24. Bazin, Sandrine;2022-09-07;;2022-09-14;;Public;5;22W37;FastTrack;22-33462M
@@ -4571,7 +4571,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1466899/2000;P1.P1.P1;Production Started;;;C09. Machining;2022-09-30;;2022-10-10;;Assoco;7;> Q3 2022;FastTrack;
 1467093/1000;P1.P1.RB;Procurement (PO not Confirmed);;2022-07-08;C25. Bazin, Sandrine;2022-08-09;6. In 4 weeks;2022-08-23;8. In 6 weeks;Public;5;22W34;FastTrack;RSSO-76903-1
 1467109/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-20;3. Next week;2022-07-27;4. In 2 weeks;Public;5;22W30;Nuclear;
-1467109/3000;P1.P1.P1;Production Planned;;;C07. Jacquelin Estelle;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;Nuclear;
+1467109/3000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;5;22W34;Nuclear;
 1467118/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-11-18;;2023-01-25;;Public;5;> Q3 2022;Nuclear;
 1467118/2000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-11-18;;2023-01-25;;Public;5;> Q3 2022;Nuclear;
 1467118/3000;P1.P1.P1;Procurement (PO not Confirmed);;;C10. Jacquelin Estelle;2022-12-09;;2023-01-25;;Public;5;> Q3 2022;Nuclear;
@@ -4579,9 +4579,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1467120/2000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-12-02;;2023-02-08;;Public;5;> Q3 2022;Nuclear;
 1467120/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-25;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;22W32;Nuclear;
 1467124/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W30;Nuclear;
-1467198/1000;P1.P1.P1;Production Planned;;2022-06-03;C25. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-24;8. In 6 weeks;Public;5;22W34;FastTrack;RSSO-89168-1
+1467198/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-03;C25. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-24;8. In 6 weeks;Public;5;22W34;FastTrack;RSSO-89168-1
 1467216/1000;P1.P1.RB;Engineering;ENGR;;C24. Bazin, Sandrine;2022-08-16;7. In 5 weeks;2022-08-22;8. In 6 weeks;Public;5;ENG;FastTrack;RSSO-88562-1
-1467220/1000;P1.P1.P1;Production Started;;2022-07-06;C24. Bazin, Sandrine;2022-07-06;1. In the past;2022-07-13;2. Current week;Public;5;22W29;FastTrack;RSSO-88437-1
+1467220/1000;P1.P1.P1;Production Started;;2022-07-06;C24. Bazin, Sandrine;2022-07-06;1. In the past;2022-07-13;1. In the past;Public;5;22W29;FastTrack;RSSO-88437-1
 1467227/1000;P1.P1.P1;Booking;;2022-05-24;C35. Gildas Daligault;2022-11-23;;2022-11-30;;Public;25;> Q3 2022;FastTrack;22-33518M
 1467227/2000;P1.P1.P1;Booking;;2022-05-24;C35. Gildas Daligault;2022-11-23;;2022-11-30;;Public;25;> Q3 2022;FastTrack;22-33518M
 1467227/3000;P1.P1.SP;Booking;;2022-06-30;C92. Gildas Daligault;2022-11-23;;2022-11-30;;Public;25;> Q3 2022;FastTrack;22-33518M
@@ -4641,7 +4641,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1468530/1000;P1.P1.P1;Sourcing Issue;;2022-06-28;C10. Jacquelin Estelle;2022-09-02;;2022-09-09;;Public;7;22W37;FastTrack;22-33460M
 1468530/2000;P1.P1.P1;Sourcing Issue;;2022-06-28;C10. Jacquelin Estelle;2022-09-02;;2022-09-09;;Public;7;22W37;FastTrack;22-33460M
 1468545/1000;P1.P1.P1;Engineering Issue;;2022-07-05;C10. Jacquelin Estelle;2022-10-10;;2022-10-20;;Assoco;9;> Q3 2022;FastTrack;NUC
-1468549/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-08-23;8. In 6 weeks;2022-08-30;;Assoco;7;22W36;FastTrack;
+1468549/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-08-23;8. In 6 weeks;2022-08-30;;Assoco;7;22W36;FastTrack;
 1468549/2000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-09-22;;2022-09-29;;Assoco;7;3Q OPPS;FastTrack;
 1468549/3000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-10-21;;2022-10-28;;Assoco;7;> Q3 2022;FastTrack;
 1468549/4000;P1.P1.P1;Procurement (PO Confirmed);;;C03. Bazin, Sandrine;2022-08-30;;2022-08-30;;Assoco;7;22W36;FastTrack;
@@ -4669,7 +4669,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1469887/2000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1469892/1000;P1.P1.SP;Engineering;ENGR;;C08. Machining;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1469892/2000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
-1469908/1000;P1.P1.SP;;;2022-07-07;C08. Machining;2022-12-14;;2022-12-21;;Public;7;> Q3 2022;Nuclear;PDRN
+1469908/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-07;C08. Machining;2022-12-14;;2022-12-21;;Public;7;> Q3 2022;Nuclear;PDRN
 1469908/2000;P1.P1.P1;Charges;;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1469908/3000;P1.P1.P1;Charges;;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1470062/1000;P1.P1.P1;Production Started;;;C08. Machining;2022-08-19;7. In 5 weeks;2022-09-07;;Public;5;22W36;Nuclear;
@@ -4686,7 +4686,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1470095/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Public;9;3Q OPPS;E.T.O;
 1470095/7000;P1.P1.P1;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;2022-08-16;7. In 5 weeks;2022-08-19;7. In 5 weeks;Public;9;22W36;E.T.O;
 1470095/8000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Public;9;3Q OPPS;E.T.O;
-1470095/9000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Public;9;3Q OPPS;E.T.O;
+1470095/9000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Public;9;3Q OPPS;E.T.O;
 1470095/10000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Public;9;3Q OPPS;E.T.O;
 1470095/11000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Public;9;3Q OPPS;E.T.O;
 1470095/12000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Public;9;3Q OPPS;E.T.O;
@@ -5168,7 +5168,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1470622/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2023-12-08;;2023-12-29;;Public;5;> Q3 2022;FastTrack;
 1470709/1000;P1.P1.P1;Production Ordered;;2022-07-05;C02. Jacquelin Estelle;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Public;7;22W31;FastTrack;
 1470709/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack;
-1470725/1000;P1.P1.NM;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
+1470725/1000;P1.P1.BO;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1470725/2000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1470995/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-06;C21. Masse Mickael;2022-09-26;;2022-10-10;;Public;7;> Q3 2022;FastTrack;22-33600M
 1470995/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack;22-33600M
@@ -5179,7 +5179,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1471079/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-08;C03. Bazin, Sandrine;2022-09-14;;2022-09-14;;Assoco;9;22W39;FastTrack;
 1471079/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-08;C03. Bazin, Sandrine;2022-09-14;;2022-09-14;;Assoco;9;> Q3 2022;FastTrack;
 1471079/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-08;C03. Bazin, Sandrine;2022-09-14;;2022-09-14;;Assoco;9;> Q3 2022;FastTrack;
-1471512/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-08-23;8. In 6 weeks;2022-08-30;;Assoco;7;22W36;FastTrack;
+1471512/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-08-23;8. In 6 weeks;2022-08-30;;Assoco;7;22W36;FastTrack;
 1471512/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-09;C03. Bazin, Sandrine;2022-09-13;;2022-09-13;;Assoco;7;22W38;FastTrack;
 1471512/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-09;C03. Bazin, Sandrine;2022-09-13;;2022-09-13;;Assoco;7;22W38;FastTrack;
 1471512/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-09;C03. Bazin, Sandrine;2022-09-13;;2022-09-13;;Assoco;7;22W38;FastTrack;
@@ -5215,7 +5215,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1472080/1000;P1.P1.RN;Engineering;ENGR;;C27. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;;> Q3 2022;FastTrack;
 1472080/2000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;;> Q3 2022;FastTrack;
 1472122/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-06-30;C05. Masse Mickael (C05);2022-09-16;;2022-09-23;;Public;7;22W38;FastTrack;22-33710M
-1472170/1000;P1.P1.SP;;;2022-07-11;C08. Machining;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
+1472170/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-11;C08. Machining;2022-07-28;4. In 2 weeks;2022-10-10;;Assoco;9;TO BE ANALYSED;FastTrack;
 1472476/1000;P1.P1.RB;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;ENG;FastTrack;22-33486M
 1472476/2000;P1.P1.RB;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;ENG;FastTrack;22-33486M
 1472531/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-29;4. In 2 weeks;2022-08-05;5. In 3 weeks;Public;5;SERVICES;Services;
@@ -5257,7 +5257,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1472550/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-05;C25. Bazin, Sandrine;2022-09-05;;2022-09-12;;Public;5;22W37;FastTrack;RSSO-90611-1
 1472605/1000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-05;C26. Bazin, Sandrine;2022-09-09;;2022-09-16;;Public;7;22W37;FastTrack;
 1472605/2000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;FastTrack;
-1472884/1000;P1.P1.PR;;;2022-07-13;C01. Hubert Jean Charl;2022-08-25;8. In 6 weeks;2022-09-01;;Public;5;> Q3 2022;Nuclear;RSSO-91753-1
+1472884/1000;P1.P1.PR;Procurement (PO Confirmed);;2022-07-13;C01. Hubert Jean Charl;2022-08-25;8. In 6 weeks;2022-09-01;;Public;5;> Q3 2022;Nuclear;RSSO-91753-1
 1472893/1000;P1.P1.SP;Booking;;2022-07-08;C24. Bazin, Sandrine;2023-01-19;;2023-01-26;;Public;5;> Q3 2022;FastTrack;RSSO-91745-1
 1472893/2000;P1.P1.SP;Booking;;2022-07-08;C24. Bazin, Sandrine;2023-01-19;;2023-01-26;;Public;5;> Q3 2022;FastTrack;RSSO-91745-1
 1473103/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-27;C03. Bazin, Sandrine;2022-09-09;;2022-09-09;;Public;7;22W36;E.T.O;
@@ -5286,8 +5286,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1473941/10000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Public;5;SERVICES;Services;
 1473941/11000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Public;5;SERVICES;Services;
 1473941/12000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Public;5;SERVICES;Services;
-1473988/1000;P1.P1.P1;Production Planned;;2022-07-08;C02. Jacquelin Estelle;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Public;5;22W33;Nuclear;
-1473988/2000;P1.P1.P1;Production Planned;;2022-07-08;C02. Jacquelin Estelle;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Public;5;22W33;Nuclear;
+1473988/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-08;C02. Jacquelin Estelle;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Public;5;22W33;Nuclear;
+1473988/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-08;C02. Jacquelin Estelle;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Public;5;22W33;Nuclear;
 1473996/1000;P1.P1.SP;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;RSSO-91341-1
 1474013/1000;P1.P1.RB;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;ENG;E.T.O;22-32728M
 1474060/1000;P1.P1.P1;Shipping;;2022-06-20;C35. Gildas Daligault;2022-08-17;7. In 5 weeks;2022-08-31;;Assoco;9;22W36;Nuclear;PDRN
@@ -5367,7 +5367,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1475418/17000;P1.P1.P1;Procurement (PO Required);;2022-06-28;C02. Jacquelin Estelle;2022-08-26;8. In 6 weeks;2022-08-31;;Assoco;9;22W36;FastTrack;22-33646M
 1475418/18000;P1.P1.P1;Procurement (PO Required);;2022-06-28;C02. Jacquelin Estelle;2022-08-26;8. In 6 weeks;2022-08-31;;Assoco;9;22W36;FastTrack;22-33646M
 1475775/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-07;C25. Bazin, Sandrine;2022-10-10;;2022-10-19;;Public;5;> Q3 2022;FastTrack;RSSO-83793-1
-1475782/1000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C35. Gildas Daligault;2022-11-02;;2022-11-09;;Public;5;> Q3 2022;Nuclear;
+1475782/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-12;C35. Gildas Daligault;2022-11-02;;2022-11-09;;Public;5;> Q3 2022;Nuclear;
 1475789/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
 1475798/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
 1475798/2000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
@@ -5376,8 +5376,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1475798/5000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
 1475798/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-12-16;;2023-01-06;;Public;5;> Q3 2022;Nuclear;
 1475798/7000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;
-1475798/8000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-09-15;;2022-10-21;;Public;5;> Q3 2022;Nuclear;
-1475798/9000;P1.P1.P1;Procurement (PO Confirmed);;;C05. Masse Mickael (C05);2022-11-18;;2023-02-06;;Public;5;> Q3 2022;Nuclear;
+1475798/8000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-09-15;;2022-10-21;;Public;5;> Q3 2022;Nuclear;
+1475798/9000;P1.P1.P1;Procurement (PO Required);;;C05. Masse Mickael (C05);2022-11-18;;2023-02-06;;Public;5;> Q3 2022;Nuclear;
 1475798/10000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;
 1475798/11000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-12-16;;2023-01-06;;Public;5;> Q3 2022;Nuclear;
 1475991/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-19;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W30;Nuclear;22-33824M
@@ -5409,7 +5409,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1476295/1000;P1.P1.SP;Planning;;2022-07-13;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;FastTrack;22-33723M
 1476328/1000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;E.T.O;22-32551M
 1476346/1000;P1.P1.RB;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;ENG;FastTrack;22-32745M
-1476597/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
+1476597/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
 1476597/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
 1476597/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
 1476597/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
@@ -5427,10 +5427,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1476693/4000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-08-16;7. In 5 weeks;2022-08-22;8. In 6 weeks;Public;25;SERVICES;Services;
 1476693/5000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-08-16;7. In 5 weeks;2022-08-22;8. In 6 weeks;Public;25;SERVICES;Services;
 1476693/6000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-08-16;7. In 5 weeks;2022-08-22;8. In 6 weeks;Public;25;SERVICES;Services;
-1476728/1000;P1.P1.P1;Planning;;2022-07-13;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;TO BE ANALYSED;FastTrack;22-33731M
+1476728/1000;P1.P1.P1;Production Planned;;2022-07-13;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;TO BE ANALYSED;FastTrack;22-33731M
 1476813/2000;P1.P1.P1;Engineering;ENGR;;C05. Masse Mickael (C05);;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
 1476813/5000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;ENG;Nuclear;
-1476813/6000;P1.P1.P1;Production Planned;;;C05. Masse Mickael (C05);2022-11-18;;2023-02-06;;Public;5;> Q3 2022;Nuclear;
+1476813/6000;P1.P1.P1;Procurement (PO Confirmed);;;C05. Masse Mickael (C05);2022-11-18;;2023-02-06;;Public;5;> Q3 2022;Nuclear;
 1476851/1000;P1.P1.ZZ;Booking;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Assoco;7;> Q3 2022;E.T.O;
 1476859/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-24;C03. Bazin, Sandrine;2022-10-17;;2022-10-17;;Assoco;9;> Q3 2022;FastTrack;
 1476859/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-24;C03. Bazin, Sandrine;2022-10-17;;2022-10-17;;Assoco;9;> Q3 2022;FastTrack;
@@ -5482,11 +5482,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1477947/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-24;C10. Jacquelin Estelle;2022-12-02;;2023-02-01;;Public;5;> Q3 2022;Nuclear;PDRN
 1477947/3000;P1.P1.P1;Production Planned;;2022-06-24;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1477947/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-24;C07. Jacquelin Estelle;2022-12-02;;2023-02-01;;Public;5;> Q3 2022;Nuclear;PDRN
-1477947/5000;P1.P1.P1;Production Planned;;2022-06-24;C07. Jacquelin Estelle;2022-12-30;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
+1477947/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-24;C07. Jacquelin Estelle;2022-12-30;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1477947/6000;P1.P1.P1;Production Planned;;2022-06-24;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1477947/7000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-24;C07. Jacquelin Estelle;2022-11-18;;2023-02-01;;Public;5;> Q3 2022;Nuclear;PDRN
-1477947/8000;P1.P1.P1;Production Planned;;2022-06-24;C10. Jacquelin Estelle;2022-12-30;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
-1477947/9000;P1.P1.P1;Procurement (PO Confirmed);;2022-06-24;C10. Jacquelin Estelle;2022-12-02;;2023-02-01;;Public;5;> Q3 2022;Nuclear;PDRN
+1477947/8000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-24;C10. Jacquelin Estelle;2022-12-30;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
+1477947/9000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-24;C10. Jacquelin Estelle;2022-12-02;;2023-02-01;;Public;5;> Q3 2022;Nuclear;PDRN
 1478297/1000;P1.P1.MP;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;
 1478343/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-06-28;1. In the past;2022-06-30;1. In the past;Public;9;SERVICES;Services;
 1478343/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-06-28;1. In the past;2022-06-30;1. In the past;Public;9;SERVICES;Services;
@@ -5503,7 +5503,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1478526/3000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/4000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/5000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
-1478526/5010;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;22W29;Nuclear;PDRN
+1478526/5010;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;5;22W29;Nuclear;PDRN
 1478526/6000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/7000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/8000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-30;;2022-09-09;;Public;5;22W36;Nuclear;PDRN
@@ -5512,8 +5512,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1478526/11000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-09-21;;2022-09-28;;Public;5;22W39;Nuclear;PDRN
 1478526/12000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/13000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-11-25;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
-1478526/14000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
-1478526/16000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2023-01-06;;2023-02-08;;Public;5;> Q3 2022;Nuclear;PDRN
+1478526/14000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
+1478526/16000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2023-01-06;;2023-02-08;;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/17000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-11-25;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/18000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
 1478526/19000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-10-28;;2023-01-06;;Public;5;> Q3 2022;Nuclear;PDRN
@@ -5650,8 +5650,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1479576/1000;RN.P1.ZZ;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
 1479576/2000;RN.P1.ZZ;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
 1479576/3000;RN.P1.ZZ;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
-1479657/1000;P1.P1.NM;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;22-33927M
-1479657/2000;P1.P1.NM;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;22-33927M
+1479657/1000;P1.P1.BO;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;22-33927M
+1479657/2000;P1.P1.BO;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;22-33927M
 1479657/3000;P1.P1.RB;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;22-33927M
 1479657/4000;P1.P1.RB;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;22-33927M
 1479657/5000;P1.P1.RB;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;22-33927M
@@ -5743,31 +5743,31 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1480502/1000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-08;C92. Gildas Daligault;2022-10-11;;2022-10-18;;Public;9;> Q3 2022;Nuclear;PDRN
 1480502/2000;P1.P1.P1;Available in Stock;;2022-07-08;C35. Gildas Daligault;2022-09-13;;2022-09-20;;Public;9;22W39;Nuclear;PDRN
 1480502/3000;P1.P1.P1;Production Planned;;2022-07-08;C35. Gildas Daligault;2022-09-27;;2022-09-30;;Public;9;> Q3 2022;Nuclear;PDRN
-1480508/1000;P1.P1.P1;;;2022-07-12;C35. Gildas Daligault;2022-10-26;;2022-11-02;;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480508/2000;P1.P1.P1;;;2022-07-12;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480508/3000;P1.P1.P1;;;2022-07-12;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480508/4000;P1.P1.P1;;;2022-07-12;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480508/5000;P1.P1.P1;;;2022-07-12;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480508/6000;P1.P1.P1;;;2022-07-12;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480508/7000;P1.P1.P1;;;2022-07-12;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480512/1000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480512/2000;P1.P1.P1;;;2022-07-13;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/3000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;Nuclear;PDRN
-1480512/4000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/5000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/6000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/7000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/8000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/9000;P1.P1.P1;;;2022-07-13;C05. Masse Mickael (C05);2022-12-06;;2022-12-13;;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/10000;P1.P1.P1;;;2022-07-13;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480512/11000;P1.P1.P1;;;2022-07-13;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
+1480508/1000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-09-16;;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480508/2000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-09-16;;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480508/3000;P1.P1.P1;Available in Stock;;2022-07-12;C92. Gildas Daligault;2022-09-09;;2022-09-16;;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480508/4000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480508/5000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-20;;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480508/6000;P1.P1.P1;Production Planned;;2022-07-12;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-10-10;;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480508/7000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-10-10;;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480512/1000;P1.P1.P1;Available in Stock;;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480512/2000;P1.P1.P1;Available in Stock;;2022-07-13;C92. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;9;TO BE ANALYSED;Nuclear;PDRN
+1480512/4000;P1.P1.P1;Procurement (PO Required);;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-09-16;;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/5000;P1.P1.P1;Production Planned;;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-09-16;;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/6000;P1.P1.P1;Procurement (PO Required);;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-09-16;;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/7000;P1.P1.P1;Available in Stock;;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/8000;P1.P1.P1;Available in Stock;;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/9000;P1.P1.P1;Procurement (PO Required);;2022-07-13;C05. Masse Mickael (C05);2022-10-28;;2022-12-13;;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/10000;P1.P1.P1;Procurement (PO Required);;2022-07-13;C92. Gildas Daligault;2022-10-28;;2022-12-13;;Public;9;> Q3 2022;Nuclear;PDRN
+1480512/11000;P1.P1.P1;Procurement (PO Required);;2022-07-13;C35. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-09-16;;Public;9;> Q3 2022;Nuclear;PDRN
 1480515/1000;P1.P1.P1;Production Released;;2022-07-06;C02. Jacquelin Estelle;2022-10-11;;2022-10-18;;Public;9;OUT Q3 2022;Nuclear;PDRN
 1480515/2000;P1.P1.P1;Production Released;;2022-07-06;C11. Martin Etienne;2022-10-11;;2022-10-18;;Public;9;OUT Q3 2022;Nuclear;PDRN
 1480515/3000;P1.P1.P1;Shipping;;2022-07-06;C35. Gildas Daligault;2022-10-11;;2022-10-18;;Public;9;OUT Q3 2022;Nuclear;PDRN
 1480515/4000;P1.P1.P1;Production Started;;2022-07-06;C11. Martin Etienne;2022-10-11;;2022-10-18;;Public;9;OUT Q3 2022;Nuclear;PDRN
-1480515/5000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C92. Gildas Daligault;2022-10-11;;2022-10-18;;Public;9;OUT Q3 2022;Nuclear;PDRN
-1480520/1000;P1.P1.P1;Production Planned;;2022-07-12;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;Nuclear;PDRN
-1480520/2000;P1.P1.P1;Production Planned;;2022-07-12;C05. Masse Mickael (C05);2022-12-06;;2022-12-13;;Public;9;> Q3 2022;Nuclear;PDRN
+1480515/5000;P1.P1.P1;Procurement (incoming material inspection);;2022-07-06;C92. Gildas Daligault;2022-10-11;;2022-10-18;;Public;9;OUT Q3 2022;Nuclear;PDRN
+1480520/1000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C92. Gildas Daligault;2022-10-28;;2022-12-13;;Public;9;> Q3 2022;Nuclear;PDRN
+1480520/2000;P1.P1.P1;Procurement (PO Required);;2022-07-12;C05. Masse Mickael (C05);2022-10-28;;2022-12-13;;Public;9;> Q3 2022;Nuclear;PDRN
 1480525/1000;P1.P1.P1;Production Planned;;2022-07-08;C05. Masse Mickael (C05);2022-09-20;;2022-10-10;;Public;9;> Q3 2022;Nuclear;PDRN
 1480525/2000;P1.P1.P1;Shipping;;2022-07-08;C35. Gildas Daligault;2022-09-13;;2022-09-20;;Public;9;22W39;Nuclear;PDRN
 1480525/3000;P1.P1.P1;Procurement (PO Required);;2022-07-08;C35. Gildas Daligault;2022-09-09;;2022-10-21;;Public;9;> Q3 2022;Nuclear;PDRN
@@ -5784,25 +5784,25 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1480532/2000;P1.P1.P1;Charges;;2022-07-04;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1480533/1000;P1.P1.P1;Available in Stock;;2022-07-07;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;7;22W33;Nuclear;PDRN
 1480533/2000;P1.P1.P1;Available in Stock;;2022-07-07;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;7;22W33;Nuclear;PDRN
-1480533/3000;P1.P1.P1;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;7;22W33;Nuclear;PDRN
+1480533/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-07;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;7;22W33;Nuclear;PDRN
 1480533/4000;P1.P1.P1;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;7;22W33;Nuclear;PDRN
-1480533/5000;P1.P1.P1;Available in Stock;;2022-07-07;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;TO BE ANALYSED;Nuclear;PDRN
+1480533/5000;P1.P1.P1;Available in Stock;;2022-07-07;C92. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;7;TO BE ANALYSED;Nuclear;PDRN
 1480533/6000;P1.P1.P1;Charges;;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1480540/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1480540/2000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1480551/1000;P1.P1.P1;Procurement (PO Required);;2022-07-06;C35. Gildas Daligault;2022-09-12;;2022-09-19;;Public;7;22W38;Nuclear;PDRN
-1480551/2000;P1.P1.P1;Production Planned;;2022-07-11;C08. Machining;;0. Not defined;;0. Not defined;Public;7;TO BE ANALYSED;Nuclear;PDRN
+1480551/2000;P1.P1.P1;Production Released;;2022-07-11;C08. Machining;2022-08-29;;2022-09-19;;Public;7;TO BE ANALYSED;Nuclear;PDRN
 1480551/3000;P1.P1.P1;Charges;;2022-07-06;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Nuclear;PDRN
 1480588/1000;P1.P1.RB;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;FastTrack;
-1481013/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-08-29;;2022-09-12;;Assoco;7;22W38;FastTrack;
+1481013/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-08-29;;2022-09-12;;Assoco;7;22W38;FastTrack;
 1481133/1000;CC.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;
 1481133/2000;CC.P1.NM;Engineering;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;
-1481143/2000;P1.P1.RB;;;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;TO BE ANALYSED;FastTrack;RSSO-93012-1
+1481143/2000;P1.P1.RB;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;2022-07-29;4. In 2 weeks;2022-10-10;;Public;5;TO BE ANALYSED;FastTrack;RSSO-93012-1
 1481356/1000;P1.P1.P1;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;ENG;Nuclear;
 1481356/2000;P1.P1.P1;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;ENG;Nuclear;
 1481363/1000;P1.P1.MP;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;22-32987M
-1481369/1000;P1.P1.P1;Production Planned;;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
-1481369/2000;P1.P1.P1;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
+1481369/1000;P1.P1.P1;Procurement (PO Required);;2022-07-07;C35. Gildas Daligault;2022-10-13;;2022-11-09;;Public;5;> Q3 2022;Nuclear;
+1481369/2000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-07;C35. Gildas Daligault;2022-10-28;;2022-11-09;;Public;5;> Q3 2022;Nuclear;
 1481369/3000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
 1481431/1000;P1.P1.SP;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;RSSO-85056-1
 1481529/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;SERVICES;Services;
@@ -5828,8 +5828,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1481609/4000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1481609/5000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
 1481609/6000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;Nuclear;PDRN
-1481866/1000;P1.P1.P5;;;;C09. Machining;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services;
-1481866/2000;P1.P1.P1;;;;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;5;SERVICES;Services;
+1481866/1000;P1.P1.P5;;;;C09. Machining;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;5;SERVICES;Services;
+1481866/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;5;SERVICES;Services;
 1482090/1000;P1.P1.P1;Production Started;;;C07. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Public;5;SERVICES;Services;
 1482236/1000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;E.T.O;22-33978M
 1482236/2000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;E.T.O;22-33978M
@@ -5848,20 +5848,20 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1482545/1000;RN.P1.RN;Booking;ENGR;;C01. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;7;> Q3 2022;FastTrack;
 1482555/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;22W30;Services;
 1482637/1000;RN.P1.ZZ;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;9;ENG;FastTrack;
-1482652/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-08-23;8. In 6 weeks;2022-08-30;;Assoco;7;22W36;FastTrack;
+1482652/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-08-23;8. In 6 weeks;2022-08-30;;Assoco;7;22W36;FastTrack;
 1482652/2000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-09-22;;2022-09-29;;Assoco;7;OUT Q3 2022;FastTrack;
-1482656/1000;P1.P1.P1;Available in Stock;;2022-07-12;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;PDRN
-1482833/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;TO BE ANALYSED;Nuclear;22-34035M
-1482833/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;TO BE ANALYSED;Nuclear;22-34035M
-1482835/1000;P1.P1.P1;Production Started;;;C07. Jacquelin Estelle;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Public;5;22W32;Nuclear;
+1482656/1000;P1.P1.P1;Available in Stock;;2022-07-12;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-21;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;PDRN
+1482833/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;5;TO BE ANALYSED;Nuclear;22-34035M
+1482833/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-29;4. In 2 weeks;2022-08-04;5. In 3 weeks;Public;5;TO BE ANALYSED;Nuclear;22-34035M
+1482835/1000;P1.P1.P1;Available in Stock;;;C07. Jacquelin Estelle;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Public;5;22W32;Nuclear;
 1482835/2000;P1.P1.P1;Production Planned;;;C07. Jacquelin Estelle;2022-11-18;;2023-01-18;;Public;5;> Q3 2022;Nuclear;
 1482835/3000;P1.P1.P1;Engineering;ENGR;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
 1482835/4000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-12-23;;2023-01-18;;Public;5;> Q3 2022;Nuclear;
-1482835/5000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
+1482835/5000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-12-23;;2023-01-18;;Public;5;> Q3 2022;Nuclear;
 1482837/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;ENG;Nuclear;
-1482838/1000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;TO BE ANALYSED;Nuclear;
+1482838/1000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-08-31;;2022-09-09;;Public;5;TO BE ANALYSED;Nuclear;
 1482838/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;CHARGES;Nuclear;
-1482852/1000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;Nuclear;
+1482852/1000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;2022-09-09;;2022-11-29;;Public;5;> Q3 2022;Nuclear;
 1482970/1000;RN.P1.RN;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;FastTrack;RSSO-90860-1
 1482970/2000;RN.P1.RN;Booking;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;FastTrack;RSSO-90860-1
 1482978/1000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;ENG;FastTrack;RSSO-97055-1
@@ -5869,13 +5869,30 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1482983/1000;P1.P1.NM;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;FastTrack;RSSO-90558-1
 1482983/2000;P1.P1.NM;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;FastTrack;RSSO-90558-1
 1483201/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-12;1. In the past;2022-07-15;2. Current week;Assoco;9;SERVICES;FastTrack;
-1483228/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;1367932
-1483228/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;1367932
+1483228/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;1367932
+1483228/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;1367932
 1483603/1000;RN.P1.RN;Booking;ENGR;;C14. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;E.T.O;
 1483603/2000;RN.P1.RN;Booking;ENGR;;C18. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;E.T.O;
 1483603/3000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;E.T.O;
 1483603/4000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q3 2022;E.T.O;
-1483626/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
+1483626/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-15;2. Current week;Assoco;9;TO BE ANALYSED;FastTrack;
+1484047/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484047/2000;P1.P1.P1;Charges;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484055/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;Nuclear;PDRN
+1484095/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/2000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/3000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/4000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/5000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/6000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/7000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/8000;P1.P1.P1;Engineering;ENGR;;C09. Machining;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/9000;P1.P1.P1;Engineering;ENGR;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/10000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/11000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484095/12000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Nuclear;PDRN
+1484117/1000;P1.P1.P1;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+1484117/2000;P1.P1.P1;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
 46011962/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46011962/2000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46014058/2000;P1.P1.P1;Production Ordered;;;C09. Machining;2022-08-26;8. In 6 weeks;2022-09-02;;Assoco;7;22W36;FastTrack;
@@ -5912,20 +5929,20 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46027389/29000;P1.P1.P1;Procurement (PO not Confirmed);;;C10. Jacquelin Estelle;2022-11-25;;2022-12-02;;Assoco;7;> Q3 2022;FastTrack;
 46027389/31000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-02;;2022-10-10;;Assoco;7;> Q3 2022;FastTrack;
 46027389/32000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-09-07;;2022-09-14;;Assoco;7;> Q3 2022;FastTrack;
-46027389/33000;P1.P1.P1;Procurement (PO Required);;;C07. Jacquelin Estelle;2022-11-25;;2022-12-02;;Assoco;7;> Q3 2022;FastTrack;
-46027389/34000;P1.P1.P1;Procurement (PO not Confirmed);;;C10. Jacquelin Estelle;2022-11-25;;2022-12-02;;Assoco;7;> Q3 2022;FastTrack;
+46027389/33000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-11-25;;2022-12-02;;Assoco;7;> Q3 2022;FastTrack;
+46027389/34000;P1.P1.P1;Production Ordered;;;C10. Jacquelin Estelle;2022-11-25;;2022-12-02;;Assoco;7;> Q3 2022;FastTrack;
 46027389/35000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2022-11-25;;2022-12-02;;Assoco;7;> Q3 2022;FastTrack;
 46027389/36000;P1.P1.P1;Production Planned;;;C07. Jacquelin Estelle;2022-09-02;;2022-10-10;;Assoco;7;> Q3 2022;FastTrack;
 46027389/39000;P1.P1.P1;Shipping;;;C09. Machining;2022-09-02;;2022-10-10;;Assoco;7;> Q3 2022;FastTrack;
 46027389/40000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-02;;2022-09-30;;Assoco;7;> Q3 2022;FastTrack;
-46027389/42000;P1.P1.P1;Procurement (PO not Confirmed);;;C08. Machining;2022-09-30;;2022-10-28;;Assoco;7;> Q3 2022;FastTrack;
-46027389/43000;P1.P1.P1;Procurement (PO not Confirmed);;;C08. Machining;2022-09-30;;2022-10-28;;Assoco;7;> Q3 2022;FastTrack;
+46027389/42000;P1.P1.P1;Procurement (PO Confirmed);;;C08. Machining;2022-09-30;;2022-10-28;;Assoco;7;> Q3 2022;FastTrack;
+46027389/43000;P1.P1.P1;Procurement (PO Confirmed);;;C08. Machining;2022-09-30;;2022-10-28;;Assoco;7;> Q3 2022;FastTrack;
 46028156/3000;P1.P1.P1;Production Started;;;C09. Machining;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Assoco;9;22W35;FastTrack;
 46028169/3000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46028223/1000;P1.P1.P1;Procurement (PO Confirmed);;;C08. Machining;2022-09-05;;2022-09-12;;Assoco;9;22W38;FastTrack;
 46028223/2000;P1.P1.P1;Procurement (PO Confirmed);;;C08. Machining;2022-09-05;;2022-09-12;;Assoco;9;22W38;FastTrack;
 46028367/1000;P1.P1.P1;Production Planned;;2022-03-30;C03. Bazin, Sandrine;2022-08-10;6. In 4 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
-46028367/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-03-30;C03. Bazin, Sandrine;2022-08-23;8. In 6 weeks;2022-08-23;8. In 6 weeks;Assoco;9;22W35;FastTrack;
+46028367/2000;P1.P1.P1;Production Planned;;2022-03-30;C03. Bazin, Sandrine;2022-08-23;8. In 6 weeks;2022-08-23;8. In 6 weeks;Assoco;9;22W35;FastTrack;
 46028724/5000;P1.P1.P1;Production Ordered;;;C09. Machining;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Assoco;7;22W35;FastTrack;
 46028724/8000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2022-09-13;;2022-09-20;;Assoco;7;22W39;FastTrack;
 46028724/13000;P1.P1.P1;Shipping;;;C10. Jacquelin Estelle;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;7;22W31;FastTrack;
@@ -5949,7 +5966,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46031277/3000;P1.P1.P1;Production Planned;;;C92. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Assoco;9;22W35;FastTrack;
 46031277/4000;P1.P1.P1;Production Planned;;;C92. Gildas Daligault;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Assoco;9;22W35;FastTrack;
 46031296/2000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
-46031300/1000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-13;2. Current week;2022-07-20;3. Next week;Assoco;9;22W30;FastTrack;
+46031300/1000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-13;1. In the past;2022-07-20;3. Next week;Assoco;9;22W30;FastTrack;
 46031301/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
 46031335/1000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;2022-07-29;4. In 2 weeks;2022-08-08;6. In 4 weeks;Assoco;7;22W33;FastTrack;
 46031465/2000;P1.P1.P1;Production Started;;;C08. Machining;2022-08-09;6. In 4 weeks;2022-08-16;7. In 5 weeks;Assoco;9;22W34;FastTrack;
@@ -5978,8 +5995,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46033381/20000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2022-08-10;6. In 4 weeks;2022-08-17;7. In 5 weeks;Assoco;7;22W34;FastTrack;
 46033381/21000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2022-07-19;3. Next week;2022-07-26;4. In 2 weeks;Assoco;7;22W31;FastTrack;
 46033381/24000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2022-08-31;;2022-09-09;;Assoco;7;22W37;FastTrack;
-46033457/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;FastTrack;
-46033457/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;FastTrack;
+46033457/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-10;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;9;TO BE ANALYSED;FastTrack;
+46033457/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-10;6. In 4 weeks;2022-08-19;7. In 5 weeks;Public;9;TO BE ANALYSED;FastTrack;
 46033551/5000;P1.P1.P1;Production Planned;;;C92. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-09-12;;Assoco;9;22W38;FastTrack;
 46033551/6000;P1.P1.P1;Production Planned;;;C92. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-09-12;;Assoco;9;22W38;FastTrack;
 46033956/6000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-10-10;;2022-10-12;;Assoco;9;> Q3 2022;FastTrack;
@@ -6000,7 +6017,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46035509/1000;P1.P1.P1;Production Planned;;;C28. Machining;2022-07-04;1. In the past;2022-07-11;1. In the past;Assoco;9;22W30;FastTrack;
 46035509/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46035672/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-12;1. In the past;2022-08-01;5. In 3 weeks;Assoco;7;22W32;FastTrack;
-46035672/10000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-13;2. Current week;2022-08-12;6. In 4 weeks;Assoco;7;22W33;FastTrack;
+46035672/10000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-08-12;6. In 4 weeks;Assoco;7;22W33;FastTrack;
 46035672/12000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;7;22W33;FastTrack;
 46035672/18000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;7;22W33;FastTrack;
 46035672/19000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Assoco;7;22W30;FastTrack;
@@ -6013,7 +6030,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46035806/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-09;;2022-09-29;;Assoco;9;OUT Q3 2022;FastTrack;
 46035821/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-09;;2022-09-30;;Assoco;9;OUT Q3 2022;FastTrack;
 46035860/1000;P1.P1.P1;Procurement (PO Required);;;C08. Machining;2022-12-09;;2022-12-22;;Assoco;9;> Q3 2022;FastTrack;
-46035886/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-22;3. Next week;Assoco;9;22W30;FastTrack;
+46035886/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-22;3. Next week;Assoco;9;22W30;FastTrack;
 46035888/6000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-01;1. In the past;2022-07-08;1. In the past;Assoco;9;22W30;FastTrack;
 46035890/2000;P1.P1.P1;Production Ordered;;;C07. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46035890/3000;P1.P1.P1;Shipping;;;C25. Bazin, Sandrine;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Assoco;9;22W34;FastTrack;
@@ -6021,20 +6038,20 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46035890/5000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-20;3. Next week;2022-07-27;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46035948/8000;P1.P1.P1;Procurement (PO Confirmed);;;C92. Gildas Daligault;2022-09-23;;2022-10-10;;Assoco;9;> Q3 2022;FastTrack;
 46035948/9000;P1.P1.P1;Procurement (PO Confirmed);;;C92. Gildas Daligault;2022-09-23;;2022-10-10;;Assoco;9;> Q3 2022;FastTrack;
-46035948/10000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
+46035948/10000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46035952/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-12;6. In 4 weeks;2022-09-02;;Assoco;9;22W36;FastTrack;
 46036109/1000;P1.P1.P1;Procurement (PO Confirmed);;;C26. Bazin, Sandrine;2022-07-26;4. In 2 weeks;2022-08-02;5. In 3 weeks;Assoco;9;22W31;FastTrack;
 46036128/1000;P1.P1.P1;Procurement (PO Confirmed);;;C09. Machining;2022-09-08;;2022-09-15;;Assoco;9;22W38;FastTrack;
 46036131/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-09-22;;2022-09-29;;Assoco;9;3Q OPPS;FastTrack;
 46036245/2000;P1.P1.P1;Production Ordered;;;C09. Machining;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Assoco;9;22W35;FastTrack;
-46036330/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;E.T.O;
-46036330/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;E.T.O;
-46036330/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;E.T.O;
-46036330/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;E.T.O;
-46036389/6000;P1.P1.P1;Procurement (PO Required);;;C07. Jacquelin Estelle;2022-11-21;;2022-11-28;;Assoco;7;> Q3 2022;FastTrack;
+46036330/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-10-28;;2022-11-09;;Public;9;> Q3 2022;E.T.O;
+46036330/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-10-28;;2022-11-09;;Public;9;> Q3 2022;E.T.O;
+46036330/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-10-28;;2022-11-09;;Public;9;> Q3 2022;E.T.O;
+46036330/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-10-28;;2022-11-09;;Public;9;> Q3 2022;E.T.O;
+46036389/6000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-11-21;;2022-11-28;;Assoco;7;> Q3 2022;FastTrack;
 46036389/10000;P1.P1.P1;Production Started;;;C09. Machining;2022-08-19;7. In 5 weeks;2022-08-26;8. In 6 weeks;Assoco;7;22W35;FastTrack;
 46036392/1000;P1.P1.P1;Production Started;;;C07. Jacquelin Estelle;2022-07-20;3. Next week;2022-07-22;3. Next week;Assoco;9;> Q3 2022;FastTrack;
-46036402/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-21;3. Next week;Assoco;9;22W30;FastTrack;
+46036402/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-21;3. Next week;Assoco;9;22W30;FastTrack;
 46036412/1000;P1.P1.P1;Production Started;;;C08. Machining;2022-09-22;;2022-09-29;;Assoco;9;OUT Q3 2022;FastTrack;
 46036462/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-04;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46036580/1000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-07-18;3. Next week;2022-07-26;4. In 2 weeks;Assoco;9;22W31;FastTrack;
@@ -6045,9 +6062,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46036580/6000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-07-18;3. Next week;2022-07-26;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46036580/7000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-07-18;3. Next week;2022-07-26;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46036580/8000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-07-18;3. Next week;2022-07-26;4. In 2 weeks;Assoco;9;22W31;FastTrack;
-46036580/9000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
-46036580/10000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
-46036580/11000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
+46036580/9000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
+46036580/10000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
+46036580/11000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-28;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
 46036580/12000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-29;4. In 2 weeks;2022-08-04;5. In 3 weeks;Assoco;9;22W32;FastTrack;
 46036740/4000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46036748/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-26;4. In 2 weeks;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
@@ -6056,10 +6073,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46036858/5000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-02;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46036858/6000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-02;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46036874/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-02;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
-46036874/5000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
+46036874/5000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46036874/6000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-07-20;3. Next week;2022-07-27;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46036911/1000;P1.P1.P1;Production Released;;;C08. Machining;2022-08-30;;2022-09-06;;Assoco;9;22W37;FastTrack;
-46036911/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-26;4. In 2 weeks;2022-08-05;5. In 3 weeks;Assoco;9;22W32;FastTrack;
+46036911/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-26;4. In 2 weeks;2022-08-05;5. In 3 weeks;Assoco;9;22W32;FastTrack;
 46036911/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-07;;2022-09-16;;Assoco;9;22W38;FastTrack;
 46036911/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-01;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W32;FastTrack;
 46036911/6000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-07;;2022-09-16;;Assoco;9;22W38;FastTrack;
@@ -6074,44 +6091,44 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46037043/1000;P1.P1.P1;Production Started;;;C09. Machining;2022-08-16;7. In 5 weeks;2022-08-22;8. In 6 weeks;Assoco;9;22W35;FastTrack;
 46037050/2000;P1.P1.P1;Procurement (PO Confirmed);;;C09. Machining;2022-12-26;;2023-01-06;;Assoco;9;OUT Q3 2022;FastTrack;
 46037083/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-09-06;;2022-09-13;;Assoco;9;22W39;FastTrack;
-46037104/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-13;2. Current week;2022-07-20;3. Next week;Assoco;9;22W30;FastTrack;
+46037104/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-20;3. Next week;Assoco;9;22W30;FastTrack;
 46037104/4000;P1.P1.P1;Procurement (PO Confirmed);;;C08. Machining;2022-08-31;;2022-09-07;;Assoco;9;22W37;FastTrack;
 46037104/5000;P1.P1.P1;Procurement (PO Confirmed);;;C08. Machining;2022-08-31;;2022-09-07;;Assoco;9;22W37;FastTrack;
 46037104/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46037224/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
-46037224/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
-46037224/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
+46037224/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
+46037224/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46037224/4000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46037486/1000;P1.P1.P1;Engineering Issue;;;C16. Masse Mickael;2022-08-29;;2022-09-05;;Public;9;22W37;FastTrack;
-46037486/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;FastTrack;
+46037486/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-29;;2022-09-05;;Public;9;TO BE ANALYSED;FastTrack;
 46037486/3000;P1.P1.P1;Available in Stock;;;C24. Bazin, Sandrine;2022-08-29;;2022-09-05;;Public;9;22W37;FastTrack;
-46037486/4000;P1.P1.P1;Available in Stock;;;C09. Machining;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;FastTrack;
-46037486/5000;P1.P1.P1;Production Started;;;C08. Machining;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;FastTrack;
-46037486/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;FastTrack;
-46037486/7000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;TO BE ANALYSED;FastTrack;
+46037486/4000;P1.P1.P1;Available in Stock;;;C09. Machining;2022-08-29;;2022-09-05;;Public;9;TO BE ANALYSED;FastTrack;
+46037486/5000;P1.P1.P1;Production Started;;;C08. Machining;2022-08-29;;2022-09-05;;Public;9;TO BE ANALYSED;FastTrack;
+46037486/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-29;;2022-09-05;;Public;9;TO BE ANALYSED;FastTrack;
+46037486/7000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-29;;2022-09-05;;Public;9;TO BE ANALYSED;FastTrack;
 46037576/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-09;6. In 4 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46037620/2000;P1.P1.P1;Production Ordered;;;C07. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46037620/3000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Assoco;9;22W31;FastTrack;
 46037858/1000;P1.P1.P1;Production Started;;;C28. Machining;2022-11-03;;2022-11-10;;Assoco;9;> Q3 2022;FastTrack;
-46037859/1000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-07-25;4. In 2 weeks;2022-08-01;5. In 3 weeks;Assoco;9;22W32;FastTrack;
+46037859/1000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2022-07-25;4. In 2 weeks;2022-08-01;5. In 3 weeks;Assoco;9;22W32;FastTrack;
 46037859/2000;P1.P1.P1;Production Ordered;;;C07. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46037863/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-08-08;6. In 4 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
-46037876/1000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-25;4. In 2 weeks;Assoco;9;22W31;FastTrack;
+46037876/1000;P1.P1.P1;Available in Stock;;;C10. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-25;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46037878/1000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46037915/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-27;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46037915/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-27;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46037915/5000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-07;;2022-09-16;;Assoco;9;22W38;FastTrack;
 46037915/7000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-27;4. In 2 weeks;Assoco;9;22W31;FastTrack;
-46037953/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;TO BE ANALYSED;FastTrack;
-46037953/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;TO BE ANALYSED;FastTrack;
-46037953/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;TO BE ANALYSED;FastTrack;
+46037953/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;7;TO BE ANALYSED;FastTrack;
+46037953/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-15;2. Current week;2022-07-22;3. Next week;Public;7;TO BE ANALYSED;FastTrack;
+46037953/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-22;3. Next week;2022-07-29;4. In 2 weeks;Public;7;TO BE ANALYSED;FastTrack;
 46038032/4000;P1.P1.P1;Procurement (PO Confirmed);;;C92. Gildas Daligault;2022-07-25;4. In 2 weeks;2022-08-01;5. In 3 weeks;Assoco;9;22W32;FastTrack;
-46038032/7000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
+46038032/7000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46038058/1000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Assoco;7;22W31;FastTrack;
 46038112/1000;P1.P1.P1;Production Started;;;C92. Gildas Daligault;2022-10-10;;2022-10-13;;Assoco;7;> Q3 2022;FastTrack;
 46038184/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Assoco;9;22W34;FastTrack;
-46038184/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Assoco;9;22W34;FastTrack;
-46038203/3000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Assoco;9;22W31;FastTrack;
+46038184/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Assoco;9;22W34;FastTrack;
+46038203/3000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Assoco;9;22W31;FastTrack;
 46038220/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-12;6. In 4 weeks;Assoco;7;22W32;FastTrack;
 46038220/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-05;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;7;22W32;FastTrack;
 46038220/4000;P1.P1.P1;Shipping;;;C10. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Assoco;7;22W31;FastTrack;
@@ -6137,7 +6154,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46038483/1000;P1.P1.P1;Production Ordered;;;C07. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46038494/1000;P1.P1.P1;Procurement (PO Required);;;C09. Machining;2022-11-16;;2022-11-23;;Assoco;9;> Q3 2022;FastTrack;
 46038505/1000;P1.P1.P1;Shipping;;;C09. Machining;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Assoco;9;22W34;FastTrack;
-46038522/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Assoco;9;22W36;FastTrack;
+46038522/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Assoco;9;22W36;FastTrack;
 46038522/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-02;;Assoco;9;22W36;FastTrack;
 46038625/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Assoco;9;22W32;FastTrack;
 46038625/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-27;4. In 2 weeks;2022-08-03;5. In 3 weeks;Assoco;9;22W32;FastTrack;
@@ -6178,14 +6195,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46039449/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-23;;2022-09-23;;Assoco;9;22W39;FastTrack;
 46039451/1000;P1.P1.P1;Production Planned;;;C08. Machining;2022-08-08;6. In 4 weeks;2022-08-12;6. In 4 weeks;Assoco;9;22W33;FastTrack;
 46039466/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Assoco;9;22W34;FastTrack;
-46039466/2000;P1.P1.P1;Production Planned;;;C92. Gildas Daligault;2022-08-09;6. In 4 weeks;2022-08-16;7. In 5 weeks;Assoco;9;22W34;FastTrack;
+46039466/2000;P1.P1.P1;Procurement (PO Required);;;C92. Gildas Daligault;2022-08-09;6. In 4 weeks;2022-08-16;7. In 5 weeks;Assoco;9;22W34;FastTrack;
 46039516/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-06;1. In the past;2022-07-12;1. In the past;Public;9;22W30;FastTrack;
 46039516/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-06;1. In the past;2022-07-12;1. In the past;Public;9;22W30;FastTrack;
 46039516/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-06;1. In the past;2022-07-12;1. In the past;Public;9;22W30;FastTrack;
 46039567/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-18;7. In 5 weeks;2022-08-25;8. In 6 weeks;Assoco;9;22W35;FastTrack;
 46039567/3000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-08-11;6. In 4 weeks;2022-08-18;7. In 5 weeks;Assoco;9;22W34;FastTrack;
 46039567/5000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-16;7. In 5 weeks;2022-08-23;8. In 6 weeks;Assoco;9;22W35;FastTrack;
-46039567/6000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Assoco;9;22W31;FastTrack;
+46039567/6000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-18;3. Next week;2022-07-25;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46039575/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-26;;2022-09-30;;Assoco;9;OUT Q3 2022;FastTrack;
 46039575/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-09-26;;2022-09-30;;Assoco;9;OUT Q3 2022;FastTrack;
 46039575/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-10-10;;2022-10-17;;Assoco;9;> Q3 2022;FastTrack;
@@ -6204,17 +6221,17 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46039989/1000;P1.P1.P1;Procurement (PO Confirmed);;;C09. Machining;2022-10-21;;2022-10-28;;Assoco;9;> Q3 2022;FastTrack;
 46039990/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-10-10;;2022-10-17;;Assoco;9;> Q3 2022;FastTrack;
 46039992/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2022-10-21;;2022-10-28;;Assoco;9;> Q3 2022;FastTrack;
-46039995/1000;P1.P1.P1;Available in Stock;;;C10. Jacquelin Estelle;2022-12-14;;2022-12-21;;Assoco;9;> Q3 2022;FastTrack;
+46039995/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-12-14;;2022-12-21;;Assoco;9;> Q3 2022;FastTrack;
 46039996/1000;P1.P1.P1;Production Ordered;;;C07. Jacquelin Estelle;2022-07-21;3. Next week;2022-07-28;4. In 2 weeks;Assoco;9;22W31;FastTrack;
 46040029/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
 46040029/2000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
 46040029/3000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
 46040035/1000;P1.P1.P1;Shipping;;;C09. Machining;2022-07-11;1. In the past;2022-07-18;3. Next week;Assoco;9;22W29;FastTrack;
-46040133/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040133/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040133/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040133/4000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040133/5000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
+46040133/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-08-03;5. In 3 weeks;2022-08-10;6. In 4 weeks;Assoco;9;TO BE ANALYSED;FastTrack;
+46040133/2000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-19;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040133/3000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-19;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040133/4000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-19;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040133/5000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-19;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
 46040241/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
 46040241/2000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
 46040241/3000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
@@ -6225,19 +6242,48 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46040241/8000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
 46040241/9000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
 46040241/10000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
-46040254/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040254/2000;P1.P1.P1;Engineering Issue;;;C08. Machining;;0. Not defined;;0. Not defined;Assoco;9;ENG;FastTrack;
-46040254/3000;P1.P1.P1;Engineering Issue;;;C08. Machining;;0. Not defined;;0. Not defined;Assoco;9;ENG;FastTrack;
-46040254/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040328/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040345/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040345/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040345/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040345/4000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040345/5000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
+46040254/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-18;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040254/2000;P1.P1.P1;Engineering Issue;;;C08. Machining;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Assoco;9;ENG;FastTrack;
+46040254/3000;P1.P1.P1;Engineering Issue;;;C08. Machining;2022-08-12;6. In 4 weeks;2022-08-19;7. In 5 weeks;Assoco;9;ENG;FastTrack;
+46040254/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-18;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040328/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-21;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040345/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-21;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040345/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-21;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040345/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-21;3. Next week;Assoco;9;TO BE ANALYSED;FastTrack;
+46040345/4000;P1.P1.P1;Procurement (incoming material inspection);;;C35. Gildas Daligault;2022-08-04;5. In 3 weeks;2022-08-11;6. In 4 weeks;Assoco;9;TO BE ANALYSED;FastTrack;
+46040345/5000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2022-08-26;8. In 6 weeks;2022-09-08;;Assoco;9;TO BE ANALYSED;FastTrack;
 46040362/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;> Q3 2022;FastTrack;
-46040392/1000;P1.P1.P1;;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;9;TO BE ANALYSED;FastTrack;
-46040409/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;TO BE ANALYSED;FastTrack;
+46040392/1000;P1.P1.P1;Procurement (PO Required);;;C09. Machining;2022-09-09;;2022-09-19;;Assoco;9;TO BE ANALYSED;FastTrack;
+46040409/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-07-13;1. In the past;2022-07-21;3. Next week;Assoco;7;TO BE ANALYSED;FastTrack;
+46040517/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040517/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040517/3000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040517/4000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040517/5000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040517/6000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040524/1000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040524/2000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040524/3000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040524/4000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040524/5000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040546/1000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;;E.T.O;
+46040555/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040566/1000;P1.P1.P1;;;;C08. Machining;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/2000;P1.P1.P1;;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/3000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/4000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/5000;P1.P1.P1;;;;C07. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/6000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/7000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/8000;P1.P1.P1;;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/9000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/10000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/11000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/12000;P1.P1.P1;;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040566/13000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;FastTrack;
+46040570/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040570/2000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46040607/1000;P1.P1.P1;;;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;7;;E.T.O;
 70185284/1000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;
 70185284/2000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;
 70185284/3000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;

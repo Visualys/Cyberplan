@@ -4952,7 +4952,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1476346/1000;P1.P1.RB;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;2022-10-27;;Assoco;9;ENG;FastTrack;22-32745M
 1476597/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
 1476597/2000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
-1476597/3000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
+1476597/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
 1476597/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
 1476597/5000;P1.P1.SP;Manufacturing Engineering Issue;;2022-07-06;C24. Bazin, Sandrine;2022-09-19;;2022-09-26;;Public;5;22W39;FastTrack;RSSO-93021-1
 1476680/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-08-16;4. In 2 weeks;2022-08-29;6. In 4 weeks;Public;5;SERVICES;Services;
@@ -5177,7 +5177,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1479544/22000;P1.P1.P1;Procurement (PO not Confirmed);;2022-07-21;C26. Bazin, Sandrine;2023-02-07;;2023-02-17;;Public;5;> Q3 2022;FastTrack;
 1479544/23000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-21;C25. Bazin, Sandrine;2023-02-07;;2023-02-17;;Public;5;> Q3 2022;FastTrack;
 1479544/24000;P1.P1.P1;Procurement (PO Confirmed);;2022-07-21;C25. Bazin, Sandrine;2023-02-07;;2023-02-17;;Public;5;> Q3 2022;FastTrack;
-1479555/1000;P1.P1.RB;Procurement (PO Required);;2022-07-20;C24. Bazin, Sandrine;2022-09-19;;2022-09-19;;Public;5;22W39;FastTrack;RSSO-94861-1
+1479555/1000;P1.P1.RB;Procurement (PO Confirmed);;2022-07-20;C24. Bazin, Sandrine;2022-09-19;;2022-09-19;;Public;5;22W39;FastTrack;RSSO-94861-1
 1479576/1000;RN.P1.ZZ;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
 1479576/2000;RN.P1.ZZ;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
 1479576/3000;RN.P1.ZZ;Booking;ENGR;;C22. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;9;> Q3 2022;FastTrack;
@@ -6123,6 +6123,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46042893/2000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
 46042893/3000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
 46042942/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043010/1000;P1.P1.P1;Available in Stock;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043010/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043010/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043010/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043011/1000;P1.P1.P1;Production Planned;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043012/1000;P1.P1.P1;Production Planned;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043013/1000;P1.P1.P1;Procurement (Transit);;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46043015/1000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
 70185284/1000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;
 70185284/2000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;
 70185284/3000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;

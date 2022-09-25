@@ -3864,7 +3864,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1471512/6000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-09;C03. Bazin, Sandrine;2022-11-23;;2023-01-02;;Assoco;7;OUT Q4 2022;FastTrack;
 1471512/8000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-09;C03. Bazin, Sandrine;2022-11-23;;2023-01-02;;Assoco;7;OUT Q4 2022;FastTrack;
 1471512/9000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;2022-11-22;;2022-11-29;;Assoco;7;22W49;FastTrack;
-1471559/1000;P1.P1.P1;Procurement (PO Required);;2022-06-21;C25. Bazin, Sandrine;2022-11-25;;2022-12-05;;Public;25;22W51;FastTrack;22-33543M
+1471559/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-06-21;C25. Bazin, Sandrine;2022-11-25;;2022-12-05;;Public;25;22W51;FastTrack;22-33543M
 1471559/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2022-11-28;;2022-12-05;;Public;25;22W51;FastTrack;22-33543M
 1471559/3000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-11-28;;2022-12-05;;Public;25;22W51;FastTrack;22-33543M
 1471559/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2022-11-28;;2022-12-05;;Public;25;22W51;FastTrack;22-33543M
@@ -5115,7 +5115,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1498159/4000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;CHARGES;FastTrack;21-9466
 1498190/1000;P1.P1.P1;Production Planned;;;C07. Jacquelin Estelle;2022-11-29;;2022-12-06;;Public;5;22W49;Nuclear;
 1498234/1000;P1.P1.P1;Procurement (PO not Confirmed);;2022-09-16;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q4 2022;FastTrack;
-1498234/2000;P1.P1.P1;Procurement (PO Confirmed);;2022-09-16;C12. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q4 2022;FastTrack;
+1498234/2000;P1.P1.P1;Production Planned;;2022-09-16;C12. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q4 2022;FastTrack;
 1498234/3000;P1.P1.P1;Procurement (PO Confirmed);;2022-09-16;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q4 2022;FastTrack;
 1498234/4000;P1.P1.P1;Procurement (PO Confirmed);;2022-09-16;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q4 2022;FastTrack;
 1498234/5000;P1.P1.P1;Production Planned;;2022-09-16;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q4 2022;FastTrack;
@@ -6063,6 +6063,12 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46048091/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;FastTrack;
 46048159/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
 46048159/2000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;9;;FastTrack;
+46048201/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;;E.T.O;
+46048201/2000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;;E.T.O;
+46048211/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;;E.T.O;
+46048211/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;;E.T.O;
+46048211/3000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;9;;E.T.O;
+46048211/4000;P1.P1.P1;;;;C07. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;9;;E.T.O;
 70185284/1000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;
 70185284/2000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;
 70185284/3000;P1..;Charges;;;;;0. Not defined;;0. Not defined;Public;5;;;

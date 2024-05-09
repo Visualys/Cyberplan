@@ -1025,7 +1025,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1292136/9010;P1.P1.SP;Engineering;ENGR;2023-08-24;C11. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;OUT Q2 2024;Nuclear;NUC
 1292136/10010;P1.P1.SP;Engineering;ENGR;2023-08-24;C11. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;OUT Q2 2024;Nuclear;NUC
 1292136/11000;P1.P1.P1;Procurement (PO Confirmed);;2024-03-12;C35. Gildas Daligault;2024-07-29;;2024-09-09;;Public;10;CHARGES;Nuclear;NUC
-1292136/11010;P1.P1.P1;Procurement (PO Confirmed);;2024-03-12;C35. Gildas Daligault;2024-07-29;;2024-09-09;;Public;10;OUT Q2 2024;Nuclear;NUC
+1292136/11010;P1.P1.P1;Procurement (Transit);;2024-03-12;C35. Gildas Daligault;2024-07-29;;2024-09-09;;Public;10;OUT Q2 2024;Nuclear;NUC
 1292136/12000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Nuclear;NUC
 1292141/1000;P1.P1.SP;Engineering;EOUT;2023-01-11;C11. Hubert Jean Charl;2024-09-02;;2024-10-14;;Public;10;> Q2 2024;Nuclear;NUC
 1292141/2000;P1.P1.SP;Engineering;EOUT;2023-01-11;C11. Hubert Jean Charl;2024-09-02;;2024-10-14;;Public;10;> Q2 2024;Nuclear;NUC
@@ -1038,7 +1038,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1292141/9010;P1.P1.SP;Engineering;ENGR;;C11. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q2 2024;Nuclear;NUC
 1292141/10010;P1.P1.SP;Engineering;ENGR;;C11. Hubert Jean Charl;;0. Not defined;;0. Not defined;Public;10;> Q2 2024;Nuclear;NUC
 1292141/11000;P1.P1.P1;Procurement (PO Confirmed);;2024-03-12;C35. Gildas Daligault;2024-09-02;;2024-10-14;;Public;10;> Q2 2024;Nuclear;NUC
-1292141/11010;P1.P1.P1;Procurement (PO Confirmed);;2024-03-12;C35. Gildas Daligault;2024-09-02;;2024-10-14;;Public;10;> Q2 2024;Nuclear;NUC
+1292141/11010;P1.P1.P1;Procurement (Transit);;2024-03-12;C35. Gildas Daligault;2024-09-02;;2024-10-14;;Public;10;> Q2 2024;Nuclear;NUC
 1292145/1000;P1.P1.ZZ;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;OUT Q2 2024;Nuclear;PDRN
 1292145/2000;P1.P1.ZZ;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;OUT Q2 2024;Nuclear;PDRN
 1296728/14000;P1.P1.P1;Available in Stock;;2021-01-06;C35. Gildas Daligault;2024-06-05;6. In 4 weeks;2024-06-05;6. In 4 weeks;Public;25;CHARGES;Commercial;20-27280M
@@ -2057,14 +2057,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1561224/13000;P1.P1.P1;Available in Stock;;2023-12-26;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/14000;P1.P1.P1;Procurement (PO Confirmed);;2023-12-26;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/15000;P1.P1.SP;Manufacturing Engineering Issue;;2024-02-14;C92. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
-1561224/15010;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
+1561224/15010;P1.P1.P1;Procurement (incoming material inspection);;;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/15020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/16000;P1.P1.P1;Production Planned;;2024-02-14;C08. Machining;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/17000;P1.P1.P1;Production Planned;;2024-02-14;C08. Machining;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/18000;P1.P1.P1;Production Planned;;2024-02-14;C08. Machining;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/19000;P1.P1.P1;Procurement (PO Confirmed);;2023-12-26;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/20000;P1.P1.P1;Available in Stock;;2023-12-26;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
-1561224/21000;P1.P1.P1;Procurement (PO Confirmed);;2023-12-26;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
+1561224/21000;P1.P1.P1;Procurement (incoming material inspection);;2023-12-26;C35. Gildas Daligault;2024-07-08;;2024-07-22;;Public;10;OUT Q2 2024;Nuclear;NUC
 1561224/22000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Nuclear;NUC
 1563805/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Nuclear;
 1564481/3000;P1.P1.P1;Production Started;;2023-04-12;C26. Bazin, Sandrine;2024-04-05;1. In the past;2024-05-07;1. In the past;Assoco;10;24W20;Commercial;
@@ -4032,7 +4032,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1630930/1000;P1.P1.RB;Production Planned;;2023-12-22;C10. Jacquelin Estelle;2024-05-07;1. In the past;2024-05-07;1. In the past;Public;10;24W21;Commercial;SDR WF#17380
 1630930/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Commercial;SDR WF#17380
 1631032/1000;P1.P1.P1;Procurement (PO Required);;2024-01-08;C33. Masse Mickael;2024-06-20;8. In 6 weeks;2024-06-24;;Assoco;10;24W26;Commercial;SDR WF#18677
-1631844/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-02-05;C30. Masse Mickael;2024-06-20;8. In 6 weeks;2024-07-04;;Assoco;10;OUT Q2 2024;Commercial;SDR WF#15181
+1631844/1000;P1.P1.P1;Procurement (PO Required);;2024-02-05;C30. Masse Mickael;2024-06-20;8. In 6 weeks;2024-07-04;;Assoco;10;OUT Q2 2024;Commercial;SDR WF#15181
 1632641/1000;P1.P1.P1;Procurement (PO Confirmed);;2023-11-17;C22. Masse Mickael;2024-06-03;6. In 4 weeks;2024-06-17;8. In 6 weeks;Public;7;> Q2 2024;Commercial;N/A
 1632641/2000;P1.P1.P1;Procurement (PO Confirmed);;2023-11-17;C22. Masse Mickael;2024-06-03;6. In 4 weeks;2024-06-17;8. In 6 weeks;Public;7;> Q2 2024;Commercial;N/A
 1632682/1000;P1.P1.PR;Procurement (PO not Confirmed);;2024-04-11;C22. Masse Mickael;2024-08-30;;2024-09-13;;Assoco;10;> Q2 2024;Commercial;CF
@@ -4437,7 +4437,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1644016/22000;P1.P1.P1;Procurement (PO Required);;2023-12-19;C26. Bazin, Sandrine;2024-12-04;;2024-12-18;;Public;5;> Q2 2024;Commercial;
 1644016/23000;P1.P1.P1;Procurement (PO Required);;2023-12-19;C25. Bazin, Sandrine;2024-12-04;;2024-12-18;;Public;5;> Q2 2024;Commercial;
 1644016/24000;P1.P1.P1;Procurement (PO Required);;2023-12-19;C25. Bazin, Sandrine;2024-12-04;;2024-12-18;;Public;5;> Q2 2024;Commercial;
-1644088/1000;P1.P1.SP;Manufacturing Engineering Issue;;2024-02-12;C02. Jacquelin Estelle;2024-05-13;3. Next week;2024-05-13;3. Next week;Public;10;24W25;Commercial;21 Weeks
+1644088/1000;CC.P1.SP;Engineering Issue;;2024-02-12;C02. Jacquelin Estelle;2024-05-13;3. Next week;2024-05-13;3. Next week;Public;10;24W25;Commercial;21 Weeks
 1644088/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Commercial;21 Weeks
 1644088/3000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Commercial;21 Weeks
 1644088/4000;P1.P1.P1;Available in Stock;;2024-01-22;C35. Gildas Daligault;2024-05-13;3. Next week;2024-05-13;3. Next week;Public;10;24W25;Commercial;21 Weeks
@@ -4957,7 +4957,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1651020/20000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/20010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/20020;P1.P1.P1;Procurement (PO not Confirmed);;2024-04-29;C92. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
-1651020/20030;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
+1651020/20030;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/20040;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/20050;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/20060;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
@@ -4966,7 +4966,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1651020/30000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/30010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/30020;P1.P1.P1;Procurement (PO not Confirmed);;2024-04-29;C92. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
-1651020/30030;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
+1651020/30030;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/30040;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/30050;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
 1651020/30060;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-06-28;;Public;10;OUT Q2 2024;Commercial;CF
@@ -5005,10 +5005,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1651824/1000;P1.P1.P1;Procurement (PO Required);;2024-02-05;C24. Bazin, Sandrine;2024-07-01;;2024-07-15;;Public;5;> Q2 2024;Commercial;CF
 1651941/2000;P1.P1.P1;Procurement (PO not Confirmed);;2024-01-15;C10. Jacquelin Estelle;2024-09-20;;2024-10-04;;Assoco;7;> Q2 2024;Commercial;
 1652022/1000;P1.P1.P1;Procurement (PO Required);;2024-02-05;C21. Masse Mickael;2024-07-09;;2024-07-23;;Public;5;> Q2 2024;Commercial;22 WEEKS
-1652294/1000;P1.P1.P1;Procurement (PO not Confirmed);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
-1652294/2000;P1.P1.P1;Procurement (PO not Confirmed);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
-1652294/3000;P1.P1.P1;Procurement (PO not Confirmed);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
-1652294/4000;P1.P1.P1;Procurement (PO not Confirmed);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
+1652294/1000;P1.P1.P1;Procurement (PO Required);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
+1652294/2000;P1.P1.P1;Procurement (PO Required);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
+1652294/3000;P1.P1.P1;Procurement (PO Required);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
+1652294/4000;P1.P1.P1;Procurement (PO Required);;2024-03-04;C21. Masse Mickael;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
 1652294/5000;P1.P1.P1;Available in Stock;;2024-02-19;C35. Gildas Daligault;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
 1652294/6000;P1.P1.P1;Available in Stock;;2024-02-19;C35. Gildas Daligault;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
 1652294/7000;P1.P1.P1;Available in Stock;;2024-02-19;C35. Gildas Daligault;2024-06-26;;2024-07-10;;Assoco;5;OUT Q2 2024;Commercial;SDR WF#15597
@@ -5107,7 +5107,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1655264/34000;P1.P1.P1;Available in Stock;;2024-02-09;C35. Gildas Daligault;2024-06-28;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
 1655264/35000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-08-02;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
 1655264/36000;P1.P1.P1;Production Started;;;C08. Machining;2024-06-28;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
-1655264/37000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-08-02;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
+1655264/37000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2024-08-02;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
 1655264/38000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-08-02;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
 1655264/39000;P1.P1.P1;Procurement (PO Confirmed);;2024-02-19;C35. Gildas Daligault;2024-08-23;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
 1655264/40000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-08-02;;2024-09-05;;Public;25;> Q2 2024;Commercial;SDR WF#23545
@@ -5300,18 +5300,18 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1658002/3000;P1.P1.P1;Procurement (PO Required);;2024-03-21;C35. Gildas Daligault;2024-08-23;;2024-09-20;;Public;7;> Q2 2024;Nuclear;PDRN
 1658039/1000;CC.P1.SP;Engineering Issue;;2024-04-25;C22. Masse Mickael;2024-05-17;3. Next week;2024-07-26;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/2000;P1.P1.RB;Procurement (PO Required);;2024-05-02;C19. Masse Mickael;2024-05-17;3. Next week;2024-07-26;;Public;10;OUT Q2 2024;Commercial;CF
-1658039/3000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/4000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/5000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/3000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/4000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/5000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
 1658039/6000;P1.P1.RB;Procurement (PO Required);;2024-04-25;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/7000;P1.P1.RB;Procurement (PO Required);;2024-04-25;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/8000;P1.P1.RB;Procurement (PO Required);;2024-04-25;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
-1658039/9000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/10000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/11000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/12000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/13000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/14000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/9000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/10000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/11000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/12000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/13000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/14000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
 1658039/15000;P1.P1.RB;Procurement (PO Required);;2024-05-02;C19. Masse Mickael;2024-05-17;3. Next week;2024-07-26;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/16000;P1.P1.RB;Procurement (PO Required);;2024-05-02;C19. Masse Mickael;2024-05-17;3. Next week;2024-07-26;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/17000;P1.P1.RB;Procurement (PO Required);;2024-05-02;C19. Masse Mickael;2024-05-17;3. Next week;2024-07-26;;Public;10;OUT Q2 2024;Commercial;CF
@@ -5321,15 +5321,15 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1658039/21000;P1.P1.RB;Engineering Issue;;2024-05-02;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/22000;P1.P1.RB;Engineering Issue;;2024-05-02;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/23000;P1.P1.RB;Engineering Issue;;2024-05-02;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
-1658039/24000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/25000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/26000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/24000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/25000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/26000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
 1658039/27000;P1.P1.RB;Procurement (PO Required);;2024-04-25;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/28000;P1.P1.RB;Procurement (PO Required);;2024-04-25;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/29000;P1.P1.RB;Procurement (PO Required);;2024-04-25;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
-1658039/30000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/31000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
-1658039/32000;CC.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/30000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/31000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
+1658039/32000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-08-06;;2024-08-20;;Public;10;ENG;Commercial;CF
 1658039/33000;P1.P1.RB;Procurement (PO Required);;2024-05-02;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/34000;P1.P1.RB;Procurement (PO Required);;2024-05-02;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
 1658039/35000;P1.P1.RB;Procurement (PO Required);;2024-05-02;C19. Masse Mickael;2024-07-16;;2024-08-06;;Public;10;OUT Q2 2024;Commercial;CF
@@ -5640,7 +5640,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1663691/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-03-01;C10. Jacquelin Estelle;2024-06-25;;2024-07-09;;Assoco;7;> Q2 2024;Commercial;SDR WF#24393
 1663849/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-03-18;C02. Jacquelin Estelle;2024-05-21;4. In 2 weeks;2024-05-27;5. In 3 weeks;Public;5;24W22;Commercial;CF
 1663895/4000;P1.P1.SP;Manufacturing Engineering Issue;;2024-02-23;C07. Jacquelin Estelle;2024-05-24;4. In 2 weeks;2024-06-14;7. In 5 weeks;Assoco;7;24W25;Commercial;
-1663913/12000;P1.P1.P1;Procurement (PO Confirmed);;2024-02-20;C35. Gildas Daligault;2024-06-12;7. In 5 weeks;2024-06-21;8. In 6 weeks;Assoco;10;> Q2 2024;Commercial;
+1663913/12000;P1.P1.P1;Procurement (Transit);;2024-02-20;C35. Gildas Daligault;2024-06-12;7. In 5 weeks;2024-06-21;8. In 6 weeks;Assoco;10;> Q2 2024;Commercial;
 1663913/14000;P1.P1.P1;Production Planned;;2024-02-20;C03. Bazin, Sandrine;2024-05-24;4. In 2 weeks;2024-06-07;6. In 4 weeks;Assoco;10;24W23;Commercial;
 1663979/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-21;8. In 6 weeks;2024-12-06;;Public;10;OUT Q2 2024;Nuclear;NUC
 1663979/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-06-21;8. In 6 weeks;2024-12-06;;Public;10;OUT Q2 2024;Nuclear;NUC
@@ -6049,7 +6049,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1668448/1000;P1.P1.P1;Procurement (PO not Confirmed);;2024-03-28;C02. Jacquelin Estelle;2024-07-05;;2024-07-19;;Public;10;> Q2 2024;Commercial;14 Weeks
 1668448/2000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;> Q2 2024;Commercial;14 Weeks
 1668505/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-04-09;C35. Gildas Daligault;2024-05-23;4. In 2 weeks;2024-05-31;5. In 3 weeks;Public;10;24W24;Nuclear;PDRN
-1668805/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-05-24;4. In 2 weeks;2024-05-24;4. In 2 weeks;Public;5;SERVICES;Services;
+1668805/1000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2024-05-24;4. In 2 weeks;2024-05-24;4. In 2 weeks;Public;5;SERVICES;Services;
 1668805/2000;P1.P1.P1;Procurement (incoming material inspection);;;C35. Gildas Daligault;2024-05-24;4. In 2 weeks;2024-05-24;4. In 2 weeks;Public;5;SERVICES;Services;
 1668805/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-05-24;4. In 2 weeks;2024-05-24;4. In 2 weeks;Public;5;SERVICES;Services;
 1668866/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-05-17;3. Next week;2024-05-24;4. In 2 weeks;Public;5;SERVICES;Services;
@@ -6154,15 +6154,15 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1671310/2000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Commercial;CF
 1671310/3000;P1.P1.P1;Charges;;;C35. Gildas Daligault;2024-05-03;1. In the past;2024-05-17;3. Next week;Public;10;CHARGES;Commercial;CF
 1671310/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-05-17;3. Next week;2024-05-24;4. In 2 weeks;Public;10;24W21;Commercial;CF
-1671367/1000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
-1671367/2000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
-1671367/3000;P1.P1.SP;Engineering;ENGR;;C18. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
+1671367/1000;P1.P1.SP;;;2024-05-09;C30. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
+1671367/2000;P1.P1.SP;;;2024-05-09;C30. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
+1671367/3000;P1.P1.SP;;;2024-05-09;C18. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
 1671367/4000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
 1671367/5000;P1.P1.SP;Engineering;ENGR;;C30. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
-1671367/6000;P1.P1.SP;Engineering;ENGR;;C25. Bazin, Sandrine;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
-1671367/7000;P1.P1.SP;Engineering;ENGR;;C25. Bazin, Sandrine;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
+1671367/6000;P1.P1.SP;;;2024-05-09;C25. Bazin, Sandrine;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
+1671367/7000;P1.P1.SP;;;2024-05-09;C25. Bazin, Sandrine;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
 1671367/8000;P1.P1.SP;Engineering;ENGR;;C18. Masse Mickael;2024-09-03;;2024-09-17;;Public;7;> Q2 2024;Commercial;SDR WF#25020
-1671367/9000;P1.P1.SP;Engineering;ENGR;;C21. Masse Mickael;2024-07-22;;2024-08-05;;Public;7;> Q2 2024;Commercial;SDR WF#25020
+1671367/9000;P1.P1.SP;;;2024-05-09;C21. Masse Mickael;2024-07-22;;2024-08-05;;Public;7;> Q2 2024;Commercial;SDR WF#25020
 1671367/10000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q2 2024;Commercial;SDR WF#25020
 1671367/11000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q2 2024;Commercial;SDR WF#25020
 1671367/13000;RN.P1.RN;Engineering;ENGR;;C21. Masse Mickael;2024-08-30;;2024-09-13;;Public;7;> Q2 2024;Commercial;SDR WF#25020
@@ -6391,7 +6391,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1673722/15000;P1.P1.P1;Engineering Issue;;2024-03-29;C10. Jacquelin Estelle;2024-06-14;7. In 5 weeks;2024-07-24;;Public;5;> Q2 2024;Nuclear;PDRN
 1673722/16000;P1.P1.SP;Manufacturing Engineering Issue;;2024-04-03;C92. Gildas Daligault;2024-09-02;;2024-09-04;;Public;5;> Q2 2024;Nuclear;PDRN
 1673722/17000;P1.P1.SP;Manufacturing Engineering Issue;;2024-04-03;C92. Gildas Daligault;2024-09-02;;2024-09-04;;Public;5;> Q2 2024;Nuclear;PDRN
-1673722/18000;P1.P1.P1;Procurement (PO Required);;;C07. Jacquelin Estelle;2024-06-14;7. In 5 weeks;2024-07-24;;Public;5;> Q2 2024;Nuclear;PDRN
+1673722/18000;P1.P1.P1;Procurement (PO not Confirmed);;;C07. Jacquelin Estelle;2024-06-14;7. In 5 weeks;2024-07-24;;Public;5;> Q2 2024;Nuclear;PDRN
 1673722/19000;P1.P1.P1;Procurement (PO Confirmed);;;C07. Jacquelin Estelle;2024-06-14;7. In 5 weeks;2024-07-24;;Public;5;> Q2 2024;Nuclear;PDRN
 1673722/20000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2025-01-15;;2025-01-22;;Public;5;> Q2 2024;Nuclear;PDRN
 1673722/21000;P1.P1.P1;Procurement (PO not Confirmed);;;C10. Jacquelin Estelle;2024-10-04;;2025-01-22;;Public;5;> Q2 2024;Nuclear;PDRN
@@ -7218,8 +7218,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1680734/6000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-07-19;;2024-07-26;;Public;5;> Q2 2024;Nuclear;PDRN
 1680734/9000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2024-08-02;;2024-10-29;;Public;5;> Q2 2024;Nuclear;PDRN
 1680734/11000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2024-05-21;4. In 2 weeks;2024-05-28;5. In 3 weeks;Public;5;24W22;Nuclear;PDRN
-1680908/1000;RN.P1.RN;Engineering;ENGR;;C01. Masse Mickael;2024-08-26;;2024-09-09;;Public;5;> Q2 2024;Commercial;18 Weeks
-1680908/2000;RN.P1.RN;Engineering;ENGR;;C01. Masse Mickael;2024-08-26;;2024-09-09;;Public;5;> Q2 2024;Commercial;18 Weeks
+1680908/1000;P1.P1.NM;Engineering;ENGR;;C01. Masse Mickael;2024-08-26;;2024-09-09;;Public;5;> Q2 2024;Commercial;18 Weeks
+1680908/2000;P1.P1.NM;Engineering;ENGR;;C01. Masse Mickael;2024-08-26;;2024-09-09;;Public;5;> Q2 2024;Commercial;18 Weeks
 1680942/1000;P1.P1.SP;Engineering Issue;;2024-04-30;C01. Masse Mickael;2024-10-14;;2024-10-28;;Assoco;10;OUT Q2 2024;Commercial;
 1680942/2000;P1.P1.SP;Engineering Issue;;2024-04-30;C01. Masse Mickael;2024-10-14;;2024-10-28;;Assoco;10;OUT Q2 2024;Commercial;
 1680942/3000;P1.P1.P1;Engineering Issue;;2024-04-30;C01. Masse Mickael;2024-10-14;;2024-10-28;;Assoco;10;OUT Q2 2024;Commercial;
@@ -7261,8 +7261,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1681387/3000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q2 2024;Commercial;SDR WF#28017
 1681387/4000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q2 2024;Commercial;SDR WF#28017
 1681406/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-04-12;C10. Jacquelin Estelle;2024-05-31;5. In 3 weeks;2024-05-31;5. In 3 weeks;Assoco;10;24W23;Commercial;
-1681435/1000;P1.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-11-22;;2024-12-06;;Assoco;10;> Q2 2024;Commercial;SDR WF#25771
-1681435/2000;P1.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-11-22;;2024-12-06;;Assoco;10;> Q2 2024;Commercial;SDR WF#25771
+1681435/1000;P1.P1.NM;Engineering;ENGR;;C02. Jacquelin Estelle;2024-11-22;;2024-12-06;;Assoco;10;> Q2 2024;Commercial;SDR WF#25771
+1681435/2000;P1.P1.NM;Engineering;ENGR;;C02. Jacquelin Estelle;2024-11-22;;2024-12-06;;Assoco;10;> Q2 2024;Commercial;SDR WF#25771
 1681456/1000;P1.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-12-26;;2025-01-08;;Assoco;10;> Q2 2024;Commercial;SDR WF#26874
 1681456/2000;P1.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-12-26;;2025-01-08;;Assoco;10;> Q2 2024;Commercial;SDR WF#26874
 1681456/3000;P1.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-12-26;;2025-01-08;;Assoco;10;> Q2 2024;Commercial;SDR WF#26874
@@ -7294,7 +7294,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1681543/23000;P1.P1.P1;Procurement (PO Required);;2024-04-26;C25. Bazin, Sandrine;2024-12-19;;2025-01-02;;Public;5;> Q2 2024;Commercial;
 1681543/24000;P1.P1.P1;Procurement (PO Required);;2024-04-26;C24. Bazin, Sandrine;2024-12-19;;2025-01-02;;Public;5;> Q2 2024;Commercial;
 1681543/25000;P1.P1.P1;Procurement (PO Required);;2024-04-26;C24. Bazin, Sandrine;2024-12-19;;2025-01-02;;Public;5;> Q2 2024;Commercial;
-1681551/1000;P1.P1.SP;Engineering;ENGR;;C24. Bazin, Sandrine;2024-06-26;;2024-07-10;;Public;5;> Q2 2024;Commercial;13 WEEKS
+1681551/1000;P1.P1.SP;;;2024-05-09;C24. Bazin, Sandrine;2024-06-26;;2024-07-10;;Public;5;> Q2 2024;Commercial;13 WEEKS
 1681736/1000;P1.P1.P1;Engineering;ENGR;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Nuclear;PDRN
 1681767/1000;P1.P1.P1;Available in Stock;;2024-04-19;C35. Gildas Daligault;2024-06-07;6. In 4 weeks;2024-06-20;8. In 6 weeks;Public;10;> Q2 2024;Nuclear;PDRN
 1681767/2000;P1.P1.P1;Production Started;;2024-04-19;C92. Gildas Daligault;2024-06-07;6. In 4 weeks;2024-06-20;8. In 6 weeks;Public;10;> Q2 2024;Nuclear;PDRN
@@ -7304,7 +7304,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1681767/6000;P1.P1.P1;Production Started;;2024-04-19;C92. Gildas Daligault;2024-06-07;6. In 4 weeks;2024-06-20;8. In 6 weeks;Public;10;> Q2 2024;Nuclear;PDRN
 1681767/7000;P1.P1.P1;Procurement (PO Required);;2024-04-19;C35. Gildas Daligault;2024-06-14;7. In 5 weeks;2024-07-31;;Public;10;> Q2 2024;Nuclear;PDRN
 1681767/8000;P1.P1.P1;Procurement (PO Confirmed);;2024-04-19;C08. Machining;2024-08-23;;2024-10-14;;Public;10;> Q2 2024;Nuclear;PDRN
-1681828/1000;RN.P1.RN;Engineering;ENGR;;C15. Masse Mickael;2024-11-21;;2024-12-05;;Assoco;7;> Q2 2024;Commercial;30 Weeks
+1681828/1000;P1.P1.NM;Engineering;ENGR;;C15. Masse Mickael;2024-11-21;;2024-12-05;;Assoco;7;> Q2 2024;Commercial;30 Weeks
 1681872/1000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-08-29;;2024-09-12;;Public;5;> Q2 2024;Commercial;SDR WF#22665
 1681872/2000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-08-29;;2024-09-12;;Public;5;> Q2 2024;Commercial;SDR WF#22665
 1681917/1000;RN.P1.RN;Engineering;ENGR;;C01. Masse Mickael;2024-11-21;;2024-12-05;;Public;10;> Q2 2024;Commercial;SDR WF#21096
@@ -7322,7 +7322,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1682117/1000;P1.P1.ZZ;Engineering;ENGR;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;
 1682117/2000;P1.P1.ZZ;Engineering;ENGR;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;
 1682117/3000;P1.P1.ZZ;Engineering;ENGR;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;
-1682146/1000;RN.P1.RN;Engineering;ENGR;;C13. Masse Mickael;2024-09-13;;2024-09-25;;Public;5;> Q2 2024;Commercial;24 Weeks
+1682146/1000;P1.P1.NM;Engineering;ENGR;;C13. Masse Mickael;2024-09-13;;2024-09-25;;Public;5;> Q2 2024;Commercial;24 Weeks
 1682187/1000;P1.P1.P1;Available in Stock;;2024-04-18;C35. Gildas Daligault;2024-06-20;8. In 6 weeks;2024-06-20;8. In 6 weeks;Public;10;> Q2 2024;Nuclear;PDRN
 1682187/2000;P1.P1.P1;Available in Stock;;2024-04-18;C35. Gildas Daligault;2024-06-20;8. In 6 weeks;2024-06-20;8. In 6 weeks;Public;10;> Q2 2024;Nuclear;PDRN
 1682187/3000;P1.P1.P1;Production Planned;;2024-04-18;C35. Gildas Daligault;2024-06-20;8. In 6 weeks;2024-06-20;8. In 6 weeks;Public;10;> Q2 2024;Nuclear;PDRN
@@ -7460,11 +7460,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1683092/2000;P1.P1.SP;Manufacturing Engineering Issue;;2024-05-07;C10. Jacquelin Estelle;2024-07-24;;2024-08-07;;Assoco;10;> Q2 2024;Commercial;SDR WF#27587
 1683092/3000;P1.P1.SP;Manufacturing Engineering Issue;;2024-05-07;C10. Jacquelin Estelle;2024-07-24;;2024-08-07;;Assoco;10;> Q2 2024;Commercial;SDR WF#27587
 1683122/1000;P1.P1.FT;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
-1683122/2000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
+1683122/2000;P1.P1.SP;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
 1683122/3000;P1.P1.NM;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
-1683122/4000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
+1683122/4000;P1.P1.NM;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
 1683122/5000;P1.P1.P1;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
-1683122/6000;RN.P1.RN;Engineering;ENGR;;C18. Masse Mickael;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
+1683122/6000;P1.P1.NM;Engineering;ENGR;;C18. Masse Mickael;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
 1683122/7000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
 1683122/8000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;2024-09-17;;2024-10-01;;Public;10;> Q2 2024;Commercial;24 WKS
 1683122/9000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;> Q2 2024;Commercial;24 WKS
@@ -7531,7 +7531,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1684699/2000;P1.P1.P1;Procurement (PO Required);;2024-05-06;C03. Bazin, Sandrine;2024-12-05;;2024-12-19;;Assoco;10;> Q2 2024;Commercial;
 1684750/1000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;2024-06-07;6. In 4 weeks;2024-06-14;7. In 5 weeks;Public;5;ENG;Commercial;SDR WF#28452
 1684750/2000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;2024-06-07;6. In 4 weeks;2024-06-14;7. In 5 weeks;Public;5;ENG;Commercial;SDR WF#28452
-1684758/1000;RN.P1.RN;Booking;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;> Q2 2024;Commercial;15 Weeks
+1684758/1000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;> Q2 2024;Commercial;15 Weeks
 1684790/1000;P1.P1.P1;Production Ordered;;2024-04-24;C10. Jacquelin Estelle;2024-05-13;3. Next week;2024-05-24;4. In 2 weeks;Assoco;10;24W22;Commercial;
 1684809/1000;P1.P1.P1;Production Started;;2024-04-30;C09. Machining;2024-06-07;6. In 4 weeks;2024-07-05;;Assoco;10;OUT Q2 2024;Commercial;
 1684809/2000;P1.P1.P1;Production Planned;;2024-04-29;C03. Bazin, Sandrine;2024-05-31;5. In 3 weeks;2024-06-07;6. In 4 weeks;Assoco;10;24W24;Commercial;
@@ -7875,7 +7875,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1688586/5000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;16 WEEKS
 1688586/6000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;16 WEEKS
 1688679/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;> Q2 2024;Commercial;
-1688719/1000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;14 Weeks
+1688719/1000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;14 Weeks
 1688756/1000;RN.P1.RN;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;> Q2 2024;Commercial;SDR WF#23529
 1688756/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;CHARGES;Commercial;SDR WF#23529
 1688766/1000;RN.P1.RN;Engineering;ENGR;;C02. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;16 WEEKS
@@ -7885,81 +7885,81 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1688786/3000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;SDR WF#16908
 1688786/4000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;SDR WF#16908
 1688786/5000;RN.P1.RN;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;> Q2 2024;Commercial;SDR WF#16908
-1688868/1000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;24 WEEKS
-1688873/1000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/2000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/3000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/4000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/5000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/6000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/7000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/8000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/9000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/10000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/11000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/12000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/13000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/14000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/15000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/16000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/17000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/18000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/19000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/20000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/21000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/22000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/23000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/24000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/25000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/26000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/27000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/28000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/29000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/30000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/31000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/32000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/33000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/34000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/35000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/36000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/37000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/38000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/39000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/40000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/41000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/42000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/43000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/44000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/45000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/46000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/47000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/48000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/49000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/50000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/51000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/52000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/53000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/54000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/55000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/56000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/57000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/58000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/59000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/60000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/61000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/62000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/63000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/64000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/65000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/66000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/67000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/68000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/69000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/70000;RN.P1.RN;Booking;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688868/1000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;24 WEEKS
+1688873/1000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/2000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/3000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/4000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/5000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/6000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/7000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/8000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/9000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/10000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/11000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/12000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/13000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/14000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/15000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/16000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/17000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/18000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/19000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/20000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/21000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/22000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/23000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/24000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/25000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/26000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/27000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/28000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/29000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/30000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/31000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/32000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/33000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/34000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/35000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/36000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/37000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/38000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/39000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/40000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/41000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/42000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/43000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/44000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/45000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/46000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/47000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/48000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/49000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/50000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/51000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/52000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/53000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/54000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/55000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/56000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/57000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/58000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/59000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/60000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/61000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/62000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/63000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/64000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/65000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/66000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/67000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/68000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/69000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/70000;RN.P1.RN;Engineering;ENGR;;C03. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
 1688873/71000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
 1688873/72000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/73000;P1.P1.ZZ;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
-1688873/74000;P1.P1.ZZ;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/73000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
+1688873/74000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
 1688873/75000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;SDR WF#25222
 1688882/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
 1688882/2000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
@@ -8009,7 +8009,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1689127/21000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
 1689127/22000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
 1689127/23000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
-1689141/1000;RN.P1.RN;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;CF
+1689141/1000;RN.P1.RN;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;CF
 1689156/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
 1689156/2000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
 1689156/3000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
@@ -8035,14 +8035,137 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1689156/23000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
 1689156/24000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
 1689156/25000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;
-1689190/1000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
-1689190/2000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
-1689190/3000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
-1689190/4000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
-1689190/5000;P1.P1.P1;Booking;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
-1689190/6000;RN.P1.RN;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
-1689236/1000;P1.P1.RN;Booking;ENGR;;C01. Masse Mickael;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;SDR WF#28047
-1689278/1000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29303
+1689190/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
+1689190/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
+1689190/3000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
+1689190/4000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
+1689190/5000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
+1689190/6000;RN.P1.RN;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29282
+1689236/1000;P1.P1.RN;Engineering;ENGR;;C01. Masse Mickael;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;SDR WF#28047
+1689278/1000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29303
+1689311/1000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/2000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/3000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/4000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/5000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/6000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/7000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/8000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/9000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/10000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/11000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/12000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/13000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/14000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/15000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/16000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/17000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/18000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/19000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/20000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/21000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/22000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/23000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/24000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/25000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/26000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/27000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/28000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/29000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/30000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/31000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/32000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689311/33000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/1000;RN.P1.RN;Booking;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/2000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/3000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/4000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/5000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/6000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/7000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/8000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/9000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/10000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/11000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/12000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/13000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/14000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/15000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/16000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/17000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/18000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/19000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/20000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/21000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/22000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/23000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/24000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/25000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/26000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/27000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/28000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/29000;RN.P1.RN;Booking;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/30000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689317/31000;RN.P1.RN;Booking;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689328/1000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689328/2000;RN.P1.RN;Engineering;ENGR;;C25. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689328/3000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689328/4000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;5;;Commercial;SDR WF#29357
+1689354/1000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/2000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/3000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/4000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/5000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/6000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/7000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/8000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/9000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/10000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/11000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/12000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/13000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/14000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/15000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/16000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/17000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/18000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/19000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/20000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/21000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/22000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/23000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/24000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/25000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/26000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/27000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/28000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/29000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/30000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/31000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/32000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/33000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/34000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/35000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/36000;RN.P1.RN;Engineering;ENGR;;C26. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/37000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/38000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/39000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/40000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/41000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/42000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/43000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/44000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/45000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/46000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/47000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/48000;RN.P1.RN;Engineering;ENGR;;C24. Bazin, Sandrine;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689354/49000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;;;Commercial;SDR WF#26846
+1689507/1000;P1.P1.P1;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Nuclear;PDRN
+1689525/1000;P1.P1.P1;Engineering;ENGR;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+1689567/1000;P1.P1.RN;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;SDR WF#25132
+1689567/2000;P1.P1.RN;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;SDR WF#25132
+1689567/3000;P1.P1.ZZ;Booking;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;SDR WF#25132
+1689602/1000;P1.P1.ZZ;Engineering;ENGR;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;
 46099910/1000;P1.P1.P1;Shipping;;;C35. Gildas Daligault;2024-05-31;5. In 3 weeks;2024-05-31;5. In 3 weeks;Assoco;10;24W20;Commercial;
 46100459/2000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;CHARGES;Commercial;
 46106347/1000;P1.P1.P1;Procurement (PO Confirmed);;;C10. Jacquelin Estelle;2024-05-23;4. In 2 weeks;2024-05-23;4. In 2 weeks;Assoco;10;24W22;Commercial;
@@ -8224,7 +8347,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46135775/4000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-05-17;3. Next week;2024-05-17;3. Next week;Public;10;24W21;Commercial;
 46135838/2000;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2024-05-15;3. Next week;2024-05-22;4. In 2 weeks;Assoco;10;24W22;Commercial;
 46135849/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-05-21;4. In 2 weeks;2024-06-21;8. In 6 weeks;Public;5;24W25;Commercial;
-46135905/1000;P1.P1.P1;Procurement (PO Confirmed);;;C08. Machining;2024-06-19;8. In 6 weeks;2024-06-26;;Assoco;10;OUT Q2 2024;Commercial;
+46135905/1000;P1.P1.P1;Procurement (PO not Confirmed);;;C08. Machining;2024-06-19;8. In 6 weeks;2024-06-26;;Assoco;10;OUT Q2 2024;Commercial;
 46135955/7000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-06-06;6. In 4 weeks;2024-06-14;7. In 5 weeks;Assoco;7;24W25;Commercial;
 46135955/8000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-08-23;;2024-09-04;;Assoco;7;> Q2 2024;Commercial;
 46136046/1000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2024-05-17;3. Next week;2024-05-24;4. In 2 weeks;Assoco;10;24W21;Commercial;
@@ -8409,21 +8532,24 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46139794/24000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;Commercial;
 46139794/25000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;Commercial;
 46139794/26000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;7;;Commercial;
-46139861/1000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139861/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139861/3000;P1.P1.P1;;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139861/4000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139868/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139884/1000;P1.P1.P1;;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139884/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139884/3000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139884/4000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139861/1000;P1.P1.P1;Engineering Issue;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139861/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139861/3000;P1.P1.P1;Production Planned;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139861/4000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139868/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139884/1000;P1.P1.P1;Production Planned;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139884/2000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139884/3000;P1.P1.P1;Available in Stock;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46139884/4000;P1.P1.P1;Production Started;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
 46139884/5000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
-46139886/1000;P1.P1.P1;;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;;Commercial;
-46139886/2000;P1.P1.P1;;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Commercial;
-46139896/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Commercial;
-46139896/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Commercial;
-46139975/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;
+46139886/1000;P1.P1.P1;Production Planned;;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Public;7;;Commercial;
+46139886/2000;P1.P1.P1;Production Planned;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Commercial;
+46139896/1000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Commercial;
+46139896/2000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;7;;Commercial;
+46139975/1000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Commercial;
+46140059/1000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46140059/2000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
+46140059/3000;P1.P1.P1;;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Assoco;10;;Commercial;
 95017681/1000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;;Nuclear;
 860035325/1000;P1.P1.P1;Customer Stock;;;C21. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services;
 860035325/2000;P1.P1.P1;Customer Stock;;;C22. Masse Mickael;;0. Not defined;;0. Not defined;Public;5;SERVICES;Services;

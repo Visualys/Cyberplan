@@ -909,7 +909,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1199404/13000;P1.P1.P1;Shipping;;2021-08-03;C11. Hubert Jean Charl;2024-07-19;1. In the past;2024-08-19;1. In the past;Public;5;24W37;Nuclear;NUC
 1199404/14000;P1.P1.P1;Shipping;;2021-08-03;C11. Hubert Jean Charl;2024-07-19;1. In the past;2024-08-19;1. In the past;Public;5;24W37;Nuclear;NUC
 1199404/15000;P1.P1.P1;Production Started;;2021-08-03;C11. Hubert Jean Charl;2024-09-30;6. In 4 weeks;2024-10-03;6. In 4 weeks;Public;5;> Q3 2024;Nuclear;NUC
-1199404/16000;P1.P1.P1;Procurement (PO Confirmed);;2021-08-03;C11. Hubert Jean Charl;2024-10-18;8. In 6 weeks;2024-11-18;;Public;5;> Q3 2024;Nuclear;NUC
+1199404/16000;P1.P1.P1;Procurement (Transit);;2021-08-03;C11. Hubert Jean Charl;2024-10-18;8. In 6 weeks;2024-11-18;;Public;5;> Q3 2024;Nuclear;NUC
 1199404/17000;P1.P1.P1;Procurement (PO Required);;2021-08-03;C11. Hubert Jean Charl;2024-10-16;8. In 6 weeks;2024-10-28;;Public;5;> Q3 2024;Nuclear;NUC
 1199404/18000;P1.P1.P1;Procurement (PO not Confirmed);;2021-11-18;C11. Hubert Jean Charl;2024-09-24;5. In 3 weeks;2024-09-30;6. In 4 weeks;Public;5;OUT Q3 2024;Nuclear;NUC
 1199404/19000;P1.P1.P1;Production Started;;2021-08-03;C11. Hubert Jean Charl;2024-09-24;5. In 3 weeks;2024-09-30;6. In 4 weeks;Public;5;> Q3 2024;Nuclear;NUC
@@ -1512,7 +1512,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1522452/4020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-08-09;1. In the past;2024-08-30;1. In the past;Assoco;5;CERTIF;Nuclear;
 1522452/4030;P1.P1.P1;Production Started;;2024-04-16;C11. Hubert Jean Charl;2024-07-10;1. In the past;2024-08-01;1. In the past;Assoco;5;CERTIF;Nuclear;
 1522452/5000;P1.P1.P1;Production Started;;;C11. Hubert Jean Charl;2024-09-02;1. In the past;2024-09-19;4. In 2 weeks;Assoco;5;CERTIF;Nuclear;
-1522452/6000;P1.P1.P1;Procurement (PO not Confirmed);;2024-04-11;C05. Masse Mickael (C05);2024-07-30;1. In the past;2024-08-16;1. In the past;Assoco;5;CERTIF;Nuclear;
+1522452/6000;P1.P1.P1;Procurement (PO Confirmed);;2024-04-11;C05. Masse Mickael (C05);2024-07-30;1. In the past;2024-08-16;1. In the past;Assoco;5;CERTIF;Nuclear;
 1522452/6010;P1.P1.P1;Manufacturing Engineering Issue;;;C11. Hubert Jean Charl;2024-10-14;8. In 6 weeks;2024-10-14;8. In 6 weeks;Assoco;5;CERTIF;Nuclear;
 1522452/6020;P1.P1.P1;Procurement (PO not Confirmed);;;C92. Gildas Daligault;2024-08-14;1. In the past;2024-08-30;1. In the past;Assoco;5;CERTIF;Nuclear;
 1522452/7000;P1.P1.P1;Procurement (PO Required);;2024-04-16;C11. Hubert Jean Charl;2024-08-12;1. In the past;2024-12-30;;Assoco;5;CERTIF;Nuclear;
@@ -2175,11 +2175,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1597344/9000;P1.P1.P1;Charges;;;C92. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Commercial;30 Weeks
 1597344/10000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;10;CHARGES;Commercial;30 Weeks
 1597456/2000;P1.P1.P1;Production Started;;2023-10-20;C22. Masse Mickael;2024-08-26;1. In the past;2024-08-26;1. In the past;Public;7;24W37;Commercial;SDR WF#14566
-1598140/1000;P1.P1.P1;Procurement (PO Confirmed);;2023-10-16;C11. Hubert Jean Charl;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
+1598140/1000;P1.P1.P1;Procurement (PO not Confirmed);;2023-10-16;C11. Hubert Jean Charl;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
 1598140/1010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
 1598140/1020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
 1598140/1030;P1.P1.P1;Available in Stock;;;C92. Gildas Daligault;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
-1598140/2000;P1.P1.P1;Procurement (PO not Confirmed);;2023-10-16;C11. Hubert Jean Charl;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
+1598140/2000;P1.P1.P1;Procurement (PO Confirmed);;2023-10-16;C11. Hubert Jean Charl;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
 1598140/2010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
 1598140/2020;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
 1598140/2030;P1.P1.P1;Available in Stock;;;C92. Gildas Daligault;2024-10-17;8. In 6 weeks;2024-11-07;;Public;7;> Q3 2024;Nuclear;NUC
@@ -8554,7 +8554,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46155730/1000;P1.P1.P1;Procurement (PO Required);;;C35. Gildas Daligault;2024-10-14;8. In 6 weeks;2024-10-14;8. In 6 weeks;Assoco;10;> Q3 2024;Commercial;
 46155730/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2024-10-14;8. In 6 weeks;2024-10-14;8. In 6 weeks;Assoco;10;> Q3 2024;Commercial;
 46155732/1000;P1.P1.P1;Procurement (PO not Confirmed);;;C10. Jacquelin Estelle;;0. Not defined;;0. Not defined;Assoco;10;> Q3 2024;Commercial;
-46155732/2000;P1.P1.P1;Procurement (Transit);;;C35. Gildas Daligault;2025-01-02;;2025-01-09;;Assoco;10;> Q3 2024;Commercial;
+46155732/2000;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-01-02;;2025-01-09;;Assoco;10;> Q3 2024;Commercial;
 46155732/3000;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2025-01-02;;2025-01-09;;Assoco;10;> Q3 2024;Commercial;
 46155732/4000;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2025-01-02;;2025-01-09;;Assoco;10;> Q3 2024;Commercial;
 46155739/1000;P1.P1.P1;Production Started;;;C09. Machining;;0. Not defined;;0. Not defined;Assoco;10;TO BE ANALYSED;Commercial;

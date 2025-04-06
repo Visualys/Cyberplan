@@ -1594,7 +1594,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1589058/2000;P1.P1.P1;Shipping;;2023-08-03;C02. Jacquelin Estelle;2024-10-21;1. In the past;2025-05-02;6. In 4 weeks;Assoco;11;25W18;Commercial;SDR WF#9150
 1589084/1000;P1.P1.P1;Production Started;;2024-06-06;C02. Jacquelin Estelle;2025-04-18;4. In 2 weeks;2025-04-18;4. In 2 weeks;Assoco;11;25W18;Commercial;SDR WF#9150
 1589084/2000;P1.P1.P1;Shipping;;2023-08-03;C02. Jacquelin Estelle;2024-10-22;1. In the past;2025-05-02;6. In 4 weeks;Assoco;11;25W18;Commercial;SDR WF#9150
-1593129/1000;P1.P1.P1;Procurement (PO not Confirmed);;2024-12-13;C01. Masse, Mickael;2025-06-10;;2025-07-31;;Public;11;> Q2 2025;Commercial;52 Weeks
+1593129/1000;P1.P1.P1;Procurement (PO Required);;2024-12-13;C01. Masse, Mickael;2025-06-10;;2025-07-31;;Public;11;> Q2 2025;Commercial;52 Weeks
 1593129/1100;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-06-10;;2025-07-31;;Public;11;OUT Q2 2025;Commercial;52 Weeks
 1593129/2000;P1.P1.SP;Manufacturing Engineering Issue;;2024-12-13;C01. Masse, Mickael;2025-06-10;;2025-07-31;;Public;11;> Q2 2025;Commercial;52 Weeks
 1593129/2100;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-06-10;;2025-07-31;;Public;11;OUT Q2 2025;Commercial;52 Weeks
@@ -2780,8 +2780,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1700441/6000;P1.P1.P1;Charges;;2024-12-05;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;6;CHARGES;Nuclear;PDRN
 1702320/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-08-07;C01. Masse, Mickael;2025-04-16;4. In 2 weeks;2025-04-30;6. In 4 weeks;Assoco;11;25W20;Commercial;SDR WF#24983
 1702751/1000;P1.P1.P1;Production Ordered;;2024-07-09;C10. Jacquelin Estelle;2025-04-09;3. Next week;2025-04-09;3. Next week;Public;6;25W17;Commercial;SDR WF#29880
-1704302/13000;P1.P1.P1;Production Started;;2024-06-26;C92. Gildas Daligault;2025-04-11;3. Next week;2025-04-18;4. In 2 weeks;Public;6;25W15;Nuclear;PDRN
-1704302/13010;P1.P1.P1;Production Started;;;C92. Gildas Daligault;2025-04-11;3. Next week;2025-04-18;4. In 2 weeks;Public;6;25W15;Nuclear;PDRN
+1704302/13000;P1.P1.P1;Procurement (PO Confirmed);;2024-06-26;C92. Gildas Daligault;2025-04-11;3. Next week;2025-04-18;4. In 2 weeks;Public;6;25W15;Nuclear;PDRN
+1704302/13010;P1.P1.P1;Procurement (Shortage);;;C92. Gildas Daligault;2025-04-11;3. Next week;2025-04-18;4. In 2 weeks;Public;6;25W15;Nuclear;PDRN
 1704302/17000;P1.P1.P1;Shipping;;2024-07-01;C10. Jacquelin Estelle;2025-04-09;3. Next week;2025-04-09;3. Next week;Public;6;25W15;Nuclear;PDRN
 1704541/1000;P1.P1.P1;Production Started;;;C92. Gildas Daligault;2025-04-30;6. In 4 weeks;2025-04-30;6. In 4 weeks;Public;6;CERTIF;Nuclear;
 1704541/2000;P1.P1.P1;Production Started;;2024-07-30;C11. Hubert, Jean-Charles;2025-06-26;;2025-08-21;;Public;6;CERTIF;Nuclear;
@@ -3562,8 +3562,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1733838/5000;P1.P1.P1;Charges;;;C35. Gildas Daligault;;0. Not defined;;0. Not defined;Public;25;CHARGES;Commercial;SDR WF#37493
 1733883/6000;P1.P1.P1;Procurement (PO Confirmed);;2024-10-08;C35. Gildas Daligault;2025-04-30;6. In 4 weeks;2025-06-19;;Public;11;25W25;Nuclear;PDRN
 1733890/1000;P1.P1.P1;Available in Stock;;2024-10-08;C35. Gildas Daligault;2025-04-30;6. In 4 weeks;2025-06-19;;Public;11;25W25;Nuclear;PDRN
-1733914/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-10-17;C02. Jacquelin Estelle;2025-04-22;5. In 3 weeks;2025-04-28;6. In 4 weeks;Public;11;25W20;Commercial;SDR WF#33186
-1733914/3000;P1.P1.P1;Procurement (PO Confirmed);;2024-10-17;C02. Jacquelin Estelle;2025-04-22;5. In 3 weeks;2025-04-28;6. In 4 weeks;Public;11;25W20;Commercial;SDR WF#33186
+1733914/1000;P1.P1.P1;Procurement (Transit);;2024-10-17;C02. Jacquelin Estelle;2025-04-22;5. In 3 weeks;2025-04-28;6. In 4 weeks;Public;11;25W20;Commercial;SDR WF#33186
+1733914/3000;P1.P1.P1;Procurement (Transit);;2024-10-17;C02. Jacquelin Estelle;2025-04-22;5. In 3 weeks;2025-04-28;6. In 4 weeks;Public;11;25W20;Commercial;SDR WF#33186
 1733931/1000;P1.P1.P1;Engineering;ENGR;2024-10-08;C08. Machining;;0. Not defined;;0. Not defined;Public;11;ENG;Nuclear;PDRN
 1733948/1000;P1.P1.P1;Procurement (PO Confirmed);;2024-10-11;C03. Bazin, Sandrine;2025-05-30;;2025-06-12;;Assoco;11;25W25;Commercial;
 1733948/2000;P1.P1.P1;Procurement (PO Required);;2024-10-11;C03. Bazin, Sandrine;2025-07-17;;2025-07-31;;Assoco;11;> Q2 2025;Commercial;
@@ -5248,7 +5248,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1766346/9260;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
 1766346/9270;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
 1766346/9280;P1.P1.P1;Production Planned;;;C08. Machining;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
-1766346/9290;P1.P1.P1;Procurement (PO not Confirmed);;;C35. Gildas Daligault;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
+1766346/9290;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
 1766346/9300;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
 1766346/9310;P1.P1.P1;Production Planned;;;C35. Gildas Daligault;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
 1766346/9320;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-07-15;;2025-07-28;;Public;25;> Q2 2025;Commercial;SDR WF#43556
@@ -5389,7 +5389,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1769447/8000;P1.P1.P1;Procurement (Transit);;2025-02-24;C24. Bazin, Sandrine;2025-04-22;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
 1769447/9000;P1.P1.P1;Procurement (Transit);;2025-02-24;C24. Bazin, Sandrine;2025-04-22;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
 1769447/10000;P1.P1.P1;Procurement (Transit);;2025-02-24;C24. Bazin, Sandrine;2025-04-22;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
-1769447/11000;P1.P1.P1;Procurement (PO not Confirmed);;2025-02-24;C24. Bazin, Sandrine;2025-04-22;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
+1769447/11000;P1.P1.P1;Procurement (Transit);;2025-02-24;C24. Bazin, Sandrine;2025-04-22;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
 1769447/12000;P1.P1.P1;Available in Stock;;2025-03-03;C35. Gildas Daligault;2025-04-25;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;> Q2 2025;Commercial;SDR WF#43950
 1769447/12010;P1.P1.P1;Available in Stock;;;C35. Gildas Daligault;2025-04-25;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
 1769447/12020;P1.P1.P1;Procurement (PO Confirmed);;;C35. Gildas Daligault;2025-04-25;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
@@ -5402,7 +5402,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1769447/12090;P1.P1.P1;Available in Stock;;;C07. Jacquelin Estelle;2025-04-29;6. In 4 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
 1769447/13000;P1.P1.P1;Procurement (PO Confirmed);;2025-01-29;C35. Gildas Daligault;2025-08-12;;2025-08-26;;Public;25;> Q2 2025;Commercial;SDR WF#43950
 1769447/14000;P1.P1.P1;Procurement (PO Confirmed);;2025-01-29;C35. Gildas Daligault;2025-08-12;;2025-08-26;;Public;25;> Q2 2025;Commercial;SDR WF#43950
-1769447/15000;P1.P1.P1;Procurement (PO not Confirmed);;2025-02-24;C24. Bazin, Sandrine;2025-04-22;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
+1769447/15000;P1.P1.P1;Procurement (Transit);;2025-02-24;C24. Bazin, Sandrine;2025-04-22;5. In 3 weeks;2025-05-06;7. In 5 weeks;Public;25;25W21;Commercial;SDR WF#43950
 1769618/1000;RN.P1.RN;Booking;ENGR;;C22. Masse, Mickael;;0. Not defined;;0. Not defined;Public;11;> Q2 2025;Commercial;42 Weeks
 1769618/2000;RN.P1.RN;Booking;ENGR;;C22. Masse, Mickael;;0. Not defined;;0. Not defined;Public;11;> Q2 2025;Commercial;42 Weeks
 1769641/1000;P1.P1.P1;Procurement (PO Confirmed);;2025-02-22;C24. Bazin, Sandrine;2025-04-16;4. In 2 weeks;2025-04-30;6. In 4 weeks;Public;6;25W18;Commercial;SDR WF#44022
@@ -6237,7 +6237,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1786055/1000;P1.P1.P1;Shipping;;2025-04-01;C35. Gildas Daligault;2025-04-11;3. Next week;2025-04-11;3. Next week;Public;6;> Q2 2025;Nuclear;PDRN
 1786055/2000;P1.P1.P1;Shipping;;2025-04-01;C35. Gildas Daligault;2025-04-11;3. Next week;2025-04-11;3. Next week;Public;6;> Q2 2025;Nuclear;PDRN
 1786055/3000;P1.P1.P1;Shipping;;2025-04-01;C35. Gildas Daligault;2025-04-11;3. Next week;2025-04-11;3. Next week;Public;6;> Q2 2025;Nuclear;PDRN
-1786055/4000;P1.P1.P1;Procurement (PO Confirmed);;2025-04-01;C09. Machining;2025-05-16;8. In 6 weeks;2025-05-23;;Public;6;> Q2 2025;Nuclear;PDRN
+1786055/4000;P1.P1.P1;Production Released;;2025-04-01;C09. Machining;2025-05-16;8. In 6 weeks;2025-05-23;;Public;6;> Q2 2025;Nuclear;PDRN
 1786055/5000;P1.P1.P1;Shipping;;2025-04-01;C35. Gildas Daligault;2025-04-11;3. Next week;2025-04-11;3. Next week;Public;6;> Q2 2025;Nuclear;PDRN
 1786055/6000;P1.P1.P1;Shipping;;2025-04-01;C35. Gildas Daligault;2025-04-11;3. Next week;2025-04-11;3. Next week;Public;6;> Q2 2025;Nuclear;PDRN
 1786055/7000;P1.P1.P1;Shipping;;2025-04-01;C35. Gildas Daligault;2025-04-11;3. Next week;2025-04-11;3. Next week;Public;6;> Q2 2025;Nuclear;PDRN

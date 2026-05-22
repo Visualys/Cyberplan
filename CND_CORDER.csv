@@ -6418,9 +6418,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1896347/10000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;CHARGES;Commercial;32Weeks
 1896578/1000;P1P1P1;Shipping;;2026-04-15;C03. Bazin, Sandrine;2026-04-30;;2026-05-22;;Public;6;26W21;Aftermarket;SDR WF#69288
 1896601/1000;P1P1P1;Purchase Ordered;;2026-04-14;C10. Jacquelin, Estelle;2026-06-26;;2026-07-10;;Public;4;> Q2 2026;Aftermarket;SDR WF#52323
-1896620/1000;P1P1SP;Engineering;ENGR;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;> Q2 2026;Commercial;SDR WF#69808
-1896620/2000;P1P1SP;Engineering;ENGR;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;> Q2 2026;Commercial;SDR WF#69808
-1896620/3000;P1P1SP;Engineering;ENGR;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;> Q2 2026;Commercial;SDR WF#69808
+1896620/1000;P1P1SP;Engineering;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;> Q2 2026;Commercial;SDR WF#69808
+1896620/2000;P1P1SP;Engineering;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;> Q2 2026;Commercial;SDR WF#69808
+1896620/3000;P1P1SP;Engineering;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;> Q2 2026;Commercial;SDR WF#69808
 1896643/1000;P1P1P1;Purchase Confirmed;;2026-04-20;C24. Bazin, Sandrine;2028-08-09;;2028-09-06;;Public;13;> Q2 2026;Commercial;SDR WF#69252
 1896643/2000;P1P1P1;Purchase Confirmed;;2026-04-20;C24. Bazin, Sandrine;2028-08-09;;2028-09-06;;Public;13;> Q2 2026;Commercial;SDR WF#69252
 1896643/3000;P1P1P1;Purchase Confirmed;;2026-04-20;C24. Bazin, Sandrine;2028-08-09;;2028-09-06;;Public;13;> Q2 2026;Commercial;SDR WF#69252
@@ -6535,10 +6535,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1896784/8000;P1P1P1;Purchase Confirmed;;2026-04-24;C24. Bazin, Sandrine;2029-09-05;;2029-10-03;;Public;13;> Q2 2026;Commercial;SDR WF#69252
 1896784/9000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2029-08-08;;2029-10-03;;Public;13;> Q2 2026;Commercial;SDR WF#69252
 1896784/10000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2029-08-08;;2029-10-03;;Public;13;> Q2 2026;Commercial;SDR WF#69252
-1896791/1000;P1P1SP;Engineering;ENGR;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
-1896826/1000;P1P1SP;Engineering;ENGR;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
-1896826/2000;P1P1SP;Engineering;ENGR;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
-1896826/3000;P1P1SP;Engineering;ENGR;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
+1896791/1000;P1P1SP;Engineering;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
+1896826/1000;P1P1SP;Engineering;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
+1896826/2000;P1P1SP;Engineering;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
+1896826/3000;P1P1SP;Engineering;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;4;> Q2 2026;Commercial;28 weeks
 1896943/7000;P1P1P1;Available in Stock;;;C08. Machining;2026-05-12;;2026-05-26;;Public;4;26W22;Aftermarket;
 1896943/8000;P1P1P1;Production Released;;;C08. Machining;2026-05-29;;2026-05-29;;Public;4;26W22;Aftermarket;
 1896943/9000;P1P1P1;Production Released;;;C08. Machining;2026-05-29;;2026-05-29;;Public;4;26W22;Aftermarket;
@@ -7603,6 +7603,12 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1908984/2000;P1P1P1;Shipping;;;C35. Daligault, Gildas;2026-05-29;;2026-05-29;;Public;4;;Aftermarket;
 1908984/3000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;2026-07-24;;2026-08-31;;Public;4;;Aftermarket;
 1909075/1000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;2026-05-28;;2026-05-28;;Public;4;;Warranty;
+1909184/1000;RNP1RN;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;;Aftermarket;24 Weeks
+1909189/1000;RNP1RN;Booking;ENGR;;C35. Daligault, Gildas;;;;;Assoco;13;;Commercial;RSSO-322089-
+1909198/1000;RNP1RN;Engineering;ENGR;;C02. Jacquelin, Estelle;;;;;Public;4;;Commercial;SDR WF#73159
+1909198/2000;RNP1RN;Engineering;ENGR;;C02. Jacquelin, Estelle;;;;;Public;4;;Commercial;SDR WF#73159
+1909198/3000;RNP1RN;Engineering;ENGR;;C02. Jacquelin, Estelle;;;;;Public;4;;Commercial;SDR WF#73159
+1909198/4000;RNP1RN;Engineering;ENGR;;C02. Jacquelin, Estelle;;;;;Public;4;;Commercial;SDR WF#73159
 46191685/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-05-29;;2026-07-31;;Assoco;13;OUT Q2 2026;Aftermarket;
 46197049/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-05-29;;2026-07-31;;Public;4;OUT Q2 2026;Aftermarket;
 46203457/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-05-29;;2026-07-31;;Public;6;2Q OPPS;Aftermarket;
@@ -7853,3 +7859,4 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 6050695816/20;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-05-14;;2026-05-14;;Assoco;6;;Aftermarket;
 6050695816/30;P1P1P1;Available in Stock;;;C09. Machining;2026-05-28;;2026-05-28;;Assoco;6;;Aftermarket;
 6050695816/40;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-05-28;;2026-05-28;;Assoco;6;;Aftermarket;
+6050695893/10;P1P1P1;;;;C35. Daligault, Gildas;2026-05-28;;2026-05-28;;Assoco;6;;Aftermarket;

@@ -890,7 +890,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1257469/10200;P1P1P1;Purchase Requisition;;2025-03-14;C92. Daligault, Gildas;2026-09-10;;2026-11-10;;Public;6;4Q OPPS;Nuclear;NUC
 1257469/11000;P1P1P1;Purchase Requisition;;2025-06-18;C11. Hubert, Jean-Charles;2026-12-31;;2027-03-03;;Public;6;4Q OPPS;Nuclear;NUC
 1257469/11200;P1P1P1;Customer Stock;;2024-11-13;C92. Daligault, Gildas;2026-12-31;;2027-03-03;;Public;6;4Q OPPS;Nuclear;NUC
-1257469/13000;P1P1P1;Purchase Ordered;;2025-03-17;C11. Hubert, Jean-Charles;2026-12-14;;2026-12-14;;Public;6;4Q OPPS;Nuclear;NUC
+1257469/13000;P1P1P1;Purchase Confirmed;;2025-03-17;C11. Hubert, Jean-Charles;2026-12-14;;2026-12-14;;Public;6;4Q OPPS;Nuclear;NUC
 1257469/14000;P1P1P1;Engineering;;2025-06-18;C11. Hubert, Jean-Charles;2027-02-22;;2027-04-22;;Public;6;ENG;Nuclear;NUC
 1257469/14100;P1P1P1;Production Ordered;;2025-05-14;C92. Daligault, Gildas;2027-02-22;;2027-04-22;;Public;6;OUT Q4 2026;Nuclear;NUC
 1257469/15000;P1P1P1;Engineering;;2025-06-18;C11. Hubert, Jean-Charles;2027-02-22;;2027-04-22;;Public;6;ENG;Nuclear;NUC
@@ -1128,7 +1128,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1613489/7000;P1P1P1;Customer Stock;;2025-02-20;C11. Hubert, Jean-Charles;2026-07-08;;2026-07-08;;Public;4;26W42;Nuclear;NUC
 1613489/8000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Nuclear;NUC
 1617484/1000;P1P1P1;Purchase Confirmed;;2025-07-08;C35. Daligault, Gildas;2026-10-07;;2026-10-23;;Public;4;26W46;Nuclear;PDRN
-1617484/2000;P1P1P1;Purchase Confirmed;;2025-07-08;C35. Daligault, Gildas;2026-09-02;;2026-09-25;;Public;4;26W39;Nuclear;PDRN
+1617484/2000;P1P1P1;Purchase Confirmed;;2025-07-08;C35. Daligault, Gildas;2026-10-12;;2026-10-30;;Public;4;26W39;Nuclear;PDRN
 1617484/4000;P1P1P1;Purchase Confirmed;;2025-07-08;C92. Daligault, Gildas;2026-10-23;;2026-11-27;;Public;4;26W48;Nuclear;PDRN
 1617484/5000;P1P1P1;Purchase Confirmed;;2025-07-08;C92. Daligault, Gildas;2026-10-23;;2026-11-27;;Public;4;26W48;Nuclear;PDRN
 1621808/2000;P1P1P1;Production Released;;;C08. Machining;2026-08-28;;2026-10-30;;Public;13;26W44;Aftermarket;PDRN
@@ -1572,7 +1572,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1732511/2010;P1P1ZZ;Engineering;ENGR;;C92. Daligault, Gildas;;;;;Public;4;ENG;Nuclear;SDR WF#29285
 1732960/1000;P1P1P1;Production Released;;2024-12-16;C11. Hubert, Jean-Charles;2026-09-25;;2026-09-28;;Public;4;26W42;Nuclear;SDR WF#32693
 1732960/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Nuclear;SDR WF#32693
-1733954/1000;P1P1P1;Production Planned;;;C92. Daligault, Gildas;2026-10-30;;2026-12-18;;Public;13;26W51;Aftermarket;PDRN
+1733954/1000;P1P1P1;Purchase Ordered;;;C92. Daligault, Gildas;2026-10-30;;2026-12-18;;Public;13;26W51;Aftermarket;PDRN
 1733954/2000;P1P1P1;Production Released;;;C92. Daligault, Gildas;2026-10-30;;2026-12-18;;Public;13;26W51;Aftermarket;PDRN
 1736728/1000;P1P1P1;Production Released;;2024-10-31;C24. Bazin, Sandrine;2026-10-12;;2026-10-16;;Public;13;26W44;Commercial;SDR WF#33889
 1736728/2000;P1P1P1;Production Released;;2024-10-31;C24. Bazin, Sandrine;2026-10-12;;2026-10-16;;Public;13;26W44;Commercial;SDR WF#33889
@@ -1711,11 +1711,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1768768/12010;P1P1P1;Customer Stock;;;C07. Jacquelin, Estelle;2026-10-21;;2026-11-09;;Public;13;26W46;Nuclear;NUC
 1768768/12020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-10-21;;2026-11-09;;Public;13;26W46;Nuclear;NUC
 1768768/14000;P1P1P1;Charges;;;C92. Daligault, Gildas;;;;;Public;13;CHARGES;Nuclear;NUC
-1768768/15000;P1P1P1;Production Released;;2025-11-17;C92. Daligault, Gildas;2026-10-21;;2026-11-09;;Public;13;26W39;Nuclear;NUC
+1768768/15000;P1P1P1;Production Released;;2025-11-17;C92. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;13;26W39;Nuclear;NUC
 1768768/24000;P1P1P1;Charges;;;C92. Daligault, Gildas;;;;;Public;13;CHARGES;Nuclear;NUC
 1768768/25000;P1P1P1;Charges;;;;;;;;Public;13;CHARGES;Nuclear;NUC
 1768768/26000;P1P1P1;Charges;;;;;;;;Public;13;CHARGES;Nuclear;NUC
-1768768/27000;P1P1P1;Production Released;;2026-02-05;C92. Daligault, Gildas;2026-10-21;;2026-11-09;;Public;13;26W39;Nuclear;NUC
+1768768/27000;P1P1P1;Production Released;;2026-02-05;C92. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;13;26W39;Nuclear;NUC
 1768768/28000;P1P1P1;Charges;;;C92. Daligault, Gildas;;;;;Public;13;CHARGES;Nuclear;NUC
 1769447/6000;P1P1P1;Shipping;;2025-01-29;C35. Daligault, Gildas;2026-07-01;;2026-07-01;;Public;25;26W38;Commercial;SDR WF#43950
 1770127/1000;P1P1P1;Booking;;2025-03-03;C02. Jacquelin, Estelle;2026-10-16;;2026-10-30;;Assoco;13;ENG;Commercial;SDR WF#40540
@@ -1850,22 +1850,22 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1791505/8020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-09-21;;2026-09-28;;Public;13;26W43;Nuclear;NUC
 1791505/9000;P1P1P1;Available in Stock;;2025-10-09;C35. Daligault, Gildas;2026-09-21;;2026-09-28;;Public;13;26W43;Nuclear;NUC
 1791505/10000;P1P1P1;Available in Stock;;2025-10-09;C35. Daligault, Gildas;2026-08-28;;2026-08-28;;Public;13;26W43;Nuclear;NUC
-1791505/11000;P1P1P1;Production Planned;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
+1791505/11000;P1P1P1;Purchase Confirmed;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/11010;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/11020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
-1791505/12000;P1P1P1;Production Planned;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
+1791505/12000;P1P1P1;Purchase Confirmed;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/12010;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/12020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
-1791505/13000;P1P1P1;Production Planned;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
+1791505/13000;P1P1P1;Purchase Confirmed;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/13010;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/13020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
-1791505/14000;P1P1P1;Production Planned;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
+1791505/14000;P1P1P1;Purchase Confirmed;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/14010;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/14020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
-1791505/15000;P1P1P1;Production Planned;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
+1791505/15000;P1P1P1;Purchase Confirmed;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/15010;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/15020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
-1791505/16000;P1P1P1;Production Planned;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
+1791505/16000;P1P1P1;Purchase Confirmed;;2025-09-04;C11. Hubert, Jean-Charles;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/16010;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/16020;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-11-23;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
 1791505/17000;P1P1P1;Purchase Confirmed;;2025-10-09;C35. Daligault, Gildas;2026-11-04;;2026-12-21;;Public;13;OUT Q4 2026;Nuclear;NUC
@@ -1934,7 +1934,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1807500/2000;P1P1SP;Engineering;ENGR;;C08. Machining;2026-11-18;;2026-11-25;;Public;4;> Q4 2026;Nuclear;PDRN
 1807500/3000;P1P1SP;Engineering;ENGR;;C08. Machining;2026-12-02;;2026-12-09;;Public;4;> Q4 2026;Nuclear;PDRN
 1809086/6000;P1P1P1;Shipping;;2025-12-04;C16. Masse, Mickael;2026-09-17;;2026-09-17;;Public;6;26W42;Commercial;SDR WF#51988
-1809086/15000;P1P1P1;Purchase Ordered;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Commercial;SDR WF#51988
+1809086/15000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Commercial;SDR WF#51988
 1810546/1000;P1P1P1;Shipping;;2025-09-19;C08. Machining;2026-09-25;;2026-09-25;;Public;6;26W39;Aftermarket;PDRN
 1810546/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
 1810546/3000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
@@ -2074,34 +2074,34 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1820320/2000;P1P1P1;Purchase Confirmed;;2026-03-26;C18. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/3000;P1P1P1;Purchase Confirmed;;2026-03-26;C30. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/4000;P1P1P1;Purchase Confirmed;;2026-03-26;C16. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/5000;P1P1P1;Production Planned;;2026-04-01;C30. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/6000;P1P1P1;Production Planned;;2026-03-26;C30. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/7000;P1P1P1;Production Planned;;2026-04-08;C33. Masse, Mickael;2026-11-20;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/5000;P1P1P1;Purchase Confirmed;;2026-04-01;C30. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/6000;P1P1P1;Purchase Confirmed;;2026-03-26;C30. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/7000;P1P1P1;Purchase Confirmed;;2026-04-08;C33. Masse, Mickael;2026-11-20;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/8000;P1P1P1;Purchase Confirmed;;2026-03-27;C18. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/9000;P1P1P1;Production Planned;;2026-04-08;C33. Masse, Mickael;2026-11-20;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/10000;P1P1P1;Production Planned;;2026-04-03;C18. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/11000;P1P1P1;Production Planned;;2026-03-27;C16. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/9000;P1P1P1;Purchase Confirmed;;2026-04-08;C33. Masse, Mickael;2026-11-20;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/10000;P1P1P1;Purchase Confirmed;;2026-04-03;C18. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/11000;P1P1P1;Purchase Confirmed;;2026-03-27;C16. Masse, Mickael;2026-10-30;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/12000;P1P1P1;Purchase Ordered;;2026-04-21;C02. Jacquelin, Estelle;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/13000;P1P1P1;Purchase Ordered;;2026-04-21;C02. Jacquelin, Estelle;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/14000;P1P1P1;Purchase Ordered;;2026-04-21;C02. Jacquelin, Estelle;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/15000;P1P1P1;Purchase Ordered;;2026-04-21;C02. Jacquelin, Estelle;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/16000;P1P1P1;Production Planned;;2026-03-27;C33. Masse, Mickael;2026-11-20;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/17000;P1P1P1;Production Planned;;2026-03-26;C14. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/16000;P1P1P1;Purchase Confirmed;;2026-03-27;C33. Masse, Mickael;2026-11-20;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/17000;P1P1P1;Purchase Ordered;;2026-03-26;C14. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1820320/18000;P1P1P1;Purchase Ordered;;2026-04-21;C02. Jacquelin, Estelle;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/19000;P1P1P1;Production Planned;;2026-03-26;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/20000;P1P1P1;Production Planned;;2026-03-26;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/21000;P1P1P1;Production Planned;;2026-03-26;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/22000;P1P1P1;Production Planned;;2026-03-27;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/23000;P1P1P1;Production Planned;;2026-03-27;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/24000;P1P1P1;Production Planned;;2026-03-27;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/25000;P1P1P1;Production Planned;;2026-03-27;C14. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/26000;P1P1P1;Production Planned;;2026-04-08;C16. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/27000;P1P1P1;Production Planned;;2026-04-08;C16. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/28000;P1P1P1;Production Planned;;2026-04-08;C16. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/29000;P1P1P1;Production Planned;;2026-04-08;C14. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/30000;P1P1P1;Production Planned;;2026-04-08;C18. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/31000;P1P1P1;Production Planned;;2026-04-08;C30. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
-1820320/33000;P1P1P1;Production Planned;;2026-04-08;C30. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/19000;P1P1P1;Purchase Requisition;;2026-03-26;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/20000;P1P1P1;Purchase Confirmed;;2026-03-26;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/21000;P1P1P1;Purchase Confirmed;;2026-03-26;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/22000;P1P1P1;Purchase Confirmed;;2026-03-27;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/23000;P1P1P1;Purchase Confirmed;;2026-03-27;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/24000;P1P1P1;Purchase Confirmed;;2026-03-27;C16. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/25000;P1P1P1;Purchase Confirmed;;2026-03-27;C14. Masse, Mickael;2026-11-06;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/26000;P1P1P1;Purchase Confirmed;;2026-04-08;C16. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/27000;P1P1P1;Purchase Confirmed;;2026-04-08;C16. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/28000;P1P1P1;Purchase Confirmed;;2026-04-08;C16. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/29000;P1P1P1;Purchase Confirmed;;2026-04-08;C14. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/30000;P1P1P1;Purchase Confirmed;;2026-04-08;C18. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/31000;P1P1P1;Purchase Confirmed;;2026-04-08;C30. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
+1820320/33000;P1P1P1;Purchase Requisition;;2026-04-08;C30. Masse, Mickael;2026-11-13;;2026-12-11;;Public;4;26W50;Commercial;SDR WF#53834
 1821061/1000;P1P1P1;Production Ordered;;2025-07-27;C02. Jacquelin, Estelle;2026-07-08;;2026-07-22;;Public;13;4Q OPPS;Commercial;SDR WF#51408
 1821061/2000;P1P1P1;Production Ordered;;2025-07-27;C02. Jacquelin, Estelle;2026-07-08;;2026-07-22;;Public;13;4Q OPPS;Commercial;SDR WF#51408
 1821061/3000;P1P1P1;Production Ordered;;2025-07-27;C02. Jacquelin, Estelle;2026-07-08;;2026-07-22;;Public;13;4Q OPPS;Commercial;SDR WF#51408
@@ -2161,7 +2161,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1829624/15000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Assoco;13;CHARGES;Commercial;SDR WF#57095
 1829624/16000;P1P1P1;Charges;;;C92. Daligault, Gildas;;;;;Assoco;13;CHARGES;Commercial;SDR WF#57095
 1830086/3000;P1P1P1;Production Released;;2025-10-31;C26. Bazin, Sandrine;2026-08-05;;2026-10-30;;Assoco;13;26W45;Commercial;SDR WF#52183
-1830086/6000;P1P1P1;Purchase Requisition;;2025-11-07;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Assoco;13;26W45;Commercial;SDR WF#52183
+1830086/6000;P1P1P1;Purchase Ordered;;2025-11-07;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Assoco;13;26W45;Commercial;SDR WF#52183
 1830086/6010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Assoco;13;26W45;Commercial;SDR WF#52183
 1830086/6020;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Assoco;13;26W45;Commercial;SDR WF#52183
 1830086/6030;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Assoco;13;26W45;Commercial;SDR WF#52183
@@ -2473,19 +2473,19 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1851921/4000;P1P1P1;Shipping;;2025-12-17;C35. Daligault, Gildas;2026-09-04;;2026-09-04;;Public;13;4Q OPPS;Commercial;30 weeks
 1851921/4010;P1P1P1;Shipping;;2025-12-17;C35. Daligault, Gildas;2026-09-04;;2026-09-04;;Public;13;4Q OPPS;Commercial;30 weeks
 1853221/1000;P1P1P1;External Operation;;2025-12-17;C22. Masse, Mickael;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/2000;P1P1P1;Available in Stock;;2025-12-05;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/2010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/2020;P1P1P1;Available in Stock;;;C92. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/2030;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3000;P1P1P1;Available in Stock;;2025-12-05;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3020;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3030;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3040;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3050;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3060;P1P1P1;Available in Stock;;2026-01-19;C08. Machining;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3070;P1P1P1;Production Ordered;;;C92. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
-1853221/3080;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/2000;P1P1P1;Available in Stock;;2025-12-05;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/2010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/2020;P1P1P1;Available in Stock;;;C92. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/2030;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3000;P1P1P1;Available in Stock;;2025-12-05;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3020;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3030;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3040;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3050;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3060;P1P1P1;Available in Stock;;2026-01-19;C08. Machining;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3070;P1P1P1;Production Ordered;;;C92. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
+1853221/3080;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-22;;2026-09-22;;Public;25;4Q OPPS;Commercial;SDR WF#61382
 1853221/4000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;25;CHARGES;Commercial;SDR WF#61382
 1853231/1000;P1P1PR;Purchase Ordered;;;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Public;4;26W47;Nuclear;
 1853231/2000;P1P1PR;Purchase Ordered;;;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Public;4;26W47;Nuclear;
@@ -2504,7 +2504,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1853460/9000;P1P1P1;Customer Stock;;2025-11-17;C35. Daligault, Gildas;2026-09-25;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
 1853460/20000;P1P1P1;Customer Stock;;2025-11-17;C35. Daligault, Gildas;2026-11-02;;2026-12-31;;Public;4;> Q4 2026;Aftermarket;PDRN
 1853460/21000;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-09-25;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
-1853460/22000;P1P1P1;Production Planned;;;C05. Masse, Mickael;2026-09-25;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
+1853460/22000;P1P1P1;Production Ordered;;;C05. Masse, Mickael;2026-09-25;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
 1853460/24000;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-12-31;;2026-12-31;;Public;4;> Q4 2026;Aftermarket;PDRN
 1853478/1000;P1P1P1;Shipping;;2025-12-11;C08. Machining;2026-09-25;;2026-09-25;;Public;6;26W42;Aftermarket;PDRN
 1853478/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
@@ -2609,7 +2609,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1861606/19000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Commercial;SDR WF#61308
 1861606/20000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Commercial;SDR WF#61308
 1862797/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
-1862797/4000;P1P1P1;Production Planned;;;C92. Daligault, Gildas;2026-09-25;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
+1862797/4000;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;2026-09-25;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
 1862889/1000;P1P1P1;Shipping;;2026-01-29;C24. Bazin, Sandrine;2026-08-28;;2026-09-03;;Public;25;26W39;Commercial;SDR WF#61473
 1862889/2000;P1P1P1;Shipping;;2026-01-29;C18. Masse, Mickael;2026-09-10;;2026-09-10;;Public;25;26W39;Commercial;SDR WF#61473
 1864332/5000;P1P1P1;Production Released;;;C08. Machining;2026-10-02;;2027-01-13;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -2819,7 +2819,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1870471/29001;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-11-20;;2028-01-13;;Public;4;> Q4 2026;Nuclear;
 1870471/29002;P1P1P1;Production Planned;;;C35. Daligault, Gildas;2026-11-20;;2028-01-13;;Public;4;> Q4 2026;Nuclear;
 1870471/30000;P1P1P1;Purchase Confirmed;;2026-04-08;C35. Daligault, Gildas;2026-11-20;;2028-01-13;;Public;4;OUT Q4 2026;Nuclear;
-1870598/1000;P1P1P1;Production Planned;;;C28. Machining;2026-09-25;;2027-01-06;;Public;4;> Q4 2026;Aftermarket;PDRN
+1870598/1000;P1P1P1;Production Released;;;C28. Machining;2026-09-25;;2027-01-06;;Public;4;> Q4 2026;Aftermarket;PDRN
 1870598/2000;P1P1P1;External Operation;;2026-02-02;C08. Machining;2026-09-18;;2026-10-23;;Public;4;26W46;Aftermarket;PDRN
 1870598/4000;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-09-25;;2027-01-06;;Public;4;> Q4 2026;Aftermarket;PDRN
 1871002/3000;P1P1P1;Production Released;;2026-04-02;C08. Machining;2026-08-28;;2026-10-30;;Public;6;26W47;Aftermarket;PDRN
@@ -2897,7 +2897,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1874629/5000;P1P1P1;Purchase Confirmed;;2026-02-03;C24. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
 1874629/6000;P1P1P1;Purchase Confirmed;;2026-02-03;C24. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
 1874629/7000;P1P1P1;Purchase Confirmed;;2026-02-03;C24. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
-1874629/8000;P1P1P1;Production Released;;2026-02-03;C12. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
+1874629/8000;P1P1P1;Purchase Confirmed;;2026-02-03;C12. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
 1874629/9000;P1P1P1;Purchase Confirmed;;2026-02-03;C12. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
 1874629/10000;P1P1P1;Purchase Confirmed;;2026-02-03;C25. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
 1874629/11000;P1P1P1;Purchase Confirmed;;2026-02-03;C25. Bazin, Sandrine;2026-10-13;;2026-10-27;;Public;13;26W44;Commercial;42 Weeks
@@ -2947,7 +2947,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1877312/19000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Commercial;SDR WF#65319
 1877330/3000;P1P1P1;External Operation;;2026-02-18;C08. Machining;2026-10-30;;2026-12-18;;Public;13;26W51;Aftermarket;PDRN
 1877744/1000;P1P1P1;Customer Stock;;2026-02-12;C03. Bazin, Sandrine;2026-07-01;;2026-07-01;;Public;13;26W44;Aftermarket;5 Weeks
-1878065/1000;P1P1P1;Purchase Confirmed;;2026-03-05;C21. Masse, Mickael;2026-10-12;;2026-11-09;;Public;4;26W46;Aftermarket;40weeks
+1878065/1000;P1P1P1;Production Planned;;2026-03-05;C21. Masse, Mickael;2026-10-12;;2026-11-09;;Public;4;26W46;Aftermarket;40weeks
 1878076/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-02;;2026-09-11;;Public;6;26W38;Aftermarket;PDRN
 1878076/5000;P1P1P1;External Operation;;2026-03-04;C92. Daligault, Gildas;2026-09-18;;2026-11-27;;Public;6;26W49;Aftermarket;PDRN
 1878136/1000;P1P1SP;Purchase Ordered;;2026-03-10;C11. Hubert, Jean-Charles;2026-12-14;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;NUC
@@ -3142,7 +3142,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1885741/39000;P1P1P1;Purchase Confirmed;;2026-03-20;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/40000;P1P1P1;Purchase Confirmed;;2026-03-20;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/41000;P1P1P1;Available in Stock;;2026-03-20;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
-1885741/42000;P1P1P1;Production Planned;;2026-03-20;C08. Machining;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
+1885741/42000;P1P1P1;Production Released;;2026-03-20;C08. Machining;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/43000;P1P1P1;Purchase Confirmed;;2026-03-20;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/44000;P1P1P1;Available in Stock;;2026-03-20;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/45000;P1P1P1;Available in Stock;;2026-03-20;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -3155,11 +3155,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1885741/52000;P1P1P1;Available in Stock;;2026-03-20;C35. Daligault, Gildas;2026-12-31;;2026-12-31;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/53000;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/54000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
-1885741/56000;P1P1P1;Production Planned;;;C07. Jacquelin, Estelle;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
+1885741/56000;P1P1P1;Purchase Requisition;;;C07. Jacquelin, Estelle;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/57000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/58000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/59000;P1P1P1;Available in Stock;;2026-03-13;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
-1885741/60000;P1P1P1;Production Planned;;;C92. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
+1885741/60000;P1P1P1;Production Ordered;;;C92. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/61000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/62000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/63000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -3217,7 +3217,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1885741/116000;P1P1P1;External Operation;;;C28. Machining;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/117000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/118000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
-1885741/119000;P1P1P1;Production Planned;;;C05. Masse, Mickael;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
+1885741/119000;P1P1P1;Production Ordered;;;C05. Masse, Mickael;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/120000;P1P1P1;Available in Stock;;2026-03-20;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/121000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/122000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -3229,7 +3229,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1885741/128000;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/129000;P1P1P1;External Operation;;;C08. Machining;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/130000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
-1885741/131000;P1P1P1;Production Planned;;;C26. Bazin, Sandrine;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
+1885741/131000;P1P1P1;Production Released;;;C26. Bazin, Sandrine;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/132000;P1P1P1;Production Ordered;;;C92. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/133000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1885741/134000;P1P1P1;Available in Stock;;2026-03-20;C35. Daligault, Gildas;2027-09-30;;2028-01-19;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -3259,7 +3259,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1886870/7000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
 1886881/1000;P1P1P1;Purchase Confirmed;;2026-04-05;C21. Masse, Mickael;2026-10-12;;2026-10-19;;Public;6;26W44;Commercial;30 weeks
 1886961/3000;P1P1RB;Purchase Requisition;;2026-04-29;C08. Machining;2026-10-30;;2027-01-29;;Public;6;OUT Q4 2026;Aftermarket;PDRN
-1886961/4000;P1P1P1;Purchase Requisition;;2026-04-29;C92. Daligault, Gildas;2026-10-30;;2027-01-29;;Public;6;OUT Q4 2026;Aftermarket;PDRN
+1886961/4000;P1P1P1;Purchase Ordered;;2026-04-29;C92. Daligault, Gildas;2026-10-30;;2027-01-29;;Public;6;OUT Q4 2026;Aftermarket;PDRN
 1886961/5000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
 1886961/6000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
 1886961/7000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
@@ -3540,8 +3540,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1894878/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Commercial;SDR WF#66325
 1894926/1000;P1P1P1;Shipping;;2026-04-02;C35. Daligault, Gildas;2026-09-07;;2026-09-18;;Public;13;26W39;Commercial;22 Weeks
 1895915/4000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Commercial;SDR WF#68585
-1895934/1000;P1P1P1;Production Planned;;2026-04-17;C24. Bazin, Sandrine;2026-10-22;;2026-11-05;;Public;13;4Q OPPS;Commercial;SDR WF#63130
-1895934/2000;P1P1P1;Production Planned;;2026-04-17;C25. Bazin, Sandrine;2026-10-22;;2026-11-05;;Public;13;4Q OPPS;Commercial;SDR WF#63130
+1895934/1000;P1P1P1;Purchase Ordered;;2026-04-17;C24. Bazin, Sandrine;2026-10-22;;2026-11-05;;Public;13;4Q OPPS;Commercial;SDR WF#63130
+1895934/2000;P1P1P1;Purchase Confirmed;;2026-04-17;C25. Bazin, Sandrine;2026-10-22;;2026-11-05;;Public;13;4Q OPPS;Commercial;SDR WF#63130
 1895934/3000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;CHARGES;Commercial;SDR WF#63130
 1895935/4000;P1P1P1;Purchase Requisition;;2026-04-27;C35. Daligault, Gildas;2026-10-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1895935/5000;P1P1P1;Purchase Requisition;;2026-04-27;C35. Daligault, Gildas;2026-10-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -3576,7 +3576,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1896347/6000;P1P1P1;Purchase Confirmed;;2026-05-05;C02. Jacquelin, Estelle;2026-10-26;;2026-11-16;;Public;13;4Q OPPS;Commercial;32Weeks
 1896347/7000;P1P1P1;Purchase Confirmed;;2026-05-05;C02. Jacquelin, Estelle;2026-10-26;;2026-11-16;;Public;13;4Q OPPS;Commercial;32Weeks
 1896347/8000;P1P1P1;Purchase Confirmed;;2026-05-05;C02. Jacquelin, Estelle;2026-10-26;;2026-11-16;;Public;13;4Q OPPS;Commercial;32Weeks
-1896347/9000;P1P1P1;Production Planned;;2026-05-04;C25. Bazin, Sandrine;2026-11-02;;2026-11-16;;Public;13;4Q OPPS;Commercial;32Weeks
+1896347/9000;P1P1P1;Purchase Confirmed;;2026-05-04;C25. Bazin, Sandrine;2026-11-02;;2026-11-16;;Public;13;4Q OPPS;Commercial;32Weeks
 1896347/10000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;CHARGES;Commercial;32Weeks
 1896620/1000;P1P1P1;Purchase Confirmed;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;26W46;Commercial;SDR WF#69808
 1896620/2000;P1P1P1;Purchase Confirmed;;2026-05-22;C02. Jacquelin, Estelle;2026-10-12;;2026-10-26;;Assoco;13;26W46;Commercial;SDR WF#69808
@@ -3680,8 +3680,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1896972/1000;P1P1P1;Production Planned;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896972/2000;P1P1P1;Purchase Confirmed;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896972/3000;P1P1P1;Purchase Confirmed;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896972/4000;P1P1P1;Purchase Confirmed;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896972/5000;P1P1P1;Purchase Confirmed;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896972/4000;P1P1P1;Production Planned;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896972/5000;P1P1P1;Production Planned;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896972/6000;P1P1P1;Purchase Confirmed;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896972/7000;P1P1P1;Purchase Confirmed;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896972/8000;P1P1P1;Purchase Confirmed;;2026-05-05;C24. Bazin, Sandrine;2027-01-28;;2027-02-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
@@ -3700,10 +3700,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1896974/1000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896974/2000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896974/3000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896974/4000;P1P1P1;Purchase Requisition;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896974/4000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896974/5000;P1P1P1;Purchase Requisition;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896974/6000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896974/7000;P1P1P1;Purchase Requisition;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896974/7000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896974/8000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-04-26;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896974/9000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2028-03-29;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896974/10000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2028-03-29;;2028-05-24;;Public;13;> Q4 2026;Commercial;SDR WF#69252
@@ -3717,14 +3717,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1896975/8000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-09-27;;2028-10-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896975/9000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2028-08-30;;2028-10-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896975/10000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2028-08-30;;2028-10-25;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896976/1000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896976/2000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896976/3000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896976/1000;P1P1P1;Purchase Confirmed;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896976/2000;P1P1P1;Purchase Confirmed;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896976/3000;P1P1P1;Purchase Confirmed;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896976/4000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896976/5000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896976/6000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896976/7000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1896976/8000;P1P1P1;Purchase Ordered;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896976/6000;P1P1P1;Purchase Confirmed;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896976/7000;P1P1P1;Purchase Confirmed;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1896976/8000;P1P1P1;Purchase Confirmed;;2026-04-30;C24. Bazin, Sandrine;2028-12-13;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896976/9000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2028-11-15;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896976/10000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2028-11-15;;2029-01-10;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1896977/1000;P1P1P1;Purchase Confirmed;;2026-04-30;C24. Bazin, Sandrine;2029-07-12;;2029-08-09;;Public;13;> Q4 2026;Commercial;SDR WF#69252
@@ -3760,7 +3760,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1897026/9000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2026-09-25;;2026-10-02;;Public;13;26W43;Commercial;SDR WF#69252
 1897026/10000;P1P1P1;Purchase Confirmed;;2026-04-09;C35. Daligault, Gildas;2026-09-25;;2026-10-02;;Public;13;26W43;Commercial;SDR WF#69252
 1897027/1000;P1P1P1;Purchase Ordered;;2026-04-27;C24. Bazin, Sandrine;2027-05-20;;2027-06-17;;Public;13;> Q4 2026;Commercial;SDR WF#69252
-1897027/2000;P1P1P1;Purchase Requisition;;2026-04-27;C24. Bazin, Sandrine;2027-05-20;;2027-06-17;;Public;13;> Q4 2026;Commercial;SDR WF#69252
+1897027/2000;P1P1P1;Purchase Ordered;;2026-04-27;C24. Bazin, Sandrine;2027-05-20;;2027-06-17;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1897027/3000;P1P1P1;Purchase Ordered;;2026-04-27;C24. Bazin, Sandrine;2027-05-20;;2027-06-17;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1897027/4000;P1P1P1;Purchase Requisition;;2026-04-27;C24. Bazin, Sandrine;2027-05-20;;2027-06-17;;Public;13;> Q4 2026;Commercial;SDR WF#69252
 1897027/5000;P1P1P1;Purchase Requisition;;2026-04-27;C24. Bazin, Sandrine;2027-05-20;;2027-06-17;;Public;13;> Q4 2026;Commercial;SDR WF#69252
@@ -3832,14 +3832,14 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1897813/4000;P1P1P1;Incoming Insp.;;2026-04-22;C35. Daligault, Gildas;2026-10-16;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1897813/5000;P1P1P1;Engineering;ENGR;;C28. Machining;;;;;Public;4;> Q4 2026;Aftermarket;PDRN
 1897813/6000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-16;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
-1897944/1000;P1P1P1;Production Planned;;2026-04-26;C21. Masse, Mickael;2026-12-14;;2026-12-28;;Public;4;26W53;Aftermarket;30Weeks
+1897944/1000;P1P1P1;Purchase Confirmed;;2026-04-26;C21. Masse, Mickael;2026-12-14;;2026-12-28;;Public;4;26W53;Aftermarket;30Weeks
 1898428/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-12-04;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
-1898428/6000;P1P1P1;Production Planned;;;C26. Bazin, Sandrine;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
+1898428/6000;P1P1P1;Production Ordered;;;C26. Bazin, Sandrine;2026-09-30;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
 1898613/1000;P1P1P1;Production Released;;2026-04-21;C34. Masse, Mickael;2026-10-13;;2026-10-27;;Assoco;13;26W45;Aftermarket;28 Weeks
-1899127/1000;P1P1P1;Engineering Issue;;2026-05-04;C18. Masse, Mickael;2026-12-31;;2027-02-12;;Public;4;> Q4 2026;Nuclear;24Weeks
+1899127/1000;P1P1P1;Purchase Ordered;;2026-05-04;C18. Masse, Mickael;2026-12-31;;2027-02-12;;Public;4;> Q4 2026;Nuclear;24Weeks
 1899151/1000;P1P1P1;Purchase Confirmed;;2026-05-04;C92. Daligault, Gildas;2026-08-28;;2026-10-12;;Public;4;26W43;Aftermarket;NUC
 1899356/1000;P1P1P1;Purchase in Transit;;;C35. Daligault, Gildas;2026-11-18;;2027-01-27;;Public;4;> Q4 2026;Aftermarket;PDRN
-1899516/1000;P1P1RB;Purchase Requisition;;2026-05-06;C15. Masse, Mickael;2026-10-12;;2026-10-20;;Public;13;26W45;Commercial;SDR WF#69260
+1899516/1000;P1P1RB;Purchase Ordered;;2026-05-06;C15. Masse, Mickael;2026-10-12;;2026-10-20;;Public;13;26W45;Commercial;SDR WF#69260
 1899788/1000;P1P1P1;Purchase Confirmed;;2026-06-17;C35. Daligault, Gildas;2026-10-30;;2027-01-29;;Public;4;> Q4 2026;Aftermarket;PDRN
 1899788/2000;P1P1P1;Purchase Confirmed;;2026-06-17;C35. Daligault, Gildas;2026-10-30;;2027-01-29;;Public;4;> Q4 2026;Aftermarket;PDRN
 1899788/3000;P1P1P1;Production Planned;;2026-06-17;C92. Daligault, Gildas;2026-10-30;;2027-01-29;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -3849,8 +3849,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1900173/5000;P1P1P1;External Operation;;2026-05-07;C10. Jacquelin, Estelle;2026-09-22;;2026-10-02;;Public;6;26W42;Commercial;SDR WF#69278
 1900173/6000;P1P1P1;Production Planned;;2026-05-07;C10. Jacquelin, Estelle;2026-09-22;;2026-10-02;;Public;6;26W42;Commercial;SDR WF#69278
 1900220/1000;RNP1RN;Engineering;ENGR;;C35. Daligault, Gildas;2027-05-21;;2027-06-03;;Public;4;> Q4 2026;Nuclear;60Weeks
-1900251/3000;P1P1P1;Production Planned;;2026-05-05;C26. Bazin, Sandrine;2026-09-30;;2026-10-14;;Assoco;13;26W43;Commercial;14weeks
-1900251/4000;P1P1P1;Production Planned;;2026-05-05;C26. Bazin, Sandrine;2026-09-30;;2026-10-14;;Assoco;13;26W43;Commercial;14weeks
+1900251/3000;P1P1P1;Purchase Requisition;;2026-05-05;C26. Bazin, Sandrine;2026-09-30;;2026-10-14;;Assoco;13;26W43;Commercial;14weeks
+1900251/4000;P1P1P1;Purchase Requisition;;2026-05-05;C26. Bazin, Sandrine;2026-09-30;;2026-10-14;;Assoco;13;26W43;Commercial;14weeks
 1900267/1000;P1P1P1;Purchase Ordered;;2026-05-27;C15. Masse, Mickael;2026-10-28;;2026-12-02;;Assoco;6;26W50;Commercial;32Weeks
 1900310/1000;P1P1P1;Purchase Confirmed;;2026-05-29;C15. Masse, Mickael;2026-10-13;;2026-11-17;;Assoco;6;26W48;Commercial;30Weeks
 1900339/1000;P1P1P1;Production Released;;2026-04-29;C02. Jacquelin, Estelle;2026-08-26;;2026-09-30;;Public;4;26W40;Aftermarket;8 Weeks
@@ -3932,7 +3932,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1902487/5000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Commercial;39 Weeks
 1902487/6000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Commercial;39 Weeks
 1902813/12000;P1P1P1;External Operation;;2026-05-22;C08. Machining;2026-09-17;;2026-12-18;;Public;13;26W51;Aftermarket;PDRN
-1902813/16000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;2026-08-21;;2026-10-30;;Public;13;26W44;Aftermarket;PDRN
+1902813/16000;P1P1P1;Purchase Ordered;;;C35. Daligault, Gildas;2026-08-21;;2026-10-30;;Public;13;26W44;Aftermarket;PDRN
 1902931/12000;P1P1P1;Purchase Confirmed;;;C08. Machining;2026-09-11;;2026-09-25;;Public;4;26W39;Aftermarket;
 1902985/1000;P1P1P1;Production Released;;2026-05-07;C08. Machining;2026-09-18;;2026-10-28;;Public;13;26W45;Aftermarket;
 1902985/2000;P1P1P1;Production Released;;2026-05-07;C35. Daligault, Gildas;2026-09-18;;2026-10-28;;Public;13;26W45;Aftermarket;
@@ -3943,8 +3943,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1903166/5000;P1P1P1;Production Released;;2026-05-13;C18. Masse, Mickael;2026-09-21;;2026-09-21;;Public;4;26W39;Aftermarket;12 Weeks
 1903294/1000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Nuclear;1week
 1903294/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Nuclear;1week
-1903300/1000;P1P1P1;Production Planned;;2026-05-08;C26. Bazin, Sandrine;2026-10-12;;2026-10-22;;Public;6;26W43;Commercial;24 Weeks
-1903300/2000;P1P1P1;Production Planned;;2026-05-08;C26. Bazin, Sandrine;2026-10-12;;2026-10-22;;Public;6;26W43;Commercial;24 Weeks
+1903300/1000;P1P1P1;Purchase Confirmed;;2026-05-08;C26. Bazin, Sandrine;2026-10-12;;2026-10-22;;Public;6;26W43;Commercial;24 Weeks
+1903300/2000;P1P1P1;Purchase Confirmed;;2026-05-08;C26. Bazin, Sandrine;2026-10-12;;2026-10-22;;Public;6;26W43;Commercial;24 Weeks
 1903300/3000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Commercial;24 Weeks
 1903424/1000;P1P1P1;Production Released;;2026-05-29;C25. Bazin, Sandrine;2026-08-14;;2026-09-11;;Public;25;26W38;Commercial;15Weeks
 1903424/2000;P1P1P1;Production Released;;2026-05-15;C08. Machining;2026-09-04;;2026-09-11;;Public;25;26W38;Commercial;15Weeks
@@ -3999,16 +3999,16 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1904634/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/3000;P1P1P1;Purchase Requisition;;2026-06-03;C21. Masse, Mickael;2027-02-05;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
-1904634/4000;P1P1P1;Production Planned;;2026-06-03;C21. Masse, Mickael;2026-12-03;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
+1904634/4000;P1P1P1;Purchase Ordered;;2026-06-03;C21. Masse, Mickael;2026-12-03;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
 1904634/5000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/6000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/7000;P1P1P1;Purchase Confirmed;;2026-05-22;C21. Masse, Mickael;2027-02-05;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
-1904634/8000;P1P1P1;Production Planned;;2026-05-22;C21. Masse, Mickael;2026-12-03;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
+1904634/8000;P1P1P1;Purchase Confirmed;;2026-05-22;C21. Masse, Mickael;2026-12-03;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
 1904634/9000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/10000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/11000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/12000;P1P1P1;Purchase Confirmed;;2026-05-22;C21. Masse, Mickael;2027-02-05;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
-1904634/13000;P1P1P1;Production Planned;;2026-05-22;C21. Masse, Mickael;2026-12-03;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
+1904634/13000;P1P1P1;Purchase Confirmed;;2026-05-22;C21. Masse, Mickael;2026-12-03;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
 1904634/14000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/15000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/16000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
@@ -4025,8 +4025,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1904634/27000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/28000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/29000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-02;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
-1904634/30000;P1P1P1;Production Planned;;2026-05-15;C14. Masse, Mickael;2027-02-05;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
-1904634/31000;P1P1P1;Production Planned;;2026-05-15;C14. Masse, Mickael;2026-11-05;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
+1904634/30000;P1P1P1;Purchase Requisition;;2026-05-15;C14. Masse, Mickael;2027-02-05;;2027-04-16;;Public;6;> Q4 2026;Commercial;30 Weeks
+1904634/31000;P1P1P1;Purchase Confirmed;;2026-05-15;C14. Masse, Mickael;2026-11-05;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
 1904634/32000;P1P1P1;Charges;;;C92. Daligault, Gildas;;;;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/33000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Commercial;30 Weeks
 1904634/34000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-12-03;;2026-12-17;;Public;6;26W52;Commercial;30 Weeks
@@ -4386,23 +4386,23 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1910639/1000;P1P1P1;Purchase Ordered;;2026-06-05;C26. Bazin, Sandrine;2026-12-04;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910639/2000;P1P1P1;Purchase Confirmed;;2026-06-05;C25. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910639/3000;P1P1P1;Purchase Confirmed;;2026-06-05;C24. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
-1910639/4000;P1P1P1;Production Planned;;2026-06-09;C33. Masse, Mickael;2026-12-04;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
-1910639/5000;P1P1P1;Production Planned;;2026-06-05;C24. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
+1910639/4000;P1P1P1;Purchase Confirmed;;2026-06-09;C33. Masse, Mickael;2026-12-04;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
+1910639/5000;P1P1P1;Purchase Confirmed;;2026-06-05;C24. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910639/6000;P1P1P1;Purchase Confirmed;;2026-06-05;C26. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910639/7000;P1P1P1;Purchase Ordered;;2026-06-05;C26. Bazin, Sandrine;2026-12-04;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910639/8000;P1P1P1;Purchase Ordered;;2026-06-05;C26. Bazin, Sandrine;2026-12-04;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910639/9000;P1P1P1;Purchase Ordered;;2026-06-05;C25. Bazin, Sandrine;2026-12-04;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910639/10000;P1P1P1;Purchase Confirmed;;2026-06-05;C25. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
-1910639/11000;P1P1P1;Production Planned;;2026-06-05;C15. Masse, Mickael;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
-1910639/12000;P1P1P1;Production Planned;;2026-06-05;C24. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
-1910639/13000;P1P1P1;Production Planned;;2026-06-05;C24. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
+1910639/11000;P1P1P1;Purchase Requisition;;2026-06-05;C15. Masse, Mickael;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
+1910639/12000;P1P1P1;Purchase Confirmed;;2026-06-05;C24. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
+1910639/13000;P1P1P1;Purchase Confirmed;;2026-06-05;C24. Bazin, Sandrine;2026-11-06;;2026-12-21;;Public;4;26W52;Commercial;SDR WF#73492
 1910662/1000;P1P1P1;Available in Stock;;2026-06-30;C35. Daligault, Gildas;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/2000;P1P1P1;Available in Stock;;2026-06-30;C35. Daligault, Gildas;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/3000;P1P1P1;Purchase Confirmed;;2026-06-30;C35. Daligault, Gildas;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/4000;P1P1P1;Purchase Confirmed;;2026-06-30;C35. Daligault, Gildas;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/5000;P1P1P1;Purchase Ordered;;;C05. Masse, Mickael;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/6000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
-1910662/7000;P1P1P1;Production Planned;;;C08. Machining;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
+1910662/7000;P1P1P1;Production Released;;;C08. Machining;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/8000;P1P1P1;Purchase Requisition;;;C05. Masse, Mickael;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/9000;P1P1P1;Purchase Ordered;;;C35. Daligault, Gildas;2026-10-30;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1910662/10000;P1P1P1;Production Planned;;;C08. Machining;2027-11-02;;2028-01-26;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -4426,7 +4426,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1911578/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-23;;2026-10-30;;Public;13;26W44;Aftermarket;PDRN
 1911619/1000;P1P1P1;Shipping;;;C35. Daligault, Gildas;2026-07-31;;2026-07-31;;Public;25;WARRANTY;Warranty;
 1911619/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;25;WARRANTY;Warranty;
-1911803/1000;P1P1P1;Production Planned;;2026-07-08;C24. Bazin, Sandrine;2026-10-13;;2026-11-03;;Public;13;26W46;Commercial;SDR WF#63302
+1911803/1000;P1P1P1;Purchase Ordered;;2026-07-08;C24. Bazin, Sandrine;2026-10-13;;2026-11-03;;Public;13;26W46;Commercial;SDR WF#63302
 1911936/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-08;;2026-09-17;;Public;13;26W38;Aftermarket;PDRN
 1911936/4000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-23;;2026-10-30;;Public;13;26W44;Aftermarket;PDRN
 1912053/1000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;NUC
@@ -4587,8 +4587,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1912568/7000;P1P1P1;Purchase Requisition;;2026-06-12;C24. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
 1912568/8000;P1P1P1;Purchase Ordered;;2026-06-12;C12. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
 1912568/9000;P1P1P1;Purchase Ordered;;2026-06-12;C12. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
-1912568/10000;P1P1P1;Purchase Requisition;;2026-06-12;C25. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
-1912568/11000;P1P1P1;Purchase Requisition;;2026-06-12;C25. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
+1912568/10000;P1P1P1;Purchase Ordered;;2026-06-12;C25. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
+1912568/11000;P1P1P1;Purchase Ordered;;2026-06-12;C25. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
 1912568/12000;P1P1P1;Purchase Requisition;;2026-06-12;C24. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
 1912568/13000;P1P1P1;Purchase Requisition;;2026-06-12;C24. Bazin, Sandrine;2027-04-27;;2027-06-01;;Public;13;> Q4 2026;Commercial;SDR WF#73104
 1912569/1000;P1P1P1;Purchase Ordered;;2026-06-12;C24. Bazin, Sandrine;2028-01-06;;2028-02-17;;Public;13;> Q4 2026;Commercial;SDR WF#73104
@@ -4632,20 +4632,20 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1912703/7000;P1P1P1;Purchase Requisition;;2026-06-11;C24. Bazin, Sandrine;2027-03-19;;2027-04-26;;Public;13;> Q4 2026;Commercial;40 Weeks
 1912703/8000;P1P1P1;Purchase Requisition;;2026-06-11;C12. Bazin, Sandrine;2027-03-19;;2027-04-26;;Public;13;> Q4 2026;Commercial;40 Weeks
 1912703/9000;P1P1P1;Purchase Requisition;;2026-06-11;C12. Bazin, Sandrine;2027-03-19;;2027-04-26;;Public;13;> Q4 2026;Commercial;40 Weeks
-1912724/1010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-11;;2026-09-11;;Public;4;26W38;Aftermarket;PDRN
-1912724/1020;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-11;;2026-09-11;;Public;4;26W38;Aftermarket;PDRN
-1912724/1030;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-11;;2026-09-11;;Public;4;26W38;Aftermarket;PDRN
-1912724/1040;P1P1P1;Production Planned;;;C35. Daligault, Gildas;2026-09-11;;2026-09-11;;Public;4;26W38;Aftermarket;PDRN
-1912724/1050;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-11;;2026-09-11;;Public;4;26W38;Aftermarket;PDRN
-1912724/1060;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-11;;2026-09-11;;Public;4;26W38;Aftermarket;PDRN
+1912724/1010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W38;Aftermarket;PDRN
+1912724/1020;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W38;Aftermarket;PDRN
+1912724/1030;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W38;Aftermarket;PDRN
+1912724/1040;P1P1P1;Production Planned;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W38;Aftermarket;PDRN
+1912724/1050;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W38;Aftermarket;PDRN
+1912724/1060;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W38;Aftermarket;PDRN
 1912926/1000;P1P1P1;Purchase Confirmed;;2026-06-24;C22. Masse, Mickael;2026-12-28;;2027-01-12;;Public;4;> Q4 2026;Commercial;SDR WF#72088
 1912973/1000;P1P1P1;Purchase Confirmed;;2026-06-16;C04. Masse, Mickael;2026-12-21;;2027-01-06;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
 1912973/2000;P1P1SP;Engineering;;2026-06-16;C04. Masse, Mickael;2026-11-09;;2026-12-01;;Public;25;ENG;Commercial;SDR WF#63776
-1912973/3000;P1P1P1;Purchase Confirmed;;2026-06-16;C04. Masse, Mickael;2026-10-26;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
+1912973/3000;P1P1P1;Purchase Ordered;;2026-06-16;C04. Masse, Mickael;2026-10-26;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
 1912973/4000;P1P1P1;Purchase Confirmed;;2026-06-16;C25. Bazin, Sandrine;2026-10-26;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
 1912973/5000;P1P1P1;Purchase Confirmed;;2026-06-16;C04. Masse, Mickael;2026-11-09;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
 1912973/6000;P1P1P1;Purchase Confirmed;;2026-06-16;C04. Masse, Mickael;2026-11-09;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
-1912973/7000;P1P1P1;Purchase Confirmed;;2026-06-16;C04. Masse, Mickael;2026-10-26;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
+1912973/7000;P1P1P1;Purchase Ordered;;2026-06-16;C04. Masse, Mickael;2026-10-26;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
 1912973/8000;P1P1P1;Purchase Ordered;;2026-06-16;C04. Masse, Mickael;2026-10-26;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
 1912973/9000;P1P1P1;Purchase Ordered;;2026-06-16;C04. Masse, Mickael;2026-10-26;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
 1912973/10000;P1P1P1;Purchase Confirmed;;2026-06-16;C04. Masse, Mickael;2026-11-09;;2026-12-01;;Public;25;OUT Q4 2026;Commercial;SDR WF#63776
@@ -4836,7 +4836,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1913657/3000;P1P1P1;Purchase Requisition;;2026-06-16;C24. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
 1913657/4000;P1P1P1;Purchase Requisition;;2026-06-16;C24. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
 1913657/5000;P1P1P1;Purchase Ordered;;2026-06-16;C24. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
-1913657/6000;P1P1P1;Purchase Requisition;;2026-06-16;C25. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
+1913657/6000;P1P1P1;Purchase Ordered;;2026-06-16;C25. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
 1913657/7000;P1P1P1;Purchase Ordered;;2026-06-16;C24. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
 1913657/8000;P1P1P1;Purchase Ordered;;2026-06-17;C12. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
 1913657/9000;P1P1P1;Purchase Ordered;;2026-06-17;C12. Bazin, Sandrine;2027-06-10;;2027-07-15;;Public;13;> Q4 2026;Commercial;40 Weeks
@@ -4893,8 +4893,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1914477/4000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;CHARGES;Commercial;10 Weeks
 1914477/5000;P1P1P1;Available in Stock;;2026-06-26;C10. Jacquelin, Estelle;2026-09-11;;2026-09-18;;Public;13;26W39;Commercial;10 Weeks
 1914536/1000;P1P1P1;External Operation;;2026-06-19;C24. Bazin, Sandrine;2026-09-11;;2026-09-18;;Assoco;6;26W39;Aftermarket;SDR WF#73467
-1914588/1000;P1P1RB;Purchase Requisition;;2026-07-10;C14. Masse, Mickael;2026-11-09;;2026-11-24;;Public;4;26W48;Commercial;SDR WF#71297
-1914588/2000;P1P1RB;Purchase Requisition;;2026-07-10;C14. Masse, Mickael;2026-11-09;;2026-11-24;;Public;4;26W48;Commercial;SDR WF#71297
+1914588/1000;P1P1RB;Purchase Ordered;;2026-07-10;C14. Masse, Mickael;2026-11-09;;2026-11-24;;Public;4;26W48;Commercial;SDR WF#71297
+1914588/2000;P1P1RB;Purchase Ordered;;2026-07-10;C14. Masse, Mickael;2026-11-09;;2026-11-24;;Public;4;26W48;Commercial;SDR WF#71297
 1914614/1000;P1P1P1;Purchase Confirmed;;2026-07-07;C10. Jacquelin, Estelle;2026-10-22;;2026-10-22;;Public;4;26W43;Commercial;24Weeks
 1914614/2000;P1P1P1;Purchase Confirmed;;2026-07-07;C10. Jacquelin, Estelle;2026-10-22;;2026-10-22;;Public;4;26W43;Commercial;24Weeks
 1914614/3000;P1P1P1;Purchase Confirmed;;2026-07-07;C10. Jacquelin, Estelle;2026-10-22;;2026-10-22;;Public;4;26W43;Commercial;24Weeks
@@ -4945,7 +4945,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1915289/25000;P1P1P1;Purchase Requisition;;2026-06-23;C24. Bazin, Sandrine;2027-03-12;;2027-04-09;;Public;4;> Q4 2026;Commercial;43 Weeks
 1915289/26000;P1P1P1;Purchase Requisition;;2026-06-23;C24. Bazin, Sandrine;2027-03-12;;2027-04-09;;Public;4;> Q4 2026;Commercial;43 Weeks
 1915289/27000;P1P1P1;Purchase Confirmed;;2026-06-23;C25. Bazin, Sandrine;2027-03-12;;2027-04-09;;Public;4;> Q4 2026;Commercial;43 Weeks
-1915289/28000;P1P1P1;Purchase Requisition;;2026-06-23;C25. Bazin, Sandrine;2027-03-12;;2027-04-09;;Public;4;> Q4 2026;Commercial;43 Weeks
+1915289/28000;P1P1P1;Purchase Ordered;;2026-06-23;C25. Bazin, Sandrine;2027-03-12;;2027-04-09;;Public;4;> Q4 2026;Commercial;43 Weeks
 1915331/1000;P1P1P1;Production Released;;2026-07-01;C14. Masse, Mickael;2026-09-17;;2026-10-07;;Public;4;26W42;Aftermarket;12 Weeks
 1915331/2000;P1P1P1;Production Released;;2026-07-01;C13. Masse, Mickael;2026-09-17;;2026-10-07;;Public;4;26W42;Aftermarket;12 Weeks
 1915383/1000;P1P1P1;Purchase in Transit;;;C35. Daligault, Gildas;2026-09-14;;2026-09-18;;Public;4;26W38;Aftermarket;
@@ -5021,7 +5021,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1916167/1000;P1P1P1;Production Ordered;;2026-07-09;C10. Jacquelin, Estelle;2026-10-13;;2026-11-17;;Public;13;26W48;Commercial;10 Weeks
 1916167/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;CHARGES;Commercial;10 Weeks
 1916183/1000;P1P1P1;Available in Stock;;;C08. Machining;2026-08-31;;2026-09-18;;Public;4;26W38;Aftermarket;
-1916217/1000;P1P1P1;Production Planned;;2026-07-01;C24. Bazin, Sandrine;2026-10-12;;2026-10-30;;Public;4;26W44;Commercial;SDR WF#74213
+1916217/1000;P1P1P1;Purchase Confirmed;;2026-07-01;C24. Bazin, Sandrine;2026-10-12;;2026-10-30;;Public;4;26W44;Commercial;SDR WF#74213
 1916267/1000;P1P1SP;Engineering;;2026-07-30;C03. Bazin, Sandrine;2027-02-22;;2027-04-05;;Assoco;13;> Q4 2026;Commercial;40Weeks
 1916267/2000;P1P1SP;Engineering;;2026-07-30;C03. Bazin, Sandrine;2027-02-22;;2027-04-05;;Assoco;13;> Q4 2026;Commercial;40Weeks
 1916268/1010;P1P1P1;Purchase Confirmed;;;C02. Jacquelin, Estelle;2026-10-12;;2026-10-12;;Public;4;26W40;Aftermarket;SDR WF#71672
@@ -5090,13 +5090,13 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1917823/2000;P1P1PR;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-04;;Public;6;26W50;Aftermarket;PDRN
 1917823/3000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
 1917832/1010;P1P1P1;Purchase Confirmed;;;C02. Jacquelin, Estelle;2026-12-01;;2026-12-15;;Public;4;26W51;Aftermarket;SDR WF#74501
-1917884/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-08-28;;2026-09-18;;Public;13;26W39;Aftermarket;
-1917884/2000;P1P1P1;Available in Stock;;2026-06-23;C35. Daligault, Gildas;2026-08-28;;2026-09-18;;Public;13;26W39;Aftermarket;
-1917884/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-08-28;;2026-09-18;;Public;13;26W39;Aftermarket;
-1917884/4000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-08-28;;2026-09-18;;Public;13;26W39;Aftermarket;
-1917884/5000;P1P1P1;Available in Stock;;2026-06-23;C35. Daligault, Gildas;2026-08-28;;2026-09-18;;Public;13;26W39;Aftermarket;
-1917884/6000;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-08-20;;2026-09-18;;Public;13;26W39;Aftermarket;
-1917884/7000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-08-28;;2026-09-18;;Public;13;26W39;Aftermarket;
+1917884/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;13;26W39;Aftermarket;
+1917884/2000;P1P1P1;Available in Stock;;2026-06-23;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;13;26W39;Aftermarket;
+1917884/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;13;26W39;Aftermarket;
+1917884/4000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;13;26W39;Aftermarket;
+1917884/5000;P1P1P1;Available in Stock;;2026-06-23;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;13;26W39;Aftermarket;
+1917884/6000;P1P1P1;Customer Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;13;26W39;Aftermarket;
+1917884/7000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;13;26W39;Aftermarket;
 1917884/8000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;CHARGES;Aftermarket;
 1917898/1000;CCP1RB;Engineering Issue;;2026-07-10;C24. Bazin, Sandrine;2026-12-31;;2027-01-28;;Public;6;> Q4 2026;Commercial;SDR WF#64499
 1917898/2000;CCP1RB;Engineering Issue;;2026-07-10;C24. Bazin, Sandrine;2026-12-31;;2027-01-28;;Public;6;> Q4 2026;Commercial;SDR WF#64499
@@ -5139,10 +5139,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1918854/1000;P1P1P1;Available in Stock;;;C07. Jacquelin, Estelle;2026-09-11;;2026-10-16;;Public;4;26W42;Aftermarket;
 1918854/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-11;;2026-10-16;;Public;4;26W42;Aftermarket;
 1918854/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-11;;2026-10-16;;Public;4;26W42;Aftermarket;
-1918993/1000;P1P1P1;Production Planned;;2026-07-02;C21. Masse, Mickael;2026-10-23;;2026-12-11;;Public;4;26W50;Aftermarket;SDR WF#75459
-1918993/2000;P1P1P1;Production Planned;;2026-07-02;C30. Masse, Mickael;2026-10-23;;2026-12-11;;Public;4;26W50;Aftermarket;SDR WF#75459
-1919239/1000;P1P1P1;Production Planned;;2026-07-16;C24. Bazin, Sandrine;2026-10-12;;2026-10-28;;Public;4;26W44;Commercial;SDR WF#75494
-1919239/2000;P1P1P1;Production Planned;;2026-07-16;C24. Bazin, Sandrine;2026-10-12;;2026-10-28;;Public;4;26W44;Commercial;SDR WF#75494
+1918993/1000;P1P1P1;Purchase Confirmed;;2026-07-02;C21. Masse, Mickael;2026-10-23;;2026-12-11;;Public;4;26W50;Aftermarket;SDR WF#75459
+1918993/2000;P1P1P1;Purchase Confirmed;;2026-07-02;C30. Masse, Mickael;2026-10-23;;2026-12-11;;Public;4;26W50;Aftermarket;SDR WF#75459
+1919239/1000;P1P1P1;Purchase Requisition;;2026-07-16;C24. Bazin, Sandrine;2026-10-12;;2026-10-28;;Public;4;26W44;Commercial;SDR WF#75494
+1919239/2000;P1P1P1;Purchase Requisition;;2026-07-16;C24. Bazin, Sandrine;2026-10-12;;2026-10-28;;Public;4;26W44;Commercial;SDR WF#75494
 1919266/1000;P1P1P1;Production Ordered;;2026-07-09;C10. Jacquelin, Estelle;2026-09-24;;2026-09-25;;Assoco;13;26W40;Commercial;CRITICAL
 1919266/2000;P1P1P1;Production Ordered;;2026-07-09;C10. Jacquelin, Estelle;2026-09-24;;2026-09-25;;Assoco;13;26W40;Commercial;CRITICAL
 1919314/1000;P1P1P1;External Operation;;2026-07-03;C26. Bazin, Sandrine;2026-09-04;;2026-09-18;;Public;6;26W38;Commercial;SDR WF#74906
@@ -5167,7 +5167,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1919358/6000;P1P1P1;Purchase Confirmed;;2026-07-09;C02. Jacquelin, Estelle;2026-12-17;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
 1919358/7000;P1P1P1;Purchase Confirmed;;2026-07-09;C02. Jacquelin, Estelle;2026-12-17;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
 1919358/8000;P1P1P1;Purchase Confirmed;;2026-07-09;C24. Bazin, Sandrine;2026-12-17;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
-1919358/9000;P1P1P1;Purchase Confirmed;;2026-07-09;C14. Masse, Mickael;2026-12-31;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
+1919358/9000;P1P1P1;Purchase Ordered;;2026-07-09;C14. Masse, Mickael;2026-12-31;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
 1919358/10000;P1P1P1;Purchase Confirmed;;2026-07-09;C24. Bazin, Sandrine;2026-12-17;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
 1919358/11000;P1P1P1;Purchase Confirmed;;2026-07-09;C24. Bazin, Sandrine;2026-12-17;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
 1919358/12000;P1P1P1;Purchase Confirmed;;2026-07-09;C02. Jacquelin, Estelle;2026-12-17;;2027-01-28;;Public;4;> Q4 2026;Commercial;31 Weeks
@@ -5247,9 +5247,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1920057/4000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-16;;2026-10-30;;Public;13;26W44;Aftermarket;PDRN
 1920057/5000;P1P1PR;Purchase Requisition;;2026-09-10;C35. Daligault, Gildas;;;;;Public;13;> Q4 2026;Aftermarket;PDRN
 1920057/6000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-10;;2026-10-30;;Public;13;26W44;Aftermarket;PDRN
-1920090/1000;P1P1P1;Production Planned;;2026-07-07;C92. Daligault, Gildas;2026-09-25;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
+1920090/1000;P1P1P1;Purchase Confirmed;;2026-07-07;C92. Daligault, Gildas;2026-09-25;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1920090/2000;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-10-12;;2027-02-02;;Public;4;> Q4 2026;Aftermarket;PDRN
-1920090/4000;P1P1P1;Production Planned;;2026-07-08;C92. Daligault, Gildas;2026-09-25;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
+1920090/4000;P1P1P1;Purchase Requisition;;2026-07-08;C92. Daligault, Gildas;2026-09-25;;2027-02-10;;Public;4;> Q4 2026;Aftermarket;PDRN
 1920090/5000;P1P1P1;Purchase Confirmed;;;C07. Jacquelin, Estelle;2026-10-12;;2027-02-02;;Public;4;> Q4 2026;Aftermarket;PDRN
 1920090/6000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Aftermarket;PDRN
 1920095/1000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
@@ -5687,10 +5687,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1922541/145000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922541/146000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922541/147000;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
-1922563/1000;P1P1P1;Incoming Insp.;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;6;26W43;Aftermarket;PDRN
-1922563/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;6;26W43;Aftermarket;PDRN
-1922563/3000;P1P1P1;Production Released;;;C09. Machining;2026-09-18;;2026-10-16;;Public;6;26W43;Aftermarket;PDRN
-1922563/4000;P1P1P1;Available in Stock;;2026-07-20;C35. Daligault, Gildas;2026-10-26;;2026-11-13;;Public;6;26W47;Aftermarket;PDRN
+1922563/1000;P1P1P1;Incoming Insp.;;;C35. Daligault, Gildas;2026-09-25;;2026-10-23;;Public;6;26W43;Aftermarket;PDRN
+1922563/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-23;;Public;6;26W43;Aftermarket;PDRN
+1922563/3000;P1P1P1;Production Released;;;C09. Machining;2026-09-25;;2026-10-23;;Public;6;26W43;Aftermarket;PDRN
+1922563/4000;P1P1P1;Available in Stock;;2026-07-20;C35. Daligault, Gildas;2026-09-25;;2026-10-23;;Public;6;26W47;Aftermarket;PDRN
 1922563/10000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Aftermarket;PDRN
 1922651/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922651/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
@@ -5886,7 +5886,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1922866/39000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/40000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/41000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
-1922866/42000;P1P1P1;Production Planned;;;C08. Machining;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
+1922866/42000;P1P1P1;Production Released;;;C08. Machining;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/43000;P1P1P1;Available in Stock;;;C24. Bazin, Sandrine;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/44000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/45000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
@@ -5906,7 +5906,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1922866/59000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/60000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/61000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
-1922866/62000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
+1922866/62000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/63000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/64000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/65000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
@@ -5998,57 +5998,57 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1922866/151000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/152000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
 1922866/153000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-12-17;;Public;4;26W51;Aftermarket;
-1922875/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/4000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/5000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/6000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/7000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/8000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/9000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/10000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/11000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/12000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/13000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/14000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/15000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/16000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/17000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/18000;P1P1P1;Production Released;;;C24. Bazin, Sandrine;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/19000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/20000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/21000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/22000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/23000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/24000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/25000;P1P1P1;Production Released;;;C24. Bazin, Sandrine;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/26000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/27000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/28000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/29000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/30000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/31000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/32000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/33000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/34000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/35000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/36000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/37000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/38000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/39000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/40000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/41000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/42000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/43000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/44000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/45000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/46000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/47000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/48000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/49000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/50000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
-1922875/51000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-09;;2026-10-30;;Public;4;26W44;Aftermarket;
+1922875/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/4000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/5000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/6000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/7000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/8000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/9000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/10000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/11000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/12000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/13000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/14000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/15000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/16000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/17000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/18000;P1P1P1;Production Released;;;C24. Bazin, Sandrine;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/19000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/20000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/21000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/22000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/23000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/24000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/25000;P1P1P1;Production Released;;;C24. Bazin, Sandrine;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/26000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/27000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/28000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/29000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/30000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/31000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/32000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/33000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/34000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/35000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/36000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/37000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/38000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/39000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/40000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/41000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/42000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/43000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/44000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/45000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/46000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/47000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/48000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/49000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/50000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
+1922875/51000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W44;Aftermarket;
 1922944/1000;P1P1P1;Purchase Confirmed;;2026-08-14;C35. Daligault, Gildas;2026-09-18;;2026-09-18;;Public;4;26W42;Aftermarket;PDRN
 1922944/3000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-08;;2026-10-16;;Public;4;26W43;Aftermarket;PDRN
 1922944/5000;P1P1P1;Purchase Confirmed;;2026-08-14;C35. Daligault, Gildas;2026-11-20;;2027-02-17;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -6076,19 +6076,19 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1923220/8000;P1P1P1;Purchase Requisition;;2026-07-15;C25. Bazin, Sandrine;2027-01-27;;2027-02-24;;Public;13;> Q4 2026;Commercial;32 Weeks
 1923220/9000;P1P1P1;Purchase Requisition;;2026-07-23;C24. Bazin, Sandrine;2027-01-27;;2027-02-24;;Public;13;> Q4 2026;Commercial;32 Weeks
 1923221/1000;P1P1SP;Purchase Requisition;;2026-07-16;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
-1923221/2000;P1P1P1;Purchase Ordered;;2026-07-15;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
+1923221/2000;P1P1P1;Purchase Requisition;;2026-07-15;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1923221/3000;P1P1P1;Purchase Requisition;;2026-07-15;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1923221/4000;P1P1P1;Purchase Requisition;;2026-07-15;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1923221/5000;P1P1P1;Purchase Requisition;;2026-07-23;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1923221/6000;P1P1P1;Purchase Ordered;;2026-07-15;C12. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1923221/7000;P1P1P1;Purchase Ordered;;2026-07-15;C12. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
-1923221/8000;P1P1P1;Purchase Requisition;;2026-07-15;C25. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
-1923221/9000;P1P1P1;Purchase Ordered;;2026-07-23;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
+1923221/8000;P1P1P1;Purchase Ordered;;2026-07-15;C25. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
+1923221/9000;P1P1P1;Purchase Requisition;;2026-07-23;C24. Bazin, Sandrine;2027-04-29;;2027-05-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1923252/1000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
 1923252/2000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
 1923252/3000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
 1923252/4000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
-1923260/1000;P1P1P1;Purchase Requisition;;2026-08-19;C25. Bazin, Sandrine;2026-12-17;;2027-01-07;;Assoco;6;OUT Q4 2026;Commercial;SDR WF#74423
+1923260/1000;P1P1P1;Purchase Ordered;;2026-08-19;C25. Bazin, Sandrine;2026-12-17;;2027-01-07;;Assoco;6;OUT Q4 2026;Commercial;SDR WF#74423
 1923266/1000;P1P1P1;Production Released;;2026-08-18;C08. Machining;2026-09-30;;2026-10-30;;Public;6;26W44;Aftermarket;PDRN
 1923266/2000;P1P1P1;Production Released;;;C08. Machining;2026-09-18;;2026-09-25;;Public;6;26W39;Aftermarket;PDRN
 1923266/3000;P1P1P1;Production Released;;;C08. Machining;2026-09-30;;2026-10-30;;Public;6;26W44;Aftermarket;PDRN
@@ -6105,10 +6105,10 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1923583/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-30;;2027-02-19;;Public;4;> Q4 2026;Aftermarket;PDRN
 1923583/2000;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;2026-10-30;;2027-02-19;;Public;4;> Q4 2026;Aftermarket;PDRN
 1923583/3000;P1P1P1;Shipping;;;C92. Daligault, Gildas;2026-09-11;;2026-09-11;;Public;4;26W40;Aftermarket;PDRN
-1923647/1000;P1P1P1;Production Planned;;2026-07-22;C26. Bazin, Sandrine;2026-10-07;;2026-11-02;;Public;4;26W45;Commercial;SDR WF#75333
+1923647/1000;P1P1P1;Purchase Confirmed;;2026-07-22;C26. Bazin, Sandrine;2026-10-07;;2026-11-02;;Public;4;26W45;Commercial;SDR WF#75333
 1923659/1000;P1P1P1;Production Ordered;;2026-07-22;C26. Bazin, Sandrine;2026-09-28;;2026-10-12;;Public;4;26W42;Commercial;SDR WF#76463
 1923679/3000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-25;;2026-11-20;;Public;4;26W47;Aftermarket;
-1923693/1000;P1P1P1;Production Planned;;2026-07-22;C25. Bazin, Sandrine;2026-10-07;;2026-11-09;;Public;4;26W46;Commercial;SDR WF#74780
+1923693/1000;P1P1P1;Production Ordered;;2026-07-22;C25. Bazin, Sandrine;2026-10-07;;2026-11-09;;Public;4;26W46;Commercial;SDR WF#74780
 1924012/1000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
 1924012/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
 1924015/1000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
@@ -6135,8 +6135,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1924806/1000;P1P1P1;Purchase Ordered;;2026-08-27;C03. Bazin, Sandrine;2027-06-25;;2027-09-17;;Assoco;13;> Q4 2026;Commercial;63 Weeks
 1924827/1000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;2026-09-04;;2026-09-11;;Public;13;WARRANTY;Warranty;
 1924827/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-04;;2026-09-11;;Public;13;WARRANTY;Warranty;
-1925048/1000;P1P1P1;Available in Stock;;;C08. Machining;2026-09-11;;2026-09-18;;Public;4;26W38;Aftermarket;
-1925048/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-30;;2026-09-30;;Public;4;26W40;Aftermarket;
+1925048/1000;P1P1P1;Available in Stock;;;C08. Machining;2026-10-07;;2026-10-07;;Public;4;26W38;Aftermarket;
+1925048/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-07;;2026-10-07;;Public;4;26W40;Aftermarket;
 1925098/1000;P1P1P1;Production Ordered;;2026-08-03;C24. Bazin, Sandrine;2026-09-21;;2026-09-28;;Assoco;6;26W42;Aftermarket;12Weeks
 1925133/1000;P1P1P1;Production Ordered;;;C10. Jacquelin, Estelle;2026-08-25;;2026-09-15;;Assoco;6;26W39;Commercial;
 1925175/1000;P1P1P1;Production Ordered;;2026-07-27;C02. Jacquelin, Estelle;2026-09-24;;2026-09-24;;Assoco;6;26W39;Aftermarket;7 Weeks
@@ -6224,7 +6224,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1925848/10000;P1P1P1;Purchase Confirmed;;2026-07-24;C26. Bazin, Sandrine;2026-09-28;;2026-10-07;;Public;6;26W42;Aftermarket;SDR WF#76592
 1925848/11000;P1P1P1;Purchase Confirmed;;2026-07-24;C26. Bazin, Sandrine;2026-09-28;;2026-10-07;;Public;6;26W42;Aftermarket;SDR WF#76592
 1925848/12000;P1P1P1;Purchase Confirmed;;2026-07-24;C26. Bazin, Sandrine;2026-09-28;;2026-10-07;;Public;6;26W42;Aftermarket;SDR WF#76592
-1925882/1000;P1P1SP;Purchase Requisition;;2026-07-31;C01. Masse, Mickael;2026-12-21;;2027-01-04;;Public;6;> Q4 2026;Commercial;SDR WF#72193
+1925882/1000;P1P1SP;Purchase Ordered;;2026-07-31;C01. Masse, Mickael;2026-12-21;;2027-01-04;;Public;6;> Q4 2026;Commercial;SDR WF#72193
 1925900/1000;P1P1P1;Production Released;;2026-07-25;C25. Bazin, Sandrine;2026-09-15;;2026-09-29;;Assoco;6;26W42;Aftermarket;12Weeks
 1925910/1000;P1P1P1;Purchase Ordered;;2026-08-20;C10. Jacquelin, Estelle;2026-12-24;;2027-01-29;;Public;13;> Q4 2026;Commercial;28 Weeks
 1925910/2000;P1P1P1;Purchase Ordered;;2026-08-20;C10. Jacquelin, Estelle;2026-12-24;;2027-01-29;;Public;13;> Q4 2026;Commercial;28 Weeks
@@ -6238,12 +6238,12 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1925962/4000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-09-30;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
 1925962/5000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-09-30;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
 1925962/6000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-09-30;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
-1925962/7000;P1P1P1;Production Planned;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
-1925962/8000;P1P1P1;Production Planned;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
-1925962/9000;P1P1P1;Production Planned;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
-1925962/10000;P1P1P1;Production Planned;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
-1925962/11000;P1P1P1;Production Planned;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
-1925962/12000;P1P1P1;Production Planned;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
+1925962/7000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
+1925962/8000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
+1925962/9000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
+1925962/10000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
+1925962/11000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
+1925962/12000;P1P1P1;Purchase Confirmed;;2026-07-27;C26. Bazin, Sandrine;2026-10-14;;2026-10-21;;Assoco;6;26W44;Aftermarket;14Weeks
 1926056/1000;P1P1P1;Purchase Requisition;;2026-08-21;C02. Jacquelin, Estelle;2026-11-23;;2026-12-07;;Public;13;4Q OPPS;Commercial;SDR WF#74817
 1926056/2000;P1P1P1;Purchase Requisition;;2026-08-21;C02. Jacquelin, Estelle;2026-11-23;;2026-12-07;;Public;13;4Q OPPS;Commercial;SDR WF#74817
 1926056/3000;P1P1P1;Purchase Requisition;;2026-08-21;C02. Jacquelin, Estelle;2026-11-23;;2026-12-07;;Public;13;4Q OPPS;Commercial;SDR WF#74817
@@ -6308,8 +6308,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1926852/2000;P1P1P1;Production Planned;;;C25. Bazin, Sandrine;2026-10-14;;2026-10-21;;Public;4;TO BE ANALYSED;Commercial;SDR WF#76916
 1926855/1000;P1P1P1;Purchase Confirmed;;2026-07-29;C02. Jacquelin, Estelle;2026-11-03;;2026-11-17;;Assoco;6;26W47;Aftermarket;8 Weeks
 1926855/2000;P1P1P1;Purchase Confirmed;;2026-07-29;C02. Jacquelin, Estelle;2026-11-03;;2026-11-17;;Assoco;6;26W47;Aftermarket;8 Weeks
-1926862/1000;P1P1P1;Production Planned;;2026-07-28;C02. Jacquelin, Estelle;2026-10-01;;2026-10-08;;Assoco;6;26W42;Aftermarket;8 Weeks
-1926862/2000;P1P1P1;Production Planned;;2026-07-28;C02. Jacquelin, Estelle;2026-10-01;;2026-10-08;;Assoco;6;26W42;Aftermarket;8 Weeks
+1926862/1000;P1P1P1;Purchase Confirmed;;2026-07-28;C02. Jacquelin, Estelle;2026-10-01;;2026-10-08;;Assoco;6;26W42;Aftermarket;8 Weeks
+1926862/2000;P1P1P1;Purchase Confirmed;;2026-07-28;C02. Jacquelin, Estelle;2026-10-01;;2026-10-08;;Assoco;6;26W42;Aftermarket;8 Weeks
 1926878/1000;P1P1RB;Purchase Confirmed;;2026-07-31;C24. Bazin, Sandrine;2026-10-07;;2026-10-22;;Public;4;26W43;Commercial;SDR WF#76919
 1926878/2000;P1P1P1;Production Ordered;;;C24. Bazin, Sandrine;2026-09-28;;2026-10-21;;Public;4;26W43;Commercial;SDR WF#76919
 1926884/1000;P1P1P1;Production Ordered;;2026-07-31;C02. Jacquelin, Estelle;2026-09-23;;2026-09-23;;Public;4;26W39;Aftermarket;8Weeks
@@ -6350,7 +6350,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1927292/3000;P1P1P1;Shipping;;2026-07-28;C24. Bazin, Sandrine;2026-08-26;;2026-09-02;;Assoco;13;26W38;Aftermarket;6Weeks
 1927292/4000;P1P1P1;Shipping;;2026-07-28;C24. Bazin, Sandrine;2026-08-26;;2026-09-02;;Assoco;13;26W38;Aftermarket;6Weeks
 1927369/1000;P1P1P1;Purchase Ordered;;2026-08-14;C33. Masse, Mickael;2027-01-07;;2027-01-21;;Public;4;> Q4 2026;Commercial;SDR WF#75800
-1927369/2000;P1P1P1;Purchase Requisition;;2026-08-14;C33. Masse, Mickael;2027-01-07;;2027-01-21;;Public;4;> Q4 2026;Commercial;SDR WF#75800
+1927369/2000;P1P1P1;Purchase Ordered;;2026-08-14;C33. Masse, Mickael;2027-01-07;;2027-01-21;;Public;4;> Q4 2026;Commercial;SDR WF#75800
 1927369/3000;P1P1P1;Purchase Confirmed;;2026-08-14;C30. Masse, Mickael;2026-12-24;;2027-01-21;;Public;4;> Q4 2026;Commercial;SDR WF#75800
 1927369/4000;P1P1P1;Purchase Confirmed;;2026-08-14;C30. Masse, Mickael;2026-12-24;;2027-01-21;;Public;4;> Q4 2026;Commercial;SDR WF#75800
 1927369/5000;P1P1SP;Purchase Confirmed;;2026-08-14;C24. Bazin, Sandrine;2026-12-17;;2027-01-21;;Public;4;> Q4 2026;Commercial;SDR WF#75800
@@ -6361,7 +6361,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1927664/1000;P1P1P1;Purchase Confirmed;;2026-08-02;C24. Bazin, Sandrine;2026-09-28;;2026-10-14;;Public;4;26W42;Aftermarket;12Weeks
 1927664/2000;P1P1P1;Shipping;;2026-08-02;C24. Bazin, Sandrine;2026-09-28;;2026-10-28;;Public;4;26W44;Aftermarket;12Weeks
 1927664/3000;P1P1P1;Purchase Confirmed;;2026-08-07;C02. Jacquelin, Estelle;2026-10-19;;2026-11-10;;Public;4;26W46;Aftermarket;12Weeks
-1927724/1000;P1P1P1;Purchase Requisition;;2026-08-07;C25. Bazin, Sandrine;2027-02-12;;2027-03-12;;Public;4;> Q4 2026;Aftermarket;SDR WF#75002
+1927724/1000;P1P1P1;Purchase Ordered;;2026-08-07;C25. Bazin, Sandrine;2027-02-12;;2027-03-12;;Public;4;> Q4 2026;Aftermarket;SDR WF#75002
 1927778/1000;P1P1RB;Purchase Requisition;;2026-08-26;C30. Masse, Mickael;2026-12-24;;2027-01-08;;Assoco;6;> Q4 2026;Commercial;24 WEEKS
 1927778/2000;P1P1P1;Purchase Requisition;;2026-08-26;C30. Masse, Mickael;2026-12-24;;2027-01-08;;Assoco;6;> Q4 2026;Commercial;24 WEEKS
 1927797/1000;P1P1P1;Purchase Confirmed;;2026-07-31;C26. Bazin, Sandrine;2026-10-07;;2026-10-16;;Assoco;6;26W43;Aftermarket;11Weeks
@@ -6374,12 +6374,12 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1927807/7000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-11-20;;2027-02-17;;Public;4;> Q4 2026;Aftermarket;PDRN
 1927807/8000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-11-20;;2027-02-17;;Public;4;> Q4 2026;Aftermarket;PDRN
 1927807/9000;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;2026-11-20;;2027-02-17;;Public;4;> Q4 2026;Aftermarket;PDRN
-1927823/1000;P1P1P1;Production Planned;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
-1927823/2000;P1P1P1;Production Planned;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
-1927823/3000;P1P1P1;Production Planned;;2026-07-30;C21. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
-1927823/4000;P1P1P1;Production Planned;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
-1927823/5000;P1P1P1;Production Planned;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
-1927823/6000;P1P1P1;Production Planned;;2026-07-30;C21. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
+1927823/1000;P1P1P1;Purchase Requisition;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
+1927823/2000;P1P1P1;Purchase Requisition;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
+1927823/3000;P1P1P1;Purchase Requisition;;2026-07-30;C21. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
+1927823/4000;P1P1P1;Purchase Requisition;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
+1927823/5000;P1P1P1;Purchase Requisition;;2026-07-30;C22. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
+1927823/6000;P1P1P1;Purchase Requisition;;2026-07-30;C21. Masse, Mickael;2026-12-14;;2026-12-30;;Public;4;26W53;Aftermarket;SDR WF#75916
 1927823/7000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Aftermarket;SDR WF#75916
 1927851/1000;P1P1SP;Purchase Ordered;;2026-07-30;C15. Masse, Mickael;2027-02-04;;2027-02-23;;Public;4;OUT Q4 2026;Commercial;SDR WF#77435
 1927851/2000;P1P1SP;Purchase Ordered;;2026-07-30;C15. Masse, Mickael;2027-02-04;;2027-02-23;;Public;4;OUT Q4 2026;Commercial;SDR WF#77435
@@ -6389,13 +6389,13 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1928030/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;> Q4 2026;Commercial;SDR WF#74900
 1928030/3000;P1P1RB;Purchase Requisition;;2026-08-07;C24. Bazin, Sandrine;2027-02-09;;2027-03-02;;Public;13;> Q4 2026;Commercial;SDR WF#74900
 1928046/1000;P1P1P1;Purchase Confirmed;;2026-08-07;C18. Masse, Mickael;2026-09-30;;2026-10-07;;Assoco;6;26W42;Aftermarket;EMAIL
-1928068/1000;P1P1P1;Production Planned;;2026-08-06;C10. Jacquelin, Estelle;2026-09-30;;2026-10-14;;Assoco;13;26W43;Commercial;SDR WF#75878
+1928068/1000;P1P1P1;Production Ordered;;2026-08-06;C10. Jacquelin, Estelle;2026-09-30;;2026-10-14;;Assoco;13;26W43;Commercial;SDR WF#75878
 1928073/1000;P1P1P1;Purchase Confirmed;;2026-08-05;C18. Masse, Mickael;2026-09-25;;2026-09-25;;Assoco;6;26W39;Aftermarket;EMAIL
 1928095/1000;P1P1P1;Purchase Confirmed;;2026-07-29;C35. Daligault, Gildas;2026-09-25;;2026-09-29;;Public;4;26W40;Aftermarket;10Weeks
 1928123/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-12-18;;2027-02-19;;Public;13;> Q4 2026;Aftermarket;
 1928135/1000;P1P1RN;Booking;ENGR;;C35. Daligault, Gildas;2027-12-01;;2028-02-09;;Assoco;13;> Q4 2026;Commercial;80Weeks
 1928167/1000;P1P1SP;Purchase Requisition;;2026-08-14;C27. Masse, Mickael;2027-02-19;;2027-03-08;;Public;13;> Q4 2026;Commercial;SDR WF#75899
-1928440/1000;P1P1P1;Production Planned;;;C24. Bazin, Sandrine;2026-10-16;;2026-10-28;;Public;4;26W45;Aftermarket;12Weeks
+1928440/1000;P1P1P1;Purchase Confirmed;;;C24. Bazin, Sandrine;2026-10-16;;2026-10-28;;Public;4;26W45;Aftermarket;12Weeks
 1928448/1000;P1P1P1;Purchase Confirmed;;2026-08-04;C24. Bazin, Sandrine;2026-10-07;;2026-10-22;;Assoco;6;26W50;Aftermarket;24 weeks
 1928472/1000;P1P1P1;Shipping;;;C02. Jacquelin, Estelle;2026-09-16;;2026-09-16;;Public;6;WARRANTY;Warranty;
 1928503/1000;P1P1P1;Production Ordered;;2026-08-06;C24. Bazin, Sandrine;2026-09-02;;2026-09-11;;Assoco;6;26W38;Aftermarket;12 Weeks
@@ -6460,8 +6460,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1929239/7000;P1P1P1;Purchase Requisition;;2026-08-17;C26. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
 1929239/8000;P1P1P1;Purchase Requisition;;2026-08-17;C26. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
 1929239/9000;P1P1P1;Purchase Requisition;;2026-08-17;C26. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
-1929239/10000;P1P1P1;Purchase Requisition;;2026-08-17;C25. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
-1929239/11000;P1P1P1;Purchase Requisition;;2026-08-17;C25. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
+1929239/10000;P1P1P1;Purchase Ordered;;2026-08-17;C25. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
+1929239/11000;P1P1P1;Purchase Ordered;;2026-08-17;C25. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
 1929239/12000;P1P1P1;Purchase Ordered;;2026-08-17;C24. Bazin, Sandrine;2027-04-16;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
 1929239/13000;P1P1P1;Purchase Ordered;;2026-08-17;C24. Bazin, Sandrine;2027-04-23;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
 1929239/14000;P1P1P1;Purchase Requisition;;2026-08-17;C24. Bazin, Sandrine;2027-04-23;;2027-05-19;;Public;4;> Q4 2026;Commercial;42 Weeks
@@ -6480,11 +6480,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1929311/3000;P1P1SP;Engineering;;2026-08-19;C30. Masse, Mickael;2027-04-22;;2027-05-20;;Public;6;> Q4 2026;Commercial;33Weeks
 1929311/4000;P1P1SP;Engineering;;2026-08-19;C30. Masse, Mickael;2027-04-22;;2027-05-20;;Public;6;> Q4 2026;Commercial;33Weeks
 1929311/5000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Commercial;33Weeks
-1929315/1000;P1P1P1;Production Planned;;2026-08-05;C24. Bazin, Sandrine;2026-10-07;;2026-10-21;;Public;4;26W43;Aftermarket;12 Weeks
+1929315/1000;P1P1P1;Purchase Confirmed;;2026-08-05;C24. Bazin, Sandrine;2026-10-07;;2026-10-21;;Public;4;26W43;Aftermarket;12 Weeks
 1929344/6000;P1P1PR;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-04;;2026-09-11;;Public;4;26W38;Aftermarket;
-1929383/1000;P1P1P1;Purchase Requisition;;2026-08-25;C22. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
-1929383/2000;P1P1P1;Purchase Requisition;;2026-08-25;C22. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
-1929383/3000;P1P1P1;Purchase Requisition;;2026-08-25;C22. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
+1929383/1000;P1P1P1;Purchase Ordered;;2026-08-25;C22. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
+1929383/2000;P1P1P1;Purchase Ordered;;2026-08-25;C22. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
+1929383/3000;P1P1P1;Purchase Ordered;;2026-08-25;C22. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
 1929383/4000;P1P1P1;Purchase Ordered;;2026-08-25;C21. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
 1929383/5000;P1P1P1;Purchase Requisition;;2026-08-25;C21. Masse, Mickael;2027-02-22;;2027-03-08;;Public;4;> Q4 2026;Commercial;SDR WF#69951
 1929682/1000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Nuclear;PDRN
@@ -6494,7 +6494,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1929688/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-30;;2026-11-20;;Public;4;26W47;Aftermarket;PDRN
 1929688/3000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-30;;2026-11-20;;Public;4;26W47;Aftermarket;PDRN
 1929688/4000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-30;;2026-11-20;;Public;4;26W47;Aftermarket;PDRN
-1929705/1000;P1P1P1;Production Planned;;2026-08-13;C10. Jacquelin, Estelle;2026-09-28;;2026-10-14;;Public;4;26W42;Commercial;SDR WF#75920
+1929705/1000;P1P1P1;Production Released;;2026-08-13;C10. Jacquelin, Estelle;2026-09-28;;2026-10-14;;Public;4;26W42;Commercial;SDR WF#75920
 1929708/1000;P1P1P1;Purchase Confirmed;;2026-08-14;C02. Jacquelin, Estelle;2026-10-01;;2026-10-01;;Public;4;26W40;Aftermarket;8Weeks
 1929708/2000;P1P1P1;Purchase Confirmed;;2026-08-14;C02. Jacquelin, Estelle;2026-10-01;;2026-10-01;;Public;4;26W40;Aftermarket;8Weeks
 1929741/1000;P1P1P1;Purchase Confirmed;;2026-08-15;C02. Jacquelin, Estelle;2026-10-22;;2026-11-27;;Public;4;26W48;Aftermarket;SDR WF#76251
@@ -6510,7 +6510,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1929745/8000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-01-18;;2027-01-25;;Public;13;> Q4 2026;Commercial;26 Weeks
 1929745/9000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;> Q4 2026;Commercial;26 Weeks
 1930011/1000;P1P1P1;Purchase Confirmed;;;C24. Bazin, Sandrine;2026-10-13;;2026-10-20;;Public;4;TO BE ANALYSED;Aftermarket;12 Weeks
-1930122/1000;P1P1P1;Purchase Requisition;;2026-08-18;C25. Bazin, Sandrine;2027-05-18;;2027-06-23;;Public;4;> Q4 2026;Commercial;42 Weeks
+1930122/1000;P1P1P1;Purchase Ordered;;2026-08-18;C25. Bazin, Sandrine;2027-05-18;;2027-06-23;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/2000;P1P1P1;Purchase Ordered;;2026-08-18;C25. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/3000;P1P1P1;Purchase Ordered;;2026-08-18;C25. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/4000;P1P1P1;Purchase Ordered;;2026-08-18;C24. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
@@ -6519,8 +6519,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1930122/7000;P1P1P1;Purchase Requisition;;2026-08-18;C26. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/8000;P1P1P1;Purchase Requisition;;2026-08-18;C26. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/9000;P1P1P1;Purchase Confirmed;;2026-08-18;C26. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
-1930122/10000;P1P1P1;Purchase Requisition;;2026-08-18;C25. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
-1930122/11000;P1P1P1;Purchase Requisition;;2026-08-18;C25. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
+1930122/10000;P1P1P1;Purchase Ordered;;2026-08-18;C25. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
+1930122/11000;P1P1P1;Purchase Ordered;;2026-08-18;C25. Bazin, Sandrine;2027-05-10;;2027-06-16;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/12000;P1P1P1;Purchase Requisition;;2026-08-18;C24. Bazin, Sandrine;2027-05-18;;2027-06-23;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/13000;P1P1P1;Purchase Requisition;;2026-08-19;C24. Bazin, Sandrine;2027-05-18;;2027-06-23;;Public;4;> Q4 2026;Commercial;42 Weeks
 1930122/14000;P1P1P1;Purchase Requisition;;2026-08-19;C24. Bazin, Sandrine;2027-04-26;;2027-05-26;;Public;4;> Q4 2026;Commercial;42 Weeks
@@ -6540,7 +6540,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1930442/3000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;PDRN
 1930442/4000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;PDRN
 1930477/1000;P1P1P1;Purchase Confirmed;;2026-08-14;C02. Jacquelin, Estelle;2026-11-20;;2026-12-04;;Public;6;26W50;Commercial;SDR WF#74302
-1930492/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-18;;2026-10-07;;Public;4;26W42;Aftermarket;
+1930492/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
 1930514/1000;P1P1P1;Purchase in Transit;;;C02. Jacquelin, Estelle;2026-09-24;;2026-10-13;;Public;4;26W42;Aftermarket;10 Weeks
 1930522/1000;P1P1P1;Purchase Confirmed;;;C25. Bazin, Sandrine;2026-10-16;;2026-10-23;;Public;4;TO BE ANALYSED;Aftermarket;12 WEEKS
 1930555/1000;P1P1P1;Purchase Confirmed;;;C24. Bazin, Sandrine;2026-10-12;;2026-10-26;;Public;4;TO BE ANALYSED;Aftermarket;12 Weeks
@@ -6584,7 +6584,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1930943/3000;P1P1P1;Purchase Confirmed;;2026-08-19;C25. Bazin, Sandrine;2026-11-16;;2026-12-01;;Public;6;26W49;Commercial;SDR WF#77339
 1930943/4000;P1P1P1;Purchase Confirmed;;2026-08-19;C25. Bazin, Sandrine;2026-11-16;;2026-12-01;;Public;6;26W49;Commercial;SDR WF#77339
 1930943/5000;P1P1P1;Purchase Confirmed;;2026-08-19;C25. Bazin, Sandrine;2026-11-16;;2026-12-01;;Public;6;26W49;Commercial;SDR WF#77339
-1930985/1000;P1P1P1;Production Planned;;;C25. Bazin, Sandrine;2026-09-29;;2026-09-29;;Public;4;TO BE ANALYSED;Commercial;SDR WF#78339
+1930985/1000;P1P1P1;Purchase Confirmed;;;C25. Bazin, Sandrine;2026-09-29;;2026-09-29;;Public;4;TO BE ANALYSED;Commercial;SDR WF#78339
 1931240/1000;P1P1ZZ;Engineering;ENGR;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;PDRN
 1931240/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;PDRN
 1931240/3000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;PDRN
@@ -6705,9 +6705,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1933187/1000;P1P1SP;Purchase Requisition;;2026-09-10;C17. Masse, Mickael;2027-02-26;;2027-03-26;;Public;6;> Q4 2026;Commercial;SDR WF#77250
 1933187/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Commercial;SDR WF#77250
 1933202/1000;P1P1SP;Engineering;;2026-09-15;C10. Jacquelin, Estelle;2026-10-22;;2026-11-05;;Public;6;ENG;Commercial;8 WEEKS
-1933475/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-21;;2026-11-12;;Public;4;26W46;Aftermarket;
-1933475/2000;P1P1P1;Available in Stock;;;C07. Jacquelin, Estelle;2026-10-21;;2026-11-12;;Public;4;26W46;Aftermarket;
-1933475/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-21;;2026-11-12;;Public;4;26W46;Aftermarket;
+1933475/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W46;Aftermarket;
+1933475/2000;P1P1P1;Available in Stock;;;C07. Jacquelin, Estelle;2026-09-25;;2026-09-25;;Public;4;26W46;Aftermarket;
+1933475/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W46;Aftermarket;
 1933496/1000;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;;;;;Public;4;> Q4 2026;Aftermarket;PDRN
 1933496/2000;P1P1P1;Purchase Ordered;;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Aftermarket;PDRN
 1933496/3000;P1P1P1;Production Planned;;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Aftermarket;PDRN
@@ -6719,20 +6719,20 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1933552/3000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-18;;2026-09-25;;Public;4;26W42;Aftermarket;PDRN
 1933552/4000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-18;;2026-09-25;;Public;4;26W42;Aftermarket;PDRN
 1933552/5000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Aftermarket;PDRN
-1933558/1000;P1P1P1;Production Planned;;;C92. Daligault, Gildas;2026-09-25;;2026-10-28;;Public;4;26W44;Aftermarket;PDRN
+1933558/1000;P1P1P1;Purchase Ordered;;;C92. Daligault, Gildas;2026-09-25;;2026-10-28;;Public;4;26W44;Aftermarket;PDRN
 1933558/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;CHARGES;Aftermarket;PDRN
-1933564/49000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/50000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/51000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/52000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/53000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/54000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/55000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/56000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/57000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/58000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/59000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
-1933564/60000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-16;;Public;4;26W42;Aftermarket;
+1933564/49000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/50000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/51000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/52000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/53000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/54000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/55000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/56000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/57000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/58000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/59000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
+1933564/60000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-09-25;;Public;4;26W42;Aftermarket;
 1933616/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-23;;2026-11-20;;Public;4;26W47;Aftermarket;
 1933616/2000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2026-10-23;;2026-11-20;;Public;4;26W47;Aftermarket;
 1933616/3000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-23;;2026-11-20;;Public;4;26W47;Aftermarket;
@@ -6784,7 +6784,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1933616/49000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
 1933616/50000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
 1933616/51000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
-1933616/52000;P1P1P1;Production Planned;;2026-08-19;C92. Daligault, Gildas;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
+1933616/52000;P1P1P1;Production Ordered;;2026-08-19;C92. Daligault, Gildas;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
 1933616/53000;P1P1P1;External Operation;;2026-08-19;C08. Machining;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
 1933616/54000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
 1933616/55000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-25;;2026-10-29;;Public;4;26W44;Aftermarket;
@@ -6911,7 +6911,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1934363/1000;P1P1SP;Purchase Confirmed;;2026-08-28;C26. Bazin, Sandrine;2026-10-19;;2026-11-04;;Public;4;26W45;Commercial;SDR WF#78344
 1934504/1000;P1P1P1;Production Planned;;2026-08-24;C26. Bazin, Sandrine;2026-10-21;;2026-11-04;;Assoco;13;26W46;Commercial;14 Weeks
 1934642/1000;P1P1SP;Booking;ENGR;;C23. Masse, Mickael;2027-05-11;;2027-05-25;;Public;13;> Q4 2026;Commercial;SDR WF#78485
-1934654/1000;P1P1P1;Production Planned;;2026-08-27;C10. Jacquelin, Estelle;2026-10-12;;2026-10-28;;Public;6;26W45;Commercial;SDR WF#67094
+1934654/1000;P1P1P1;Purchase Confirmed;;2026-08-27;C10. Jacquelin, Estelle;2026-10-12;;2026-10-28;;Public;6;26W45;Commercial;SDR WF#67094
 1934720/1000;P1P1P1;Available in Stock;;;C08. Machining;2026-09-23;;2026-09-30;;Assoco;6;26W42;Aftermarket;
 1934734/1000;P1P1P1;Purchase Confirmed;;2026-08-24;C25. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
 1934734/2000;P1P1P1;Purchase Ordered;;2026-08-24;C12. Bazin, Sandrine;2027-04-02;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
@@ -6926,8 +6926,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1934734/11000;P1P1P1;Purchase Requisition;;2026-08-24;C24. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
 1934734/12000;P1P1P1;Purchase Requisition;;2026-08-24;C24. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
 1934734/13000;P1P1P1;Purchase Requisition;;2026-08-24;C24. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
-1934734/14000;P1P1P1;Purchase Requisition;;2026-08-25;C25. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
-1934734/15000;P1P1P1;Purchase Requisition;;2026-08-25;C25. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
+1934734/14000;P1P1P1;Purchase Ordered;;2026-08-25;C25. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
+1934734/15000;P1P1P1;Purchase Ordered;;2026-08-25;C25. Bazin, Sandrine;2027-03-26;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
 1934734/16000;P1P1P1;Purchase Ordered;;2026-08-25;C24. Bazin, Sandrine;2027-04-02;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
 1934734/17000;P1P1P1;Purchase Ordered;;2026-08-25;C24. Bazin, Sandrine;2027-04-02;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
 1934734/18000;P1P1P1;Purchase Ordered;;2026-08-25;C24. Bazin, Sandrine;2027-04-02;;2027-04-28;;Public;4;> Q4 2026;Commercial;36 Weeks
@@ -6974,7 +6974,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1935890/10000;P1P1P1;Purchase Ordered;;2026-08-27;C19. Masse, Mickael;2027-01-18;;2027-01-28;;Public;4;> Q4 2026;Commercial;29 Weeks
 1935890/11000;P1P1P1;Purchase Requisition;;2026-08-27;C19. Masse, Mickael;2027-01-18;;2027-01-28;;Public;4;> Q4 2026;Commercial;29 Weeks
 1935890/12000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;4;> Q4 2026;Commercial;29 Weeks
-1935916/1000;P1P1P1;Production Planned;;2026-09-02;C02. Jacquelin, Estelle;2026-10-07;;2026-10-20;;Public;4;26W43;Commercial;8 WEEKS
+1935916/1000;P1P1P1;Production Released;;2026-09-02;C02. Jacquelin, Estelle;2026-10-07;;2026-10-20;;Public;4;26W43;Commercial;8 WEEKS
 1936176/1000;P1P1P1;Purchase Requisition;;2026-09-04;C25. Bazin, Sandrine;2026-12-14;;2027-02-23;;Public;6;> Q4 2026;Aftermarket;26 WEEKS
 1936176/2000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;26 WEEKS
 1936181/1000;P1P1P1;Purchase Requisition;;2026-09-15;C10. Jacquelin, Estelle;2027-01-26;;2027-03-09;;Public;13;> Q4 2026;Commercial;SDR WF#78251
@@ -7078,7 +7078,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1936372/6000;P1P1P1;Purchase Requisition;;2026-08-31;C24. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1936372/7000;P1P1P1;Purchase Requisition;;2026-08-28;C24. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1936372/8000;P1P1P1;Purchase Requisition;;2026-08-28;C12. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
-1936372/9000;P1P1P1;Purchase Ordered;;2026-08-28;C12. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
+1936372/9000;P1P1P1;Purchase Requisition;;2026-08-28;C12. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1936372/10000;P1P1P1;Purchase Requisition;;2026-08-31;C25. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1936372/11000;P1P1P1;Purchase Requisition;;2026-08-31;C25. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
 1936372/12000;P1P1P1;Purchase Requisition;;2026-08-31;C24. Bazin, Sandrine;2027-03-30;;2027-04-27;;Public;13;> Q4 2026;Commercial;40 Weeks
@@ -7244,7 +7244,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1937032/144000;P1P1SP;Purchase Requisition;;2026-09-07;C12. Bazin, Sandrine;2027-01-11;;2027-02-01;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
 1937032/145000;P1P1P1;Purchase Requisition;;2026-09-07;C30. Masse, Mickael;2026-12-21;;2027-01-11;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
 1937032/146000;P1P1P1;Purchase Confirmed;;2026-09-07;C16. Masse, Mickael;2026-12-21;;2027-01-11;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
-1937032/147000;P1P1P1;Production Planned;;2026-09-07;C16. Masse, Mickael;2026-12-21;;2027-01-11;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
+1937032/147000;P1P1P1;Purchase Requisition;;2026-09-07;C16. Masse, Mickael;2026-12-21;;2027-01-11;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
 1937032/148000;P1P1P1;Purchase Confirmed;;2026-09-07;C14. Masse, Mickael;2026-12-21;;2027-01-11;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
 1937032/149000;P1P1RB;Purchase Confirmed;;;C25. Bazin, Sandrine;2026-12-07;;2027-01-11;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
 1937032/150000;P1P1RB;Purchase Confirmed;;;C25. Bazin, Sandrine;2026-12-07;;2027-01-11;;Public;4;> Q4 2026;Aftermarket;8 WEEKS
@@ -7270,8 +7270,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1937157/9000;P1P1PR;Purchase Confirmed;;;C35. Daligault, Gildas;2026-09-25;;2026-10-30;;Public;4;26W44;Aftermarket;
 1937348/1010;P1P1SP;Purchase Confirmed;;2026-09-14;C02. Jacquelin, Estelle;2026-10-29;;2026-11-12;;Public;4;ENG;Aftermarket;NUC
 1937348/2020;P1P1SP;Purchase Confirmed;;2026-09-14;C02. Jacquelin, Estelle;2026-10-29;;2026-11-12;;Public;4;ENG;Aftermarket;NUC
-1937359/1000;P1P1P1;Purchase Requisition;;2026-09-11;C10. Jacquelin, Estelle;2026-11-05;;2026-11-19;;Public;4;ENG;Commercial;12 WEEKS
-1937359/2000;P1P1P1;Purchase Requisition;;2026-09-11;C10. Jacquelin, Estelle;2026-11-05;;2026-11-19;;Public;4;ENG;Commercial;12 WEEKS
+1937359/1000;P1P1P1;Purchase Ordered;;2026-09-11;C10. Jacquelin, Estelle;2026-11-05;;2026-11-19;;Public;4;ENG;Commercial;12 WEEKS
+1937359/2000;P1P1P1;Purchase Ordered;;2026-09-11;C10. Jacquelin, Estelle;2026-11-05;;2026-11-19;;Public;4;ENG;Commercial;12 WEEKS
 1937389/1000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;13;ENG;Aftermarket;PDRN
 1937389/2000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;13;ENG;Aftermarket;PDRN
 1937389/3000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;13;ENG;Aftermarket;PDRN
@@ -7303,7 +7303,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1937455/2000;P1P1P1;Purchase Ordered;;2026-09-08;C26. Bazin, Sandrine;2026-12-09;;2026-12-23;;Public;6;TO BE ANALYSED;Commercial;SDR WF#79648
 1937455/3000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;6;CHARGES;Commercial;SDR WF#79648
 1937527/1000;P1P1SP;Purchase Requisition;;2026-09-11;C21. Masse, Mickael;2026-12-07;;2026-12-21;;Public;4;CHARGES;Commercial;SDR WF#79534
-1937800/1000;P1P1SP;;;2026-09-09;C05. Masse, Mickael;;;;;Public;13;> Q4 2026;Commercial;SDR WF#52586
+1937800/1000;P1P1SP;Purchase Requisition;;2026-09-09;C05. Masse, Mickael;;;;;Public;13;> Q4 2026;Commercial;SDR WF#52586
 1937802/1010;P1P1SP;Purchase Ordered;;2026-09-16;C02. Jacquelin, Estelle;2026-10-21;;2026-11-04;;Public;4;;Aftermarket;NUC
 1937838/1000;P1P1P1;Engineering;ENGR;;C92. Daligault, Gildas;;;;;Public;13;> Q4 2026;Aftermarket;PDRN
 1937854/1000;P1P1P1;Production Planned;;;C35. Daligault, Gildas;;;;;Public;13;> Q4 2026;Aftermarket;PDRN
@@ -7321,8 +7321,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1937908/1000;P1P1SP;Purchase Requisition;;2026-09-09;C05. Masse, Mickael;2027-03-15;;2027-03-26;;Public;6;> Q4 2026;Aftermarket;30 WEEKS
 1937908/2000;P1P1SP;Engineering;ENGR;;C05. Masse, Mickael;2027-03-15;;2027-03-26;;Public;6;> Q4 2026;Aftermarket;30 WEEKS
 1937908/3000;P1P1SP;Engineering;ENGR;;C05. Masse, Mickael;2027-03-15;;2027-03-26;;Public;6;> Q4 2026;Aftermarket;30 WEEKS
-1937945/1000;P1P1SP;Purchase Requisition;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937945/2000;P1P1P1;Purchase Requisition;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937945/1000;P1P1SP;Purchase Ordered;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937945/2000;P1P1P1;Purchase Ordered;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937945/3000;P1P1P1;Purchase Requisition;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937945/4000;P1P1P1;Purchase Requisition;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937945/5000;P1P1P1;Purchase Requisition;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
@@ -7330,9 +7330,9 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1937945/7000;P1P1P1;Purchase Ordered;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937945/8000;P1P1P1;Purchase Ordered;;2026-09-02;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937945/9000;P1P1P1;Purchase Ordered;;2026-09-02;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937945/10000;P1P1P1;Purchase Requisition;;2026-09-02;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937945/11000;P1P1P1;Purchase Requisition;;2026-09-02;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937945/12000;P1P1P1;Purchase Ordered;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937945/10000;P1P1P1;Purchase Ordered;;2026-09-02;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937945/11000;P1P1P1;Purchase Ordered;;2026-09-02;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937945/12000;P1P1P1;Purchase Requisition;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937945/13000;P1P1P1;Purchase Ordered;;2026-09-02;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937946/1000;P1P1SP;Purchase Ordered;;2026-09-03;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937946/2000;P1P1P1;Purchase Ordered;;2026-09-03;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
@@ -7343,8 +7343,8 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1937946/7000;P1P1P1;Purchase Ordered;;2026-09-04;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937946/8000;P1P1P1;Purchase Ordered;;2026-09-04;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937946/9000;P1P1P1;Purchase Ordered;;2026-09-04;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937946/10000;P1P1P1;Purchase Requisition;;2026-09-04;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937946/11000;P1P1P1;Purchase Requisition;;2026-09-04;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937946/10000;P1P1P1;Purchase Ordered;;2026-09-04;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937946/11000;P1P1P1;Purchase Ordered;;2026-09-04;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937946/12000;P1P1P1;Purchase Ordered;;2026-09-04;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937946/13000;P1P1P1;Purchase Ordered;;2026-09-04;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937947/1000;P1P1SP;Purchase Ordered;;2026-09-04;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
@@ -7386,19 +7386,19 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1937949/11000;P1P1P1;Purchase Confirmed;;2026-09-08;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937949/12000;P1P1P1;Purchase Ordered;;2026-09-08;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937949/13000;P1P1P1;Purchase Ordered;;2026-09-08;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/1000;P1P1SP;;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/1000;P1P1SP;Purchase Ordered;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937950/2000;P1P1P1;Purchase Ordered;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/3000;P1P1P1;;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/4000;P1P1P1;;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/3000;P1P1P1;Purchase Requisition;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/4000;P1P1P1;Purchase Requisition;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937950/5000;P1P1P1;Purchase Requisition;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1937950/6000;P1P1P1;Purchase Requisition;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/7000;P1P1P1;;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/8000;P1P1P1;;;2026-09-09;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/9000;P1P1P1;;;2026-09-09;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/10000;P1P1P1;;;2026-09-09;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/11000;P1P1P1;;;2026-09-09;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/12000;P1P1P1;;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
-1937950/13000;P1P1P1;;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/7000;P1P1P1;Purchase Ordered;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/8000;P1P1P1;Purchase Confirmed;;2026-09-09;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/9000;P1P1P1;Purchase Confirmed;;2026-09-09;C12. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/10000;P1P1P1;Purchase Confirmed;;2026-09-09;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/11000;P1P1P1;Purchase Confirmed;;2026-09-09;C25. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/12000;P1P1P1;Purchase Ordered;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
+1937950/13000;P1P1P1;Purchase Ordered;;2026-09-09;C24. Bazin, Sandrine;;;;;Public;13;> Q4 2026;Commercial;VS_40W
 1938018/1000;P1P1RB;Purchase Requisition;;2026-09-16;C24. Bazin, Sandrine;2027-04-09;;2027-04-23;;Public;13;> Q4 2026;Commercial;SDR WF#69344
 1938018/2000;P1P1SP;Engineering;;2026-09-11;C17. Masse, Mickael;2027-04-09;;2027-04-23;;Public;13;> Q4 2026;Commercial;SDR WF#69344
 1938018/3000;P1P1SP;Purchase Requisition;;2026-09-11;C17. Masse, Mickael;2027-04-09;;2027-04-23;;Public;13;> Q4 2026;Commercial;SDR WF#69344
@@ -7446,7 +7446,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1938762/7000;P1P1SP;Purchase Requisition;;2026-09-10;C24. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
 1938762/8000;P1P1P1;Purchase Ordered;;2026-09-10;C12. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
 1938762/9000;P1P1P1;Purchase Ordered;;2026-09-14;C12. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
-1938762/10000;P1P1P1;Purchase Requisition;;2026-09-14;C25. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
+1938762/10000;P1P1P1;Purchase Ordered;;2026-09-14;C25. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
 1938762/11000;P1P1SP;Purchase Confirmed;;2026-09-14;C25. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
 1938762/12000;P1P1SP;Production Planned;;2026-09-14;C24. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
 1938762/13000;P1P1SP;Production Planned;;2026-09-14;C24. Bazin, Sandrine;2027-05-21;;2027-06-18;;Public;13;> Q4 2026;Commercial;VS_40W
@@ -7527,27 +7527,27 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1939566/21000;P1P1P1;Charges;;;C35. Daligault, Gildas;;;;;Public;13;CHARGES;Commercial;VS_10W
 1939566/22000;P1P1P1;Charges;;;C92. Daligault, Gildas;;;;;Public;13;CHARGES;Commercial;VS_10W
 1939602/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/2000;P1P1P1;;;;C08. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/2000;P1P1P1;Production Planned;;;C08. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/3010;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;
-1939602/4000;P1P1P1;;;;C08. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/4000;P1P1P1;Production Planned;;;C08. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/5000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/6000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;
+1939602/6000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;
 1939602/7000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/8000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;
 1939602/9000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/10000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;
-1939602/11000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/12000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/13000;P1P1P1;;;;C09. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/14000;P1P1P1;;;;C09. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/15000;P1P1SP;;;2026-09-07;C92. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/15010;P1P1SP;;;2026-09-07;C92. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/15020;P1P1SP;;;2026-09-07;C92. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/16000;P1P1P1;;;;C08. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/17000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/10000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;
+1939602/11000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/12000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/13000;P1P1P1;Production Planned;;;C09. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/14000;P1P1P1;Purchase Ordered;;;C09. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/15000;P1P1SP;Production Planned;;2026-09-07;C92. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/15010;P1P1SP;Production Planned;;2026-09-07;C92. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/15020;P1P1SP;Production Planned;;2026-09-07;C92. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/16000;P1P1P1;Production Planned;;;C08. Machining;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/17000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/18000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;> Q4 2026;Aftermarket;
-1939602/19000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/20000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/19000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/20000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/21000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/22000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/23000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
@@ -7555,7 +7555,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1939602/25000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/26000;P1P1P1;Production Ordered;;;C92. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/27000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
-1939602/28000;P1P1P1;;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
+1939602/28000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/29000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/30000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
 1939602/31000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;TO BE ANALYSED;Aftermarket;
@@ -7840,7 +7840,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 1941508/16000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-10-07;;Public;4;;Aftermarket;
 1941508/17000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-10-01;;2026-10-07;;Public;4;;Aftermarket;
 1941508/18000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-10-07;;Public;4;;Aftermarket;
-1941508/19000;P1P1P1;Production Planned;;;C08. Machining;2026-11-12;;2026-11-18;;Public;4;;Aftermarket;
+1941508/19000;P1P1P1;Production Released;;;C08. Machining;2026-11-12;;2026-11-18;;Public;4;;Aftermarket;
 1941508/20000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-10-07;;Public;4;;Aftermarket;
 1941508/21000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-10-07;;Public;4;;Aftermarket;
 1941508/22000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-30;;2026-10-07;;Public;4;;Aftermarket;
@@ -8108,11 +8108,11 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 46240312/3000;P1P1SP;;;;C08. Machining;;;;;Assoco;13;;Aftermarket;
 46240312/4000;P1P1P1;;;;C92. Daligault, Gildas;;;;;Assoco;13;;Aftermarket;
 46240312/5000;P1P1P1;;;;C10. Jacquelin, Estelle;;;;;Assoco;13;;Aftermarket;
-46240316/1000;P1P1P1;;;;C08. Machining;;;;;Assoco;13;;Aftermarket;
+46240316/1000;P1P1P1;Production Planned;;;C08. Machining;;;;;Assoco;13;;Aftermarket;
 46240356/1000;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;;;;;Public;6;;Aftermarket;
 46240366/1000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;;Aftermarket;
 46240366/2000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;;Aftermarket;
-46240366/3000;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;;;;;Public;6;;Aftermarket;
+46240366/3000;P1P1P1;Purchase Ordered;;;C35. Daligault, Gildas;;;;;Public;6;;Aftermarket;
 46240461/1000;P1P1P1;Booking;;;C09. Machining;;;;;Public;6;;Aftermarket;
 46240466/1000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;;Aftermarket;
 46240466/2000;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;;;;;Public;6;;Aftermarket;
@@ -8353,7 +8353,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 6050719891/50;P1P1P1;Available in Stock;;;C10. Jacquelin, Estelle;2026-09-16;;2026-09-16;;Assoco;6;> Q4 2026;Aftermarket;
 6050720318/10;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-01-26;;2027-01-26;;Assoco;13;> Q4 2026;Aftermarket;
 6050720416/10;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-02-10;;2027-02-10;;Assoco;13;> Q4 2026;Aftermarket;
-6050720416/20;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-07;;2027-04-07;;Assoco;13;> Q4 2026;Aftermarket;
+6050720416/20;P1P1P1;Purchase in Transit;;;C35. Daligault, Gildas;2027-04-07;;2027-04-07;;Assoco;13;> Q4 2026;Aftermarket;
 6050720641/10;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-12-29;;2026-12-29;;Assoco;13;26W53;Aftermarket;
 6050720641/20;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2027-01-20;;2027-01-20;;Assoco;13;> Q4 2026;Aftermarket;
 6050720663/10;P1P1P1;;;;C35. Daligault, Gildas;2026-09-09;;2026-09-09;;Assoco;13;26W38;Aftermarket;
@@ -8378,7 +8378,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 6050722194/40;P1P1P1;;;;C35. Daligault, Gildas;2026-09-14;;2026-09-14;;Assoco;13;26W38;Aftermarket;
 6050722207/10;P1P1P1;Available in Stock;;;C26. Bazin, Sandrine;2026-10-21;;2026-10-21;;Assoco;13;26W43;Aftermarket;
 6050722247/10;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-15;;2026-09-15;;Assoco;13;26W38;Aftermarket;
-6050722266/10;P1P1P1;Purchase Confirmed;;;C35. Daligault, Gildas;2027-04-21;;2027-04-21;;Assoco;13;> Q4 2026;Aftermarket;
+6050722266/10;P1P1P1;Purchase in Transit;;;C35. Daligault, Gildas;2027-04-21;;2027-04-21;;Assoco;13;> Q4 2026;Aftermarket;
 6050722354/10;P1P1P1;;;;C35. Daligault, Gildas;2026-09-15;;2026-09-15;;Assoco;6;26W38;Aftermarket;
 6050722357/10;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-15;;2026-09-15;;Assoco;6;26W38;Aftermarket;
 6050722362/10;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-15;;2026-09-15;;Assoco;13;26W38;Aftermarket;
@@ -8405,7 +8405,7 @@ CODE;MATSTA;STAGE;ENGBLK;ENGREL;MRPCTRL;SMAD;SMADPER;PMAD;PMADPER;CUSTCLASS;LAG;
 6050723182/30;P1P1P1;Purchase Requisition;;;C08. Machining;2026-11-30;;2026-11-30;;Assoco;13;26W49;Aftermarket;
 6050723182/40;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-11-20;;2026-11-20;;Assoco;13;26W47;Aftermarket;
 6050723182/50;P1P1P1;Production Planned;;;C35. Daligault, Gildas;2027-01-22;;2027-01-22;;Assoco;13;> Q4 2026;Aftermarket;
-6050723182/60;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;2026-11-25;;2026-11-25;;Assoco;13;26W48;Aftermarket;
+6050723182/60;P1P1P1;Purchase Ordered;;;C35. Daligault, Gildas;2026-11-25;;2026-11-25;;Assoco;13;26W48;Aftermarket;
 6050723182/70;P1P1P1;Purchase Requisition;;;C35. Daligault, Gildas;2026-11-07;;2026-11-07;;Assoco;13;26W45;Aftermarket;
 6050723269/10;P1P1P1;Available in Stock;;;C35. Daligault, Gildas;2026-09-17;;2026-09-17;;Assoco;13;26W38;Aftermarket;
 6050723296/10;P1P1P1;Purchase Confirmed;;;C92. Daligault, Gildas;2026-10-16;;2026-10-16;;Assoco;6;26W38;Aftermarket;
